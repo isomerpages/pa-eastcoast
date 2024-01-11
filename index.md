@@ -13,18 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: East Coast
+        - title: Green
           description: Important highlight A is important
           url: https://google.com
-        - title: Bedok
+        - title: Vibrant
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Changi Simei
+        - title: Caring
           description: Page A is important too
           url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
