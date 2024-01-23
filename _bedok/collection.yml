@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - What's Up.md
-      - Bedok Highlights.md
+      - Highlights.md
       - Bedok.md
