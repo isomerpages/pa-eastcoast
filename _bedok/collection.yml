@@ -2,5 +2,6 @@ collections:
   bedok:
     output: true
     order:
+      - Bedok What's Up.md
       - Bedok Highlights.md
       - Bedok.md
