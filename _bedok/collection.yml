@@ -2,6 +2,7 @@ collections:
   bedok:
     output: true
     order:
+      - Contact Us.md
       - What's Up.md
       - Highlights.md
       - Bedok.md
