@@ -1,4 +1,5 @@
 collections:
   bedok:
     output: true
-    order: []
+    order:
+      - Bedok.md
