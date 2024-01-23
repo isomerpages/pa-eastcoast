@@ -9,7 +9,7 @@ sections:
   - hero:
       title: East Coast
       subtitle: Home to the sunny side
-      background: /images/hero-banner.png
+      background: /images/DSCF6964_compressed.JPG
       variant: center
       button: Home
       url: /home
