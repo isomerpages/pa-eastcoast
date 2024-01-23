@@ -1,4 +1,5 @@
 collections:
   sample:
     output: true
-    order: []
+    order:
+      - New Page.md
