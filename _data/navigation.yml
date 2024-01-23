@@ -8,3 +8,5 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: New folder
+    collection: sample
