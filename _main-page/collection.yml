@@ -1,4 +1,5 @@
 collections:
   main-page:
     output: true
-    order: []
+    order:
+      - Caring.md
