@@ -2,5 +2,5 @@ collections:
   bedok:
     output: true
     order:
-      - Bedok Courses.md
+      - Bedok Highlights.md
       - Bedok.md
