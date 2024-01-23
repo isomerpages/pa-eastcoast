@@ -1,0 +1,4 @@
+collections:
+  bedok:
+    output: true
+    order: []
