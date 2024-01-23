@@ -7,12 +7,16 @@ permalink: /
 notification: Welcome to the sunny side!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: East Coast
+      subtitle: Home to the sunny side
       background: /images/hero-banner.png
       variant: center
       button: Home
       url: /home
+      key_highlights:
+        - title: Find out how to volunteer with us
+          description: Make a difference!
+          url: /contact us
   - infobar:
       title: Infobar title
       subtitle: Subtitle
