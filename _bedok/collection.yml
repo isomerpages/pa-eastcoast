@@ -1,0 +1,8 @@
+collections:
+  bedok:
+    output: true
+    order:
+      - Bedok.md
+      - Highlights.md
+      - What's Up.md
+      - Contact Us.md

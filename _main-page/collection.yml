@@ -1,0 +1,5 @@
+collections:
+  main-page:
+    output: true
+    order:
+      - Caring.md

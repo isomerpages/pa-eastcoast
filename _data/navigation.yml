@@ -1,0 +1,74 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Home
+    url: /home
+    sublinks:
+      - title: About us
+        url: /home
+      - title: Green
+        url: /green
+      - title: Caring
+        url: /caring
+      - title: Vibrant
+        url: /vibrant
+      - title: Volunteer with us!
+        url: /volunteerwithus
+  - title: Bedok
+    url: /bedok-home
+    sublinks:
+      - title: About us
+        url: /bedok-home
+      - title: Highlights
+        url: /bedok-highlights
+      - title: What's up
+        url: /bedok-whatsup
+      - title: Contact us
+        url: /bedok-contactus
+  - title: Changi Simei
+    url: /cs-home
+    sublinks:
+      - title: About us
+        url: /cs-home
+      - title: Highlights
+        url: /cs-highlights
+      - title: What's up
+        url: /cs-whatsup
+      - title: Contact us
+        url: /cs-contactus
+  - title: Fengshan
+    url: /fengshan-home
+    sublinks:
+      - title: About us
+        url: /fengshan-home
+      - title: Highlights
+        url: /fengshan-highlights
+      - title: What's up
+        url: /fengshan-highlights
+      - title: Contact us
+        url: /fengshan-contactus
+  - title: Kampong Chai Chee
+    url: /kcc-home
+    sublinks:
+      - title: About us
+        url: /kcc-home
+      - title: Highlights
+        url: /kcc-highlights
+      - title: What's up
+        url: /kcc-whatsup
+      - title: Contact us
+        url: /kcc-contactus
+  - title: Siglap
+    url: /siglap-home
+    sublinks:
+      - title: About us
+        url: /siglap-home
+      - title: Highlights
+        url: /siglap-highlights
+      - title: What's up
+        url: /siglap-whatsup
+      - title: Contact us
+        url: /siglap-contactus
+      - title: New submenu
+        url: /permalink
+  - title: Contact us
+    url: /contactus
