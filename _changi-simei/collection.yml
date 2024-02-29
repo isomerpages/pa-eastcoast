@@ -2,7 +2,7 @@ collections:
   changi-simei:
     output: true
     order:
-      - Changi Simei Contact us.md
-      - Changi Simei What's Up.md
-      - Changi Simei Highlights.md
       - Changi Simei.md
+      - Changi Simei Highlights.md
+      - Changi Simei What's Up.md
+      - Changi Simei Contact us.md
