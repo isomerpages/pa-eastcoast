@@ -1,0 +1,4 @@
+collections:
+  kcc:
+    output: true
+    order: []
