@@ -1,4 +1,5 @@
 collections:
   fengshan:
     output: true
-    order: []
+    order:
+      - Fengshan.md
