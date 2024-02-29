@@ -1,0 +1,4 @@
+collections:
+  siglap:
+    output: true
+    order: []
