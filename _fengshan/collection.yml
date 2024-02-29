@@ -2,6 +2,7 @@ collections:
   fengshan:
     output: true
     order:
+      - Fengshan Contact Us.md
       - Fengshan What's Up.md
       - Fengshan.md
       - Fengshan Highlights.md
