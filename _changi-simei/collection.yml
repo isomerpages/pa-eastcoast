@@ -2,4 +2,5 @@ collections:
   changi-simei:
     output: true
     order:
+      - Changi Simei Highlights.md
       - Changi Simei.md
