@@ -1,4 +1,5 @@
 collections:
   changi-simei:
     output: true
-    order: []
+    order:
+      - Changi Simei.md
