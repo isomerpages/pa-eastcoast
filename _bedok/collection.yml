@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Bedok.md
-      - Highlights.md
+      - Bedok Highlights.md
       - What's Up.md
       - Contact Us.md
