@@ -2,5 +2,6 @@ collections:
   kcc:
     output: true
     order:
+      - KCC What's up.md
       - KCC Highlights.md
       - KCC Home.md
