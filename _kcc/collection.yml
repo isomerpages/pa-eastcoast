@@ -2,7 +2,7 @@ collections:
   kcc:
     output: true
     order:
-      - KCC Contact Us.md
-      - KCC What's Up.md
-      - KCC Highlights.md
       - KCC Home.md
+      - KCC Highlights.md
+      - KCC What's Up.md
+      - KCC Contact Us.md
