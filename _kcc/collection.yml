@@ -1,4 +1,5 @@
 collections:
   kcc:
     output: true
-    order: []
+    order:
+      - KCC Home.md
