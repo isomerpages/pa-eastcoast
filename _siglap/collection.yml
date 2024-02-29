@@ -1,4 +1,5 @@
 collections:
   siglap:
     output: true
-    order: []
+    order:
+      - Siglap Home.md
