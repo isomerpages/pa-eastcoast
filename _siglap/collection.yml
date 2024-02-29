@@ -2,5 +2,6 @@ collections:
   siglap:
     output: true
     order:
+      - Siglap What's Up.md
       - Siglap Highlights.md
       - Siglap Home.md
