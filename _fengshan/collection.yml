@@ -2,5 +2,5 @@ collections:
   fengshan:
     output: true
     order:
-      - Fengshan Highlights.md
       - Fengshan.md
+      - Fengshan Highlights.md
