@@ -2,7 +2,7 @@ collections:
   kcc:
     output: true
     order:
-      - KCC Home.md
+      - Kampong Chai Chee.md
       - KCC Highlights.md
       - KCC What's Up.md
       - KCC Contact Us.md
