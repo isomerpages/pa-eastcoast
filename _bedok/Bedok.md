@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bedok_Cover.jpg">
+</div>
 <p></p>
 <p>One of the oldest neighbourhoods in Singapore, Bedok carries a rich heritage
 and many of our residents have been living here for more than 30 years.</p>
