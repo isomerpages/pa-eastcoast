@@ -4,12 +4,12 @@ title: "East Coast: Home to the Sunny Side!"
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to the sunny side!
+notification: Welcome to the Sunny Side!
 sections:
   - hero:
       title: East Coast
-      subtitle: Home to the sunny side
-      background: /images/DSCF6964_compressed.JPG
+      subtitle: East side, Best side.
+      background: /images/Home_Cover.jpg
       variant: center
       button: Home
       url: /home
@@ -17,17 +17,22 @@ sections:
         - title: Find out how to volunteer with us
           description: Make a difference!
           url: /contact us
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - textcards:
+      title: Our 3 Pillars
+      subtitle: FIND OUT MORE ABOUT OUR
+      id: textcards
+      description: of East Coast
+      cards:
+        - title: CARING
+          description: Where friends and neighbours look out for each other.
+          linktext: Learn more
+          url: ""
+        - title: VIBRANT
+          description: The most exciting place to live in, in Singapore.
+          linktext: Learn more
+          url: ""
+        - title: GREEN
+          description: Our earth, our responsibility.
+          linktext: Learn more
+          url: ""
 ---
