@@ -9,7 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCC_Main.jpg">
 </div>
 <p>We're in Heartbeat Bedok, you will not miss the iconic building in the
-East. Fun and games, activities, food, sports, library, shops. You name
+East.</p>
+<p>Fun and games, family activities, food, sports, library, shops. You name
 it, we got it.</p>
 <p></p>
 <p>Address:</p>
