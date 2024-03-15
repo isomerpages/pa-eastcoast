@@ -14,6 +14,14 @@ description: ""
 <p>Volunteer with us, because giving is better than receiving.</p>
 <p>Volunteer with us, and be a part of East Coast.</p>
 <p></p>
-<p>Reach out to us, and we will get back to you:</p>
+<p></p>
+<blockquote>
+<p><em>"Alone we can do so little; together we can do so much."</em>
+</p>
+<p>Helen Keller</p>
+</blockquote>
+<p></p>
+<p></p>
+<p>Reach out to us; we will get back to you:</p>
 <p><u>Link</u>
 </p>
