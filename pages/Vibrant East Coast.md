@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
 </div>
 <h2>This is the most happening heartland in Singapore!</h2>
 <p>We do not even know where to start telling you about all the exciting
@@ -26,6 +26,8 @@ that all our young couples are looking forward to? Move a little further
 down and you will meet East Coast Park, the iconic, long stretch that many
 of us have countless memories cycling, having BBQ gathering, going to chalets,
 fishing and other activities we grew up doing!</p>
+<p>From breaking Singapore book of records to unveiling of new community
+spaces, we are always up to something here in East Coast!</p>
 <p>Not to forget, East Coast has the best supper spots in Singapore - that’s
 why East Side, Best Side.</p>
 <p></p>
