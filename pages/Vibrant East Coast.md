@@ -24,8 +24,8 @@ youths, the LTA Via Duct is undergoing a transformation for more community
 activities to held there, and who can forget the upcoming Bayshore developments
 that all our young couples are looking forward to? Move a little further
 down and you will meet East Coast Park, the iconic, long stretch that many
-of us have countless memories cycling, doing BBQ, going to chalets, fishing
-and other activities we grew up doing!</p>
+of us have countless memories cycling, having BBQ gathering, going to chalets,
+fishing and other activities we grew up doing!</p>
 <p>Not to forget, East Coast has the best supper spots in Singapore - that’s
 why East Side, Best Side.</p>
 <p></p>
