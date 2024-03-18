@@ -23,5 +23,5 @@ description: ""
 <p></p>
 <p></p>
 <p>Reach out to us; we will get back to you:</p>
-<p><u>Link</u>
+<p><a href="https://go.gov.sg/ecvolunteer" rel="noopener noreferrer nofollow" target="_blank">Click here to reach out to us!</a>
 </p>
