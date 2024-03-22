@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Bedok.md
-      - "Bedok : Our Programmes.md"
+      - Our Programmes.md
       - "Bedok: Upcoming Events & Activities.md"
       - Bedok Contact Us.md
