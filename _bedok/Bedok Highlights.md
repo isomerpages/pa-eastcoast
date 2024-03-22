@@ -4,7 +4,7 @@ permalink: /bedok-highlights/
 variant: tiptap
 description: ""
 ---
-<p>We got things going on! Here's a few of our key signature events and iniatives
+<p>We got things going on! Here's a few of our key signature events and initiatives
 in Bedok.</p>
 <h4>National Day Dinner</h4>
 <p>Held annually to commemorate our nation’s independence, Bedok’s National
