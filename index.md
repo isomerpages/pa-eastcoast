@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "East Coast: Home to the Sunny Side!"
-description: An Isomer site of the Singapore Government
+description: Official Website of East Coast GRC
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to the Sunny Side!
