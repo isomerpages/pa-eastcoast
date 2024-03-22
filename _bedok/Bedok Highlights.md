@@ -4,12 +4,6 @@ permalink: /bedok-highlights/
 variant: tiptap
 description: ""
 ---
-<p>We got things going on! Here's a few of our key signature events and initiatives
-in Bedok.</p>
-<h4>National Day Dinner</h4>
-<p>Held annually to commemorate our nation’s independence, Bedok’s National
-Day Dinner is a signature event for the community. It is also an occasion
-to show appreciation to our community partners, patrons, and volunteers.</p>
 <p></p>
 <h4>Community Fridge</h4>
 <p></p>
