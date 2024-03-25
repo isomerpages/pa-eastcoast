@@ -4,4 +4,115 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>January</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>February</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations by RCs/NCs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>April</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>May</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>June</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>July</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Estate Decorations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>August</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Dinner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>September</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid Autumn Celebrations by RCs/NCs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>October</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>November</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>December</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christmas Party</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
