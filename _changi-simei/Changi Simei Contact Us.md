@@ -20,3 +20,6 @@ Simei over the years.</p>
 </p>
 <p><a href="https://maps.app.goo.gl/6WTupSgud9tgKei19" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
 </p>
+<p></p>
+<p>Follow us on Facebook: <a href="https://www.facebook.com/ChangiSimeiCC/" rel="noopener noreferrer nofollow" target="_blank">Changi Simei CC</a>
+</p>
