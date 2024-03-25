@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6153_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS.jpg">
 </div>
 <p>Known to be a quaint neighbourhood, Changi Simei has a unique facade of
 HDB flats and a very homely private residential area. The kampong spirit
