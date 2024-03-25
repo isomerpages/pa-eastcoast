@@ -4,6 +4,7 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
+<p>Follow us on our <a href="https://www.facebook.com/ChangiSimeiCC/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for our happenings!</p>
 <table>
 <tbody>
 <tr>
@@ -36,7 +37,14 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Changi Simei Buka Puasa</p>
+</li>
+<li>
 <p>Changi Simei Furr Kids</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -45,7 +53,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Changi Simei Hari Raya Celebrations</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -86,6 +98,9 @@ description: ""
 <p>National Day Dinner</p>
 </li>
 <li>
+<p>National Day Observance Ceremony</p>
+</li>
+<li>
 <p>Chat with Jessica: National Day Rally 2024</p>
 </li>
 </ul>
@@ -106,7 +121,14 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Kids Fun Fest!</p>
+</li>
+<li>
+<p>Dandiya Night</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -115,7 +137,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deepavali Celebration</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
