@@ -12,7 +12,7 @@ description: ""
 HDB flats and a very homely private residential area. The kampong spirit
 is very alive in Changi Simei, and you will often see smiles and happy
 faces in many of our community events.</p>
-<p>
-<br>This space has also encountered multiple facelifts, with a new Eastpoint
+<p></p>
+<p>This space has also encountered multiple facelifts, with a new Eastpoint
 Mall, and many more cycling paths that link up all the estates.</p>
 <p></p>
