@@ -15,6 +15,8 @@ Simei over the years.</p>
 <p>Address:</p>
 <p>10 Simei Street 2</p>
 <p>Singapore 529915</p>
-<p>Contact Number: 67875265</p>
+<p>Contact Number: 6781 6058</p>
+<p>Operating Hours: Daily, 10am to 6pm <em>(excluding Public Holidays)</em>
+</p>
 <p><a href="https://maps.app.goo.gl/6WTupSgud9tgKei19" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
 </p>
