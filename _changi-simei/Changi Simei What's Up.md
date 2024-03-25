@@ -20,7 +20,14 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Chinese New Year Celebrations by RCs/NCs</p>
+</li>
+<li>
+<p>Chat with Jessica: Budget 2024</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -29,7 +36,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Changi Simei Furr Kids</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +81,14 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>National Day Dinner</p>
+</li>
+<li>
+<p>Chat with Jessica: National Day Rally 2024</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -92,7 +106,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kids Fun Fest!</p>
 </td>
 </tr>
 <tr>
