@@ -84,7 +84,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>National Day Estate Decorations</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -112,7 +116,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Mid Autumn Celebrations by RCs/NCs</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -150,7 +158,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Christmas Party</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
