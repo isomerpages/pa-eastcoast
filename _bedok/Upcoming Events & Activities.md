@@ -23,9 +23,7 @@ behind Blk 15 Bedok South Rd for talks on will-writing and advance care
 planning! Then, head down to the Oldham Theatre for an afternoon comedy
 movie screening of &lt;Mr Funny Bone&gt;!</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://linktr.ee/weluvbedok" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bedok Cats Event Meow-lt the Stress Away" src="/images/434344361_795204399302557_5714093244120650177_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meow-lt The Stress Away (Cat Event) - 20 April (Sat), 1PM to 4PM</div><div class="isomer-card-description">Get ready to "Meow-lt" away your stress with us on 20 Apr (Sat) from 1 - 4 pm as we present a purr-fect afternoon of feline fun!
-
-Meet some adorable kitties and enjoy Art Jamming, DIY Cat Toy Making, Canvas Bag Decoupage, and Cat-themed Batik Painting! </div><div class="isomer-card-link">Purchase Tickets (Each event ticketed separately)</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://linktr.ee/weluvbedok" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bedok Cats Event Meow-lt the Stress Away" src="/images/434344361_795204399302557_5714093244120650177_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meow-lt The Stress Away (Cat Event) - 20 April (Sat), 1PM to 4PM</div><div class="isomer-card-description">Get ready to "Meow-lt" away your stress with us on 20 Apr (Sat) from 1 - 4 pm as we present a purr-fect afternoon of feline fun!</div><div class="isomer-card-link">Purchase Tickets (Each event ticketed separately)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="go.gov.sg/wecbollyfit24" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
