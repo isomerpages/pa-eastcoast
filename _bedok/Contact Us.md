@@ -14,9 +14,12 @@ memories and moments.</p>
 <p>We are also that space with the Hans restaurant downstairs that cure your
 hunger itch when you do not know what you should eat.</p>
 <p></p>
-<p>Address:</p>
+<p><strong>Address:</strong>
+</p>
 <p>850 Upper Changi Road</p>
 <p>Singapore 467352</p>
-<p>Contact Number: 6442 5317</p>
+<p><strong>Contact Number: </strong>
+</p>
+<p>6442 5317</p>
 <p><a href="https://maps.app.goo.gl/pWy1rRocJbuN1haJ6" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
 </p>
