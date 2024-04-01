@@ -10,7 +10,7 @@ description: ""
 <p>Criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Seniors 65 years old and above</p>
+<p>For seniors 65 years old and above</p>
 </li>
 <li>
 <p>No appointment required</p>
