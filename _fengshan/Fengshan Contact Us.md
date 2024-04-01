@@ -17,5 +17,9 @@ in activities and programmes week in week out over here.</p>
 <p>20 Bedok North Street 2</p>
 <p>Singapore 469644</p>
 <p>Contact Number: 6449 5136</p>
+<p></p>
+<p><strong>Follow us on our social media platform:</strong>
+</p>
+<p></p>
 <p><a href="https://maps.app.goo.gl/3rosuudgzHNLJUNj9" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for directions</u></a>
 </p>
