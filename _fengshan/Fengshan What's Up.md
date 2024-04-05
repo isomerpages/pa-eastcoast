@@ -4,10 +4,11 @@ permalink: /fengshan-whatsup/
 variant: tiptap
 description: ""
 ---
-<p><strong>Free Traditional Chinese Medicine (TCM) Service for Seniors</strong>
-</p>
+<h3><strong>Free Traditional Chinese Medicine (TCM) Service for Seniors</strong></h3>
+<blockquote>
 <p>Boost your health with acupuncture and traditional chinese remedies. Take
 charge of your well-being today!</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fengshan TCM" src="/images/CC_TV___LED_1__2_.png">
 </div>
@@ -24,8 +25,7 @@ charge of your well-being today!</p>
 </li>
 </ol>
 <p>✨✨✨</p>
-<p><strong>Free tuition in Fengshan</strong>
-</p>
+<h3><strong>Free tuition in Fengshan</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FS Free tuition" src="/images/CC_TV___LED_1__4_.png">
 </div>
@@ -54,5 +54,20 @@ charge of your well-being today!</p>
 <p><strong>Email | </strong><a href="mailto:student@yyd.org.sg" rel="noopener noreferrer nofollow" target="_blank">student@yyd.org.sg</a>
 </p>
 <p>✨✨✨</p>
+<h3><strong>Get Fit at Fengshan</strong></h3>
+<blockquote>
+<p>Stay healthy and active with our community's range of activities! From
+fitness classes to wellness programmes, there's something for everyone.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Get Fit at Fengshan P2" src="/images/Apr_24___Get_fit_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Get Fit at Fengshan P1" src="/images/Apr_24___Get_fit_page_1.png">
+</div>
+</blockquote>
+<p>More information can be found here:</p>
+<p><strong>Courses | </strong><a href="http://www.go.gov.sg/fscourses" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/fscourses</a>
+</p>
+<p><strong>Active Agers Activities | </strong><a href="http://www.go.gov.sg/fsaaevents" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/fsaaevents</a>
+</p>
