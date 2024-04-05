@@ -6,6 +6,8 @@ description: ""
 ---
 <p><strong>Free Traditional Chinese Medicine (TCM) Service for Seniors</strong>
 </p>
+<p>Boost your health with acupuncture and traditional chinese remedies. Take
+charge of your well-being today!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fengshan TCM" src="/images/CC_TV___LED_1__2_.png">
 </div>
