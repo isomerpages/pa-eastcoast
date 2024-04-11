@@ -3,18 +3,18 @@ url: https://eastcoast.pa.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#db8e0f"
-  secondary-color: "#ffc0cb"
+  secondary-color: "#db8e0f"
   media-colors:
     - title: media-color-one
-      color: "#5abf82"
+      color: "#db8e0f"
     - title: media-color-two
-      color: "#fcd310"
+      color: "#db8e0f"
     - title: media-color-three
-      color: "#ffc0cb"
+      color: "#db8e0f"
     - title: media-color-four
-      color: "#5abf82"
+      color: "#db8e0f"
     - title: media-color-five
-      color: "#fcd310"
+      color: "#db8e0f"
 description: Official Website of East Coast GRC
 permalink: none
 baseurl: ""
