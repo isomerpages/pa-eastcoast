@@ -12,17 +12,18 @@ description: ""
 <p>Planting trees is a massive part of our Green Plan, these are nature’s
 air-conditioning systems. So as part of the OneMillionTrees movement, East
 Coast has organized more <strong><u>xx events and planted more than xx trees to date</u></strong>.</p>
-<p>We are also often found at our iconic <strong>Paddle for a Purpose</strong>,
+<p>We are also often found at our iconic <strong><u>Paddle for a Purpose</u></strong>,
 a series of beach clean-up programmes that brings residents from all ages
 together to clean up our beautiful beaches.</p>
-<p>Our annual iconic event, <strong>GreenFest</strong>, also brings in likeminded
-partners annually to kickstart initiatives, bring ideas together and take
-them to fruition.&nbsp;</p>
+<p>Our annual iconic event, <strong><u>GreenFest</u></strong>, also brings
+in likeminded partners annually to kickstart initiatives, bring ideas together
+and take them to fruition.&nbsp;</p>
 <p>We have also raised a total of XXX <strong>Green Ambassadors</strong>,
 all trained and equipped to make a difference in their world. Here in East
 Coast, we are proud to be Singapore’ green coast.</p>
-<p>Some other initiatives include our <strong>Community in Bloom</strong> Projects, <strong>Grows for Good</strong> (Residents
-grow their food and give back to the community), and our <strong>East Coast Recycles</strong>.</p>
+<p>Some other initiatives include our <strong><u>Community in Bloom</u></strong> Projects, <strong><u>Grows for Good</u></strong> (Residents
+grow their food and give back to the community), and our <strong><u>East Coast Recycles</u></strong>,
+where we take used items to recycle them for a better purpose.</p>
 <p>Want to make a difference to the earth? Reach out to join us via <a href="" rel="noopener noreferrer nofollow" target="_blank">link</a> here.</p>
 <p>#GreenEastCoast</p>
 <p></p>
