@@ -2,19 +2,19 @@ title: "East Coast: Home to the Sunny Side!"
 url: https://eastcoast.pa.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#db8e0f"
+  primary-color: "#f0bc42"
   secondary-color: "#9b9b9b"
   media-colors:
     - title: media-color-one
-      color: "#db8e0f"
+      color: "#f0bc42"
     - title: media-color-two
       color: "#9b9b9b"
     - title: media-color-three
-      color: "#db8e0f"
+      color: "#f0bc42"
     - title: media-color-four
       color: "#9b9b9b"
     - title: media-color-five
-      color: "#db8e0f"
+      color: "#f0bc42"
 description: Official Website of East Coast GRC
 permalink: none
 baseurl: ""
