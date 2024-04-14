@@ -4,14 +4,32 @@ permalink: /bedok-programmes/
 variant: tiptap
 description: ""
 ---
-<h4>Community Fridge</h4>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="BSRC Community Fridge" src="/images/community_fridge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/community_fridge.jpg">
 </div>
-<p>The Bedok Community Fridge Programme aims to provide groceries and other
-essentials for needy residents, as well as reducing food waste.&nbsp;</p>
-<p>The fridge is supported by donations from community partners and contributions
-from individuals in the community.</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bedok Community Fridge</div>
+<div class="isomer-card-description">The Bedok Community Fridge reduces food waste and provides groceries to
+those in need with donations from partners and individuals.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
