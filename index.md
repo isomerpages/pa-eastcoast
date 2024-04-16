@@ -7,12 +7,8 @@ permalink: /
 notification: Welcome to the Sunny Side!
 sections:
   - hero:
-      title: East Coast
-      subtitle: East side, Best side.
-      background: /images/Home_Cover.jpg
+      background: /images/Website_Headers.jpg
       variant: center
-      button: Home
-      url: /home
       key_highlights:
         - title: Find out how to volunteer with us
           description: Make a difference!
