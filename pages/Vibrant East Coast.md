@@ -11,17 +11,15 @@ description: ""
 <h2>This is the most happening heartland in Singapore!</h2>
 <p>We do not even know where to start telling you about all the exciting
 upgrades that were done and will be done.</p>
-<p>Take a drive around East Coast (which is going to take you awhile because
-there are so many projects going on), you will see vibrancy in the everyday
-things. From the 4 void deck murals in Changi Simei to the block murals
-in our HDB blocks in Fengshan, we make the simple things come alive.</p>
-<p>Move a little further down and you will meet East Coast Park, the iconic,
-long stretch that many of us have countless memories cycling, having BBQ
-gathering, going to chalets, fishing and other activities we grew up doing!</p>
-<p>From breaking Singapore book of records to unveiling of new community
-spaces, we are always up to something here in East Coast!</p>
-<p>Not to forget, East Coast has the best supper spots in Singapore - that’s
-why East Side, Best Side.</p>
+<p>Take a drive around the East Coast (which will take a while because so
+many projects are going on). You will see vibrancy in the everyday things.
+From the four void deck murals in Changi Simei to the block murals in our
+HDB blocks in Fengshan, we make simple things come alive. Move a little
+further down, and you will meet East Coast Park, the iconic, long stretch
+that many of us have countless memories of cycling, having BBQ gatherings,
+going to chalets, fishing and other activities we grew up doing!</p>
+<p>From breaking the Singapore Book of Records to unveiling new community
+spaces, we are always up to something here on the East Coast!</p>
 <p></p>
 <p>#VibrantEastCoast</p>
 <p></p>
