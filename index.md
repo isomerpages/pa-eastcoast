@@ -25,8 +25,8 @@ sections:
           url: ""
         - title: VIBRANT
           description: The most exciting place to live in, in Singapore.
-          linktext: Learn more
-          url: ""
+          linktext: Click to know why East Side is the Best Side
+          url: https://eastcoast.pa.gov.sg/vibrant/
         - title: GREEN
           description: Our earth, our responsibility.
           linktext: Click to read about our Green Initiatives
