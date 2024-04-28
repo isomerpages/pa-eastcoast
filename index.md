@@ -21,8 +21,8 @@ sections:
       cards:
         - title: CARING
           description: Where friends and neighbours look out for each other.
-          linktext: Learn more
-          url: ""
+          linktext: Click to read about our East Coast Caring spirit
+          url: https://eastcoast.pa.gov.sg/caring/
         - title: VIBRANT
           description: The most exciting place to live in, in Singapore.
           linktext: Click to know why East Side is the Best Side
