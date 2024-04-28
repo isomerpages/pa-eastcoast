@@ -29,6 +29,6 @@ sections:
           url: ""
         - title: GREEN
           description: Our earth, our responsibility.
-          linktext: Learn more
-          url: ""
+          linktext: Click to read about our Green Initiatives
+          url: https://eastcoast.pa.gov.sg/green/
 ---
