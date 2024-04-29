@@ -17,19 +17,33 @@ description: ""
 <div class="isomer-card-description">The Bedok Community Fridge reduces food waste and provides groceries to
 those in need with donations from partners and individuals.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Flea Market" src="/images/bedokfleamarket.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Bedok CC Flea Market</div>
+<div class="isomer-card-description">Sell your old belongings, or just head down for a morning of bargain-hunting
+fun! Happening on the first Sunday of every month. Visit Bedok CC to reserve
+your booth ($5)!</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Halloween" src="/images/bedokhalloween.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bedok Halloween @ Heartlands</div>
+<div class="isomer-card-description">Every October, Bedok gets a little bit spookier during our annual Halloween
+@ Heartlands party! Prepare your costume and join us for a family-friendly
+but "fang-tastic" evening of fun!</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
