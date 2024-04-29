@@ -5,12 +5,12 @@ links:
     sublinks:
       - title: About us
         url: /home
-      - title: Green
-        url: /green
       - title: Caring
         url: /caring
       - title: Vibrant
         url: /vibrant
+      - title: Green
+        url: /green
       - title: Volunteer with us!
         url: /volunteer
   - title: Bedok
