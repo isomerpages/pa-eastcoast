@@ -33,20 +33,23 @@ and refurbish them for use again, distributing them to our needy families.</div>
 <div class="isomer-card-link">Click to watch and find out more.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/cherylchanwl/posts/pfbid0P6GpegZasEgSCrFUyFiRaawBMgutiwHwMRyd6KETakPQxr6Wm6Guw7ewLn6WxMNwl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DEMENTIA_AWARENESS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dementia Awareness</div><div class="isomer-card-description">Because we want all our seniors to live active and age well.</div><div class="isomer-card-link">Click here to read more about one of the many activities that talk about Dementia Awareness!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/videos/684083847084469/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="mobile tcm traditional chinese medicine" src="/images/Mobile_Tcm.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mobile TCM</div>
-<div class="isomer-card-description">TCM Services at the doorstep of our residents, so everyone has access
-to medical care.</div>
-<div class="isomer-card-link">Click here to watch one of the many Mobile TCM pop ups in East Coast!</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid0uYXckRtdPZnMtVzUaahVQkEbTcEpouCMhfJS28pg2ohmZFkcARNiAh8qxrRKquK1l" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="winstem" src="/images/WinSTEM_4___Siglap_Winstem__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">WinSTEM (Women in Science, Technology, Engineering and Mathematics) Bursary</div><div class="isomer-card-description">WinSTEM bursary is available to female students from modest economic backgrounds currently enrolled in ITE, Polytechnics, and local universities.</div><div class="isomer-card-link">Click here to read about a story of WinSTEM Bursary.</div></div></a>
 </div>
 <p>
 <br>
 </p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/videos/684083847084469/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="mobile tcm traditional chinese medicine" src="/images/Mobile_Tcm.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mobile TCM</div><div class="isomer-card-description">TCM Services at the doorstep of our residents, so everyone has access to medical care.</div><div class="isomer-card-link">Click here to watch one of the many Mobile TCM pop ups in East Coast!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid0uYXckRtdPZnMtVzUaahVQkEbTcEpouCMhfJS28pg2ohmZFkcARNiAh8qxrRKquK1l" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="winstem" src="/images/WinSTEM_4___Siglap_Winstem__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WinSTEM (Women in Science, Technology, Engineering and Mathematics) Bursary</div>
+<div class="isomer-card-description">WinSTEM bursary is available to female students from modest economic backgrounds
+currently enrolled in ITE, Polytechnics, and local universities.</div>
+<div class="isomer-card-link">Click here to read about a story of WinSTEM Bursary.</div>
+</div>
+</a>
+</div>
+<p></p>
