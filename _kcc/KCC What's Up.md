@@ -165,3 +165,11 @@ policies and engage with agency reps. Sessions in Mandarin and Malay too!</div>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Fiesta_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Raya.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEC_Trip.jpg">
+</div>
+<p></p>
