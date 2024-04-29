@@ -23,6 +23,10 @@ atmosphere that resonates with the spirit of a close-knit village.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Residents attending to our Kampong Chai Chee Grocery Vouchers Assistance Scheme" src="/images/Caring.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Adviser Engagement with GVAS recipient." src="/images/KCC_GVAS_Photo__3_.jpg">
+</div>
 <p><u>Caring Community</u>
 </p>
 <p>Our residents are at the heart of what we do. We prioritize their well-being
@@ -66,4 +70,5 @@ events, we strive to make our community a beacon of green living.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
