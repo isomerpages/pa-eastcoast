@@ -20,3 +20,9 @@ you're looking for, you'll find it here!</p>
 <p>Contact Number: 6241 9878</p>
 <p><a href="https://maps.app.goo.gl/xm1f1y4mdK84N2Xx8" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for directions</u></a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP.jpg">
+</div>
+<p></p>
