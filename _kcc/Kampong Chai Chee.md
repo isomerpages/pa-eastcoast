@@ -14,6 +14,10 @@ description: ""
 commitment to green living. We take pride in fostering a warm and inclusive
 atmosphere that resonates with the spirit of a close-knit village.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Residents attending to our Kampong Chai Chee Grocery Vouchers Assistance Scheme" src="/images/Caring.jpg">
+</div>
 <p><u>Caring Community</u>
 </p>
 <p>Our residents are at the heart of what we do. We prioritize their well-being
@@ -21,6 +25,9 @@ by creating a supportive environment where neighbors look out for one another.
 Through our events and initiatives, we aim to strengthen the bonds that
 make us more than just residents.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Garden Hill RN visit to Sentosa Island" src="/images/KCC_Vibrant.jpg">
+</div>
 <p></p>
 <p><u>Vibrant Community Spirit</u>
 </p>
