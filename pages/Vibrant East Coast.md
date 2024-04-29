@@ -66,7 +66,7 @@ to held there, definitely going to be iconic</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2024_04_25_at_10_49_43.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -74,7 +74,7 @@ to held there, definitely going to be iconic</div>
 <div class="isomer-card-description">A sport for all ages of the family.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Old Kampong Chai Chee Facelift</div><div class="isomer-card-description">A future hub for all our youths.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid02P7h8bL7bM3p8DXxLXmqCngnK2V1Pk4YuZgzHW2znKXojSVHCthNQsSxz5Revw5gXl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="kampong chai chee facelift" src="/images/410464242_756279899869721_8523462695243460515_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Old Kampong Chai Chee Facelift</div><div class="isomer-card-description">A future hub for all our youths - our old site is about to undergo a facelift so it can serve our future youths. </div><div class="isomer-card-link">Click here to take a short trip down memory lane.</div></div></a>
 </div>
 <p>
 <br>
