@@ -8,6 +8,11 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo of Rainbow Ville Rainbow arc" src="/images/Rainbowville_v2.jpg">
+</div>
+<p></p>
 <p><strong>About Us</strong>
 </p>
 <p>Kampong Chai Chee, a community woven together by care, vibrancy, and a
@@ -29,6 +34,9 @@ make us more than just residents.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Garden Hill RN visit to Sentosa Island" src="/images/KCC_Vibrant.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bangsawan performance at Gema Aidilfitri 2024" src="/images/Bangsawan.jpg">
+</div>
 <p><u>Vibrant Community Spirit</u>
 </p>
 <p>Vibrancy echoes through the streets of Kampong Chai Chee. We believe in
@@ -41,6 +49,10 @@ a testament to the lively heartbeat of our neighborhood.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Longvale Tree Planting Day" src="/images/IMG_20240331_WA0016.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tree Planting at Rainbowville neighbourhood" src="/images/Tree_Planting.jpg">
 </div>
 <p><u>Green</u>
 </p>
