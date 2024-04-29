@@ -8,10 +8,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCC_Main.jpg">
 </div>
-<p>We're in Heartbeat Bedok, you will not miss the iconic building in the
-East.</p>
-<p>Fun and games, family activities, food, sports, library, shops. You name
-it, we got it.</p>
+<p>Find us at Heartbeat@Bedok, an iconic landmark situated in the heart of
+Bedok that you can't miss!</p>
+<p>Heartbeat@Bedok is your ultimate destination for a wide range of activities
+including fun, games, family outings, dining, sports, and shopping. Whatever
+you're looking for, you'll find it here!</p>
 <p></p>
 <p>Address:</p>
 <p>11 Bedok North Street 1 #01-11</p>
