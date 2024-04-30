@@ -11,6 +11,7 @@ description: ""
 <p>The quaint neighbourhood of Changi Simei is unrivalled.</p>
 <p>Our CC is home to many residents who have grown up and grown old in Changi
 Simei over the years.</p>
+<hr>
 <p></p>
 <p>Address:</p>
 <p>10 Simei Street 2</p>
