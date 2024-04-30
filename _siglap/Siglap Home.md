@@ -4,6 +4,10 @@ permalink: /siglap-home/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Siglap_Cover.jpg">
+</div>
 <p>We are home to Changi Airport, Pulau Ubin, Singapore Expo and Changi Village.</p>
 <p>We are also home to one of the most exciting Community Club facilities
 in Singapore.</p>
