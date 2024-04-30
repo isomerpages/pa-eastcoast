@@ -13,7 +13,7 @@ description: ""
 neighbourhoods around the area. We see the young and old alike, engaging
 in activities and programmes week in week out over here.</p>
 <hr>
-<p><strong>Address:</strong>
+<p><strong>Address:</strong> 
 <br>20 Bedok North Street 2
 <br>Singapore 469644
 <br>Contact Number: 6449 5136
