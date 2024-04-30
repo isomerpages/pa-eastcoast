@@ -4,6 +4,9 @@ permalink: /fengshan-home/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fengshan_Cover.jpg">
+</div>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -44,4 +47,5 @@ life, painstakingly recreated by the Fengshan Youth Committee over a week</div>
 </div>
 </div>
 </div>
+<p></p>
 <p></p>
