@@ -19,3 +19,6 @@ better.</p>
 <p>Contact Number: 6449 8040</p>
 <p><a href="https://maps.app.goo.gl/Mbze4iVvHRrVgGbA6" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
 </p>
+<p></p>
+<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Click here to follow us on Facebook</a>
+</p>
