@@ -22,18 +22,11 @@ in activities and programmes week in week out over here.</p>
 <hr>
 <p><strong>Follow us on our social media platform:</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.facebook.com/fengshancommunityclub" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Facebook</div><div class="isomer-card-description">Find out the latest happenings in the community</div><div class="isomer-card-link">Facebook</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.go.gov.sg/fstelegram" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Telegram Channel</div>
-<div class="isomer-card-description">Updates within the estate at the tip of your fingers</div>
-<div class="isomer-card-link">Telegram</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="www.instagram.com/fengshancommunityclub" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Instagram</div><div class="isomer-card-description">Where stories in the community comes to live</div><div class="isomer-card-link">Instagram</div></div></a>
-</div>
+<p><a href="https://www.facebook.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
+<p><a href="https://www.instagram.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+<p><a href="go.gov.sg/fstelegram" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>
+</p>
+<p></p>
 <p></p>
