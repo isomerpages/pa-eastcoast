@@ -12,13 +12,16 @@ description: ""
 <p>Fast food restaurant, supermarket and 24 hour gym. It does not get any
 better.</p>
 <hr>
-<p></p>
-<p>Address:</p>
-<p>151 Bedok South Road</p>
-<p>Singapore 460151</p>
-<p>Contact Number: 6449 8040</p>
+<p><strong>Address:</strong> 
+<br>151 Bedok South Road
+<br>Singapore 460151
+<br>Contact Number: 6449 8040</p>
 <p><a href="https://maps.app.goo.gl/Mbze4iVvHRrVgGbA6" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
 </p>
-<p></p>
-<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Click here to follow us on Facebook.</a>
+<hr>
+<p><strong>Follow us on social media!</strong>
+</p>
+<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
+<p><a href="https://www.instagram.com/siglapcommunityclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
