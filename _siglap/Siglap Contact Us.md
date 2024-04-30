@@ -11,6 +11,7 @@ description: ""
 <p>We are the most good-looking CC in the East Coast, and some say Singapore.</p>
 <p>Fast food restaurant, supermarket and 24 hour gym. It does not get any
 better.</p>
+<hr>
 <p></p>
 <p>Address:</p>
 <p>151 Bedok South Road</p>
