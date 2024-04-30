@@ -20,7 +20,7 @@ in activities and programmes week in week out over here.</p>
 <br><a href="https://maps.app.goo.gl/3rosuudgzHNLJUNj9" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for directions</u></a>
 </p>
 <hr>
-<p><strong>Follow us on our social media platform:</strong>
+<p><strong>Follow us on social media!</strong>
 </p>
 <p><a href="https://www.facebook.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 </p>
