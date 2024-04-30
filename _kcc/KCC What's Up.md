@@ -18,7 +18,7 @@ description: ""
 like Lasting Power of Attorney, CPF, and housing. Get clarity on government
 policies and engage with agency reps. Sessions in Mandarin and Malay too!</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/ourkampongchaichee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/HBB_v2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Follow us for on our Kampong Chai Chee Instagram</div><div class="isomer-card-description">Explore the vibrant Kampong Chai Chee community on Instagram! Discover exciting events, heartwarming moments, and a spirit of unity. Join our colorful community today!</div><div class="isomer-card-link">Click here to follow our IG!</div></div></a>
+</div>
 </div>
 <p><strong>Calendar of Event 2024</strong>
 </p>
