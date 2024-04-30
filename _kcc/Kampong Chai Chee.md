@@ -4,14 +4,13 @@ permalink: /kcc-home/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCC_Cover.jpg">
+</div>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photo of Rainbow Ville Rainbow arc" src="/images/Rainbowville_v2.jpg">
-</div>
 <p></p>
 <p><strong>About Us</strong>
 </p>
