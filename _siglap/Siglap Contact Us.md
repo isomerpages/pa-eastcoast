@@ -8,9 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Siglap_Main.jpg">
 </div>
-<p>We are the most good-looking CC in the East Coast, and some say Singapore.</p>
-<p>Fast food restaurant, supermarket and 24 hour gym. It does not get any
-better.</p>
+<p>We are the most good-looking CC in the East Coast, and some say Singapore.
+Fast food restaurant, supermarket and 24 hour gym.</p>
+<p>It does not get any better.</p>
 <hr>
 <p><strong>Address:</strong> 
 <br>151 Bedok South Road
