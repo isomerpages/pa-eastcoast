@@ -14,11 +14,17 @@ Bedok that you can't miss!</p>
 including fun, games, family outings, dining, sports, and shopping. Whatever
 you're looking for, you'll find it here!</p>
 <hr>
-<p></p>
-<p>Address:</p>
-<p>11 Bedok North Street 1 #01-11</p>
-<p>Singapore 469662</p>
-<p>Contact Number: 6241 9878</p>
+<p><strong>Address:</strong> 
+<br>11 Bedok North Street 1 #01-11
+<br>Singapore 469662
+<br>Contact Number: 6241 9878</p>
 <p><a href="https://maps.app.goo.gl/xm1f1y4mdK84N2Xx8" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for directions</u></a>
+</p>
+<hr>
+<p><strong>Follow us on social media!</strong>
+</p>
+<p><a href="https://www.facebook.com/kcc.ekampong" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
+<p><a href="https://www.instagram.com/ourkampongchaichee/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 <p></p>
