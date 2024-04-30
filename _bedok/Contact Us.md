@@ -12,6 +12,8 @@ description: ""
 amenities like a basketball court, badminton court, gateball court, and
 more! Visit The Chill Mug study room for free from 10am to 9.30pm daily,
 or grab a late night bite at Han's Cafe and Cake House!</p>
+<hr>
+<p></p>
 <p><strong>Address:</strong>
 </p>
 <p>850 Upper Changi Road</p>
