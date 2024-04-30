@@ -9,11 +9,11 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bedok_Cover.jpg">
 </div>
 <p></p>
-<p>As one of Singapore's oldest neighbourhoods, Bedok has a rich history going back to its *kampung* roots. Its people come from all walks of life, with some having lived here for more than 30 years.
+<p>As one of Singapore's oldest neighbourhoods, Bedok has a rich history going back to its kampung roots. Its people come from all walks of life, with some having lived here for more than 30 years.
 </p><p></p>
 <p>Bedok today is a busy and vibrant hub, featuring a mix of residential and commericial spaces and dining options, paired with world-class public amenities and ever-expanding accessibility. 
 	
-Despite its multiple facelifts over the decades, Bedok has retained its distinct heartland character, making one of Singapore's most diverse and interesting places to live. </p>
+Despite its multiple facelifts over the decades, Bedok has retained its distinct heartland character, making it one of Singapore's most diverse and interesting places to live. </p>
 <p></p>
 <p><strong><u>DID YOU KNOW?</u></strong>
 </p>
