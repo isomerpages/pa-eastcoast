@@ -12,15 +12,16 @@ description: ""
 <p>Our CC is home to many residents who have grown up and grown old in Changi
 Simei over the years.</p>
 <hr>
-<p></p>
-<p>Address:</p>
-<p>10 Simei Street 2</p>
-<p>Singapore 529915</p>
-<p>Contact Number: 6781 6058</p>
+<p><strong>Address:</strong> 
+<br>10 Simei Street 2
+<br>Singapore 529915
+<br>Contact Number: 6781 6058</p>
 <p>Operating Hours: Daily, 10am to 6pm <em>(excluding Public Holidays)</em>
 </p>
 <p><a href="https://maps.app.goo.gl/6WTupSgud9tgKei19" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
 </p>
-<p></p>
+<hr>
+<p><strong>Follow us on social media!</strong>
+</p>
 <p>Follow us on Facebook: <a href="https://www.facebook.com/ChangiSimeiCC/" rel="noopener noreferrer nofollow" target="_blank">Changi Simei CC</a>
 </p>
