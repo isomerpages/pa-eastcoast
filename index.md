@@ -2,7 +2,7 @@
 layout: homepage
 title: "East Coast: Home to the Sunny Side!"
 description: Official Website of East Coast GRC
-image: /images/isomer-logo.svg
+image: /images/East_Coast_Buzz_logo__1_.png
 permalink: /
 notification: Welcome to the Sunny Side!
 sections:
