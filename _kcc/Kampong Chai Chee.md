@@ -7,64 +7,30 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCC_Cover.jpg">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <p><strong>About Us</strong>
 </p>
-<p>Kampong Chai Chee, a community woven together by care, vibrancy, and a
-commitment to green living. We take pride in fostering a warm and inclusive
-atmosphere that resonates with the spirit of a close-knit village.</p>
+<p>Kampong Chai Chee is a tapestry of care, vibrancy, and a steadfast commitment
+to green living. We take pride in nurturing a warm and inclusive atmosphere
+that embodies the spirit of a close-knit village.</p>
+<p>At the heart of Kampong Chai Chee lies a caring and vibrant community
+spirit, where residents prioritize each other's well-being and foster strong
+bonds through a supportive environment. The neighborhood pulsates with
+vibrancy, exemplified by the lively National Day Carnival and Kampong Chai
+Chee Sports Fiesta, showcasing the energetic pulse that animates our streets.
+Embracing sustainability, Kampong Chai Chee is dedicated to green living,
+with community-led initiatives promoting environmental awareness, such
+as tree-planting drives, laptop repairs, and Go Green Recycle events.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Residents attending to our Kampong Chai Chee Grocery Vouchers Assistance Scheme" src="/images/Caring.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adviser Engagement with GVAS recipient." src="/images/KCC_GVAS_Photo__3_.jpg">
-</div>
-<p><u>Caring Community</u>
-</p>
-<p>Our residents are at the heart of what we do. We prioritize their well-being
-by creating a supportive environment where neighbors look out for one another.
-Through our events and initiatives, we aim to strengthen the bonds that
-make us more than just residents.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Garden Hill RN visit to Sentosa Island" src="/images/KCC_Vibrant.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bangsawan performance at Gema Aidilfitri 2024" src="/images/Bangsawan.jpg">
-</div>
-<p><u>Vibrant Community Spirit</u>
-</p>
-<p>Vibrancy echoes through the streets of Kampong Chai Chee. We believe in
-the power of community spirit to bring life and energy to every corner.
-Our organized events, from cultural celebrations to recreational activities,
-such as National Day Carnival and Kampong Chai Chee Sports Fiesta, are
-a testament to the lively heartbeat of our neighborhood.</p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Longvale Tree Planting Day" src="/images/IMG_20240331_WA0016.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tree Planting at Rainbowville neighbourhood" src="/images/Tree_Planting.jpg">
-</div>
-<p><u>Green</u>
-</p>
-<p>Embracing sustainability is ingrained in the fabric of Kampong Chai Chee.
-We are committed to a green lifestyle as evident in various community-led
-initiatives and events that promote environmental awareness. From tree-planting
-drives to eco-friendly activities such as laptop repairs and Go Green Recycle
-events, we strive to make our community a beacon of green living.</p>
-<p></p>
+<p>Together, we endeavor to cultivate a neighborhood that not only thrives
+but also stands as a beacon of green living and community spirit.</p>
 </td>
 </tr>
 </tbody>
