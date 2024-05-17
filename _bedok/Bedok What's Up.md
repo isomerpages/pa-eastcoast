@@ -25,7 +25,12 @@ your slot now! Participants are encouraged to dress comfortably.</p>
 <p><a href="go.gov.sg/wecbollyfit24" rel="noopener noreferrer nofollow" target="_blank">Register Here (Free-of-charge)</a>
 </p>
 <hr>
+<h3>Meow-lt The Stress Away (Cat Event) - 20 April (Sat), 1PM to 4PM</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://linktr.ee/weluvbedok" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bedok Cats Event Meow-lt the Stress Away" src="/images/434344361_795204399302557_5714093244120650177_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meow-lt The Stress Away (Cat Event) - 20 April (Sat), 1PM to 4PM</div><div class="isomer-card-description">Get ready to "Meow-lt" away your stress with us on 20 Apr (Sat) from 1 - 4 pm as we present a purr-fect afternoon of feline fun!</div><div class="isomer-card-link">Purchase Tickets (Each event ticketed separately)</div></div></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Cats Event Meow-lt the Stress Away" src="/images/434344361_795204399302557_5714093244120650177_n.jpg">
 </div>
-<p></p>
+<p>Get ready to "Meow-lt" away your stress with us on 20 Apr (Sat) from 1
+- 4 pm as we present a purr-fect afternoon of feline fun!</p>
+<p><a href="https://linktr.ee/weluvbedok" rel="noopener noreferrer nofollow" target="_blank">Purchase Tickets (Each event ticketed separately)</a>
+</p>
