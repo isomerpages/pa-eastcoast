@@ -21,5 +21,5 @@ gardens in Singapore. The quiet sense of beauty in Simei never grows old.</p>
 <p></p>
 <p><strong><u>Did you know?</u></strong>
 </p>
-<p><em>Simei is pinyin for 'Four Beauties' in Chinese, you can spot the 4 classic beauties' portraits wall murals around the Simei estate at the void decks. </em>
+<p><em>Simei is pinyin for 'Four Beauties' in Chinese, you can spot the 4 classic beauties' portraits wall murals around the Simei estate at the void decks.</em>
 </p>
