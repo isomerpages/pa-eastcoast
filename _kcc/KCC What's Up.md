@@ -57,4 +57,16 @@ GD Lobangs@KCC invites parents and children to discover the secrets of
 preparing and serving hot, fresh food at Burger King. Sign up now for Burger
 King’s Burger Making Workshop to uncover what goes on behind the scenes
 and create your very own delicious burger!</p>
+<h3>Saturday, 20 July 24: Family Fun Outing at Dinoland</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dinoland Poster" src="/images/Dinoland.jpg">
+</div>
+<p>🦕 Calling all parents! Dive into an immersive dinosaur adventure at Dinoland,
+set within an indoor live forest. Join us for an unforgettable experience
+where families will learn about different dinosaur species. Participating
+families will also take part in the mini obstacle challenge and bond over
+family-friendly playtime! Don't miss out – sign up now for an unforgettable
+adventure at Dinoland!</p>
+<p></p>
 <p></p>
