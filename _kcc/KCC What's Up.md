@@ -48,7 +48,7 @@ to 5am, Quarter-Finals from 6 July to 7 July 2024, 12am to 5am, Semi-Finals
 from 10 July to 11 July 2024, 3am to 5am, and the Finals on 15 July 2024,
 3am to 5am. Get ready to cheer for your favorite teams and immerse yourself
 in the excitement of Euro 2024!</p>
-<h3>Gd Lobangs @ KCC Kitchen Tour + Burger Making</h3>
+<h3>Saturday, 13 July 24: Gd Lobangs @ KCC Kitchen Tour + Burger Making</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gd Lobangs @ KCC Kitchen Tour &amp; Burger Making at BK!" src="/images/BK.jpg">
 </div>
