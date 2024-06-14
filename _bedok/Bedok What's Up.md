@@ -4,33 +4,60 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Ask HSK with BBRC (Chit-chat &amp; Movie Session) - 6 April (Sat) - 11AM to 4PM</h3>
+<h3>Bedok CCC Education Awards 2024 - (Closing Date: 5 July 2024)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ask HSK BBRC" src="/images/434626391_797566332399697_83395936728270379_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_13_at_16_14_43.jpg">
 </div>
-<p>Join Bedok Bougainvillea RC's Ask HSK session on 6 Apr (Sat) at the Amphitheater
-behind Blk 15 Bedok South Rd for talks on will-writing and advance care
-planning! Then, head down to the Oldham Theatre for an afternoon comedy
-movie screening of &lt;Mr Funny Bone&gt;!</p>
-<hr>
-<h3>Bolly-fitness - 27 April 2024 (Sat) - 4 PM to 6 PM</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bolly-fitness Dance Exercise Bedok" src="/images/wec_bollyfitness_27apr2024.png">
-</div>
-<p>Looking for fun and unique way to keep fit ? Join us on 27 Apr (Sat) from
-4 - 6 pm at the Amphitheatre behind Blk 15 Bedok South Rd for a heart-pumping
-exercise session accompanied by Bollywood tunes! Entry is free so book
-your slot now! Participants are encouraged to dress comfortably.</p>
-<p><a href="go.gov.sg/wecbollyfit24" rel="noopener noreferrer nofollow" target="_blank">Register Here (Free-of-charge)</a>
+<p>Are you or your child a student who has attained good academic performance
+and has passed the final year exams in the preceding year? Apply for Bedok
+Citizens Consultative Committee's Education Awards 2024!</p>
+<p><strong>Eligibility:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Singapore Citizen or child of a Singapore Citizen, and permanent bona
+fide resident of Bedok Constituency</p>
+</li>
+<li>
+<p>Attending a Primary, Secondary, Special School, JC, Centralised Institute,
+ITE, Polytechnic or University under the jurisdiction of the Ministry of
+Education (MOE) of Singapore.</p>
+</li>
+<li>
+<p>Must not be in receipt of any Edusave Merit Bursary/Scholarship Award
+or CDC-CCC Awards during the year; and</p>
+</li>
+<li>
+<p>Must have achieved good academic performance and passed the Final Year
+Examination in the preceding year</p>
+</li>
+</ul>
+<p><a href="go.gov.sg/bedokcccawards" rel="noopener noreferrer nofollow" target="_blank">Click here to apply now!</a>
 </p>
 <hr>
-<h3>Meow-lt The Stress Away (Cat Event) - 20 April (Sat), 1PM to 4PM</h3>
-<p></p>
+<h3>Bayshore Station Public Preview &amp; Makan Tour - 21 June 2024 (Fri) - 11.30 AM to 3 PM</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Cats Event Meow-lt the Stress Away" src="/images/434344361_795204399302557_5714093244120650177_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_12_at_10_58_44.jpg">
 </div>
-<p>Get ready to "Meow-lt" away your stress with us on 20 Apr (Sat) from 1
-- 4 pm as we present a purr-fect afternoon of feline fun!</p>
+<p>Excited for the opening of 7 new Thomson-East Coast Line (TEL) Stations?
+Why not join us on Friday, 21 June for the Bayshore Station Public Preview!
+Ride for free between the 7 new TEL stations and experience Singapore's
+newest MRT line!</p>
+<p>East Coast Residents can also purchase tickets ($10 each) for our Makan
+tour, which includes a tour of Bayshore station, tree-planting event, and
+a delicious lunch at Old Bibik's Peranakan Kitchen!</p>
+<p><a href="go.gov.sg/bayshore21june" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+</p>
+<hr>
+<h3>Bedok WEC Presents: Trip to Singapore Garden Festival 2024 @ Suntec City - 5 August 2024 (Mon) - 9.30AM to 3PM</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEC_Garden_Festival_A4.png">
+</div>
+<p>Garden lovers rejoice! Join Bedok Women's Executive Committee as we head
+to Singapore Garden Festival 2024 at Suntec City on 5 Aug! Immerse yourself
+in award-winning floral displays and check out works by the world's top
+garden and floral designers!</p>
+<p><a href="go.gov.sg/gardenfestival24" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+</p>
 <p><a href="https://linktr.ee/weluvbedok" rel="noopener noreferrer nofollow" target="_blank">Purchase Tickets (Each event ticketed separately)</a>
 </p>
