@@ -33,4 +33,14 @@ offer sessions in Mandarin and Malay!</p>
 partnering with Al Ansar Mosque and the law firm ARLC to organize the Estate
 Planning Talk titled "Wasiat Talk" on Friday, 5 July 2024 at Al Ansar Mosque
 Auditorium, from 8:00pm to 9:30pm. This session will be conducted in Malay.</p>
+<h3>UEFA Euro 2024 Football Match Live Screening</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Football Match Screening at Heartbeat@Bedok" src="/images/IMG_20221219_WA0052.jpg">
+</div>
+<p>📣 Calling all football fans! Don't miss the thrilling UEFA Euro 2024
+Knockout matches! Catch the Round of 16 from 30 June to 3 July 2024, 12am
+to 5am, Quarter-Finals from 6 July to 7 July 2024, 12am to 5am, Semi-Finals
+from 10 July to 11 July 2024, 3am to 5am, and the Finals on 15 July 2024,
+3am to 5am. Get ready to cheer for your favorite teams and immerse yourself
+in the excitement of Euro 2024!</p>
