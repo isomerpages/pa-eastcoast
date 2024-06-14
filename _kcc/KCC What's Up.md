@@ -37,6 +37,8 @@ offer sessions in Mandarin and Malay!</p>
 partnering with Al Ansar Mosque and the law firm ARLC to organize the Estate
 Planning Talk titled "Wasiat Talk" on Friday, 5 July 2024 at Al Ansar Mosque
 Auditorium, from 8:00pm to 9:30pm. This session will be conducted in Malay.</p>
+<p><a href="https://go.gov.sg/kccwasiat24" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
+</p>
 <h3>UEFA Euro 2024 Football Match Live Screening</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -48,6 +50,8 @@ to 5am, Quarter-Finals from 6 July to 7 July 2024, 12am to 5am, Semi-Finals
 from 10 July to 11 July 2024, 3am to 5am, and the Finals on 15 July 2024,
 3am to 5am. Get ready to cheer for your favorite teams and immerse yourself
 in the excitement of Euro 2024!</p>
+<p>No registration required. Seats available on a first-come, first-serve
+basis.</p>
 <h3>Saturday, 13 July 24: Gd Lobangs @ KCC Kitchen Tour + Burger Making</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gd Lobangs @ KCC Kitchen Tour &amp; Burger Making at BK!" src="/images/BK.jpg">
@@ -57,6 +61,9 @@ GD Lobangs@KCC invites parents and children to discover the secrets of
 preparing and serving hot, fresh food at Burger King. Sign up now for Burger
 King’s Burger Making Workshop to uncover what goes on behind the scenes
 and create your very own delicious burger!</p>
+<p><a href="https://go.gov.sg/glbkw1" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
+<br>
+</p>
 <h3>Saturday, 20 July 24: Family Fun Outing at Dinoland</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -68,5 +75,7 @@ where families will learn about different dinosaur species. Participating
 families will also take part in the mini obstacle challenge and bond over
 family-friendly playtime! Don't miss out – sign up now for an unforgettable
 adventure at Dinoland!</p>
+<p><a href="https://go.gov.sg/td05oj" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
+</p>
 <p></p>
 <p></p>
