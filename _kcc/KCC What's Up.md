@@ -24,6 +24,10 @@ etc. No one is left behind in this digital age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20231122_WA0011.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wasiat Talk Poster" src="/images/Wasiat_Talk__ML_.jpg">
+</div>
 <p>Join us for "How? Ask Kiat How" – our community dialogue series delving
 into topics such as Lasting Power of Attorney, CPF, and housing. Gain clarity
 on government policies and engage with agency representatives. We also
