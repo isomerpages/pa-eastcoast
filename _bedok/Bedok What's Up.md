@@ -35,17 +35,16 @@ Examination in the preceding year</p>
 <p><a href="go.gov.sg/bedokcccawards" rel="noopener noreferrer nofollow" target="_blank">Click here to apply now!</a>
 </p>
 <hr>
-<h3>School Holiday Fun Games with Family - 23 June 2024 (Sun) - 3 PM to 6 PM</h3>
+<h3>Earn Cashback at Heartland Shops in East Coast with PayLah! - (Valid until 31 July 2024)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCHholidayfungames.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/POSB_Neighbourhoods_Cashback_DP_East_Coast_GRC_A4_FA.jpg">
 </div>
-<p>Create memories with your family at Bedok Indian Activity Executive Committee's
-School Holiday Fun Games with Family on Sunday, 23 June!</p>
-<p>Enjoy games such as a treasure hunt, shuttle run pyramid builder, bounce
-and catch, 3-legged race, as well as Zumba &amp; Chair Yoga for Seniors!
-Ticket ($3) also includes refreshments!</p>
-<p>Participants are advised to dress in sports attire.</p>
-<p><a href="go.gov.sg/bedokcctickets" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+<p>Earn $1 cashback every month when you scan to PayLah! at heartland shops
+in East Coast GRC! Offer is valid till 31 July 2024, with a minimum spend
+of $5 on a single transaction! Use the code 'HEARTLANDS' when you signup
+and get $5!</p>
+<p>*Terms and conditions apply.</p>
+<p><a href="go.gov.sg/posbhlcashback" rel="noopener noreferrer nofollow" target="_blank">Click here to learn more!</a>
 </p>
 <hr>
 <h3>Bayshore Station Public Preview &amp; Makan Tour - 21 June 2024 (Fri) - 11.30 AM to 3 PM</h3>
