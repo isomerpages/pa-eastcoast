@@ -25,7 +25,6 @@ and unbridled community joy!</p>
 18 June 2024.</p>
 <p>This annual event is bigger, better, and bursting with excitement, so
 secure your spot now!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_14_at_1_19_27_PM.jpg">
 </div>
