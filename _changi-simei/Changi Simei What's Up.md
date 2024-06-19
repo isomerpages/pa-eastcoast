@@ -4,13 +4,28 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Via Duct Farmers' Market</h3>
+<h3>National Day Estate Decoration 2024</h3>
+<p>Get ready to paint the town red (and white) as we deck out our estate
+for Singapore National Day!</p>
+<p>Mark your calendars for 13 July 2024, Saturday, from 9am to 12pm, for
+a fabulous community decorating extravaganza.</p>
+<p>Come on board while we flex our patriotic flair and creativity to celebrate
+Singapore's big day in style! <a href="https://www.onepa.gov.sg/events/national-day-estate-decoration-2024-35969707" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Farmers' Market" src="/images/farmers_market_viaduct.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Estate_Decoration_Poster.png">
 </div>
-<p>Come and hang out with us on 18 May 2024, Saturday from 4pm to 9pm.</p>
-<p>No space is left underutilized at Changi Simei, we are up and about making
-this place as lively and vibrant as our residents dream of it to be!</p>
 <hr>
-<p>Follow us on our <a href="https://www.facebook.com/ChangiSimeiCC/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for our happenings!</p>
+<h3>National Day Dinner 2024</h3>
+<p>The ultimate celebration is here – Changi Simei National Day Dinner 2024!
+Join us on 3 Aug for a night of delicious food, dazzling performances,
+and unbridled community joy!</p>
+<p>🎟️ Tickets: $40 per person, <strong>only available at Changi Simei CC</strong> from
+18 June 2024.</p>
+<p>This annual event is bigger, better, and bursting with excitement, so
+secure your spot now!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_14_at_1_19_27_PM.jpg">
+</div>
 <p></p>
