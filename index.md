@@ -14,6 +14,21 @@ sections:
           description: Make a difference!
           url: /contactus
   - textcards:
+      title: Our East Coast
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Healthier East Coast
+          description: Bringing Healthier Singapore initiatives to make a Healthier East
+            Coast
+          linktext: Click here to read about Healthier East Coast!
+          url: ""
+        - title: Infrastructural Upgrades
+          description: How our East Coast is shaping to look like!
+          linktext: Click to see East Coast with a bird's eye view!
+          url: ""
+  - textcards:
       title: Our 3 Pillars
       subtitle: FIND OUT MORE ABOUT OUR
       id: textcards
@@ -31,19 +46,11 @@ sections:
           description: Our earth, our responsibility.
           linktext: Click to read about our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
-  - textcards:
-      title: Our East Coast
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Healthier East Coast
-          description: Bringing Healthier Singapore initiatives to make a Healthier East
-            Coast
-          linktext: Click here to read about Healthier East Coast!
-          url: ""
-        - title: Infrastructural Upgrades
-          description: How our East Coast is shaping to look like!
-          linktext: Click to see East Coast with a bird's eye view!
-          url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
