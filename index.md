@@ -28,6 +28,14 @@ sections:
           description: How our East Coast is shaping to look like!
           linktext: Click to see East Coast with a bird's eye view!
           url: ""
+  - infopic:
+      title: Healthier East Coast
+      subtitle: Add an image and text
+      id: infopic
+      description: Bringing Healthier Singapore initiatives to make a Healthier East Coast.
+      button: Click here to find out more.
+      alt: Image alt text
+      url: www.
   - textcards:
       title: Our 3 Pillars
       subtitle: FIND OUT MORE ABOUT OUR
@@ -46,11 +54,4 @@ sections:
           description: Our earth, our responsibility.
           linktext: Click to read about our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
