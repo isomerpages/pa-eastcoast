@@ -2,7 +2,7 @@
 layout: homepage
 title: "East Coast: Home to the Sunny Side!"
 description: Official Website of East Coast GRC
-image: /images/Logo_for_Website.png
+image: /images/pa_ec_logos.png
 permalink: /
 notification: Welcome to the Sunny Side!
 sections:
