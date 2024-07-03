@@ -28,14 +28,6 @@ sections:
           description: How our East Coast is shaping to look like!
           linktext: Click to see East Coast with a bird's eye view!
           url: ""
-  - infopic:
-      title: Healthier East Coast
-      subtitle: Add an image and text
-      id: infopic
-      description: Bringing Healthier Singapore initiatives to make a Healthier East Coast.
-      button: Click here to find out more.
-      alt: Image alt text
-      url: www.
   - textcards:
       title: Our 3 Pillars
       subtitle: FIND OUT MORE ABOUT OUR
@@ -44,14 +36,14 @@ sections:
       cards:
         - title: CARING
           description: Where friends and neighbours look out for each other.
-          linktext: Click to read about our East Coast Caring spirit
+          linktext: The East Coast Caring Spirit
           url: https://eastcoast.pa.gov.sg/caring/
         - title: VIBRANT
           description: The most exciting place to live in, in Singapore.
-          linktext: Click to know why East Side is the Best Side
+          linktext: Why East Side is the Best Side
           url: https://eastcoast.pa.gov.sg/vibrant/
         - title: GREEN
           description: Our earth, our responsibility.
-          linktext: Click to read about our Green Initiatives
+          linktext: Our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
 ---
