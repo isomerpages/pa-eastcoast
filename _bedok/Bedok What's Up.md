@@ -32,7 +32,7 @@ or CDC-CCC Awards during the year; and</p>
 Examination in the preceding year</p>
 </li>
 </ul>
-<p><a href="go.gov.sg/bedokcccawards" rel="noopener noreferrer nofollow" target="_blank">Click here to apply now!</a>
+<p><a href="https://go.gov.sg/bedokcccawards" rel="noopener noreferrer nofollow" target="_blank">Click here to apply now!</a>
 </p>
 <hr>
 <h3>Earn Cashback at Heartland Shops in East Coast with PayLah! - (Valid until 31 July 2024)</h3>
@@ -44,7 +44,7 @@ in East Coast GRC! Offer is valid till 31 July 2024, with a minimum spend
 of $5 on a single transaction! Use the code 'HEARTLANDS' when you signup
 and get $5!</p>
 <p>*Terms and conditions apply.</p>
-<p><a href="go.gov.sg/posbhlcashback" rel="noopener noreferrer nofollow" target="_blank">Click here to learn more!</a>
+<p><a href="https://go.gov.sg/posbhlcashback" rel="noopener noreferrer nofollow" target="_blank">Click here to learn more!</a>
 </p>
 <hr>
 <h3>Bayshore Station Public Preview &amp; Makan Tour - 21 June 2024 (Fri) - 11.30 AM to 3 PM</h3>
