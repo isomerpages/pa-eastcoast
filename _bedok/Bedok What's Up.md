@@ -47,20 +47,6 @@ and get $5!</p>
 <p><a href="https://go.gov.sg/posbhlcashback" rel="noopener noreferrer nofollow" target="_blank">Click here to learn more!</a>
 </p>
 <hr>
-<h3>Bayshore Station Public Preview &amp; Makan Tour - 21 June 2024 (Fri) - 11.30 AM to 3 PM</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_12_at_10_58_44.jpg">
-</div>
-<p>Excited for the opening of 7 new Thomson-East Coast Line (TEL) Stations?
-Why not join us on Friday, 21 June for the Bayshore Station Public Preview!
-Ride for free between the 7 new TEL stations and experience Singapore's
-newest MRT line!</p>
-<p>East Coast Residents can also purchase tickets ($10 each) for our Makan
-tour, which includes a tour of Bayshore station, tree-planting event, and
-a delicious lunch at Old Bibik's Peranakan Kitchen!</p>
-<p><a href="go.gov.sg/bayshore21june" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
-</p>
-<hr>
 <h3>Bedok WEC Presents: Trip to Singapore Garden Festival 2024 @ Suntec City - 5 August 2024 (Mon) - 9.30AM to 3PM</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WEC_Garden_Festival_A4.png">
