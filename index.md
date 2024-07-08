@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to the Sunny Side!
 sections:
   - hero:
-      background: /images/welcometoeastcoast.jpg
+      background: /images/updated_Welcome_to_East_Coast.png
       variant: center
       key_highlights:
         - title: Find out how to volunteer with us
