@@ -24,11 +24,11 @@ sustainable lifestyle.</p>
 <p>We ask you to join us in our journey in building the most exciting place
 in Singapore.</p>
 <p>Find out more by following us on our social media:</p>
-<p><u>Facebook</u>
+<p><a href="https://www.facebook.com/OurEastCoastBuzz/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 </p>
-<p><u>Instagram</u>
+<p><a href="https://www.instagram.com/oureastcoastbuzz/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
-<p><u>Tik Tok</u>
+<p><a href="https://www.tiktok.com/@ecbuzz" rel="noopener noreferrer nofollow" target="_blank">Tik Tok</a>
 </p>
 <p></p>
 <p>And / or enquire to volunteer with us <u>her</u>e.</p>
