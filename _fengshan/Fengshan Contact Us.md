@@ -26,7 +26,7 @@ in activities and programmes week in week out over here.</p>
 </p>
 <p><a href="https://www.instagram.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
-<p><a href="go.gov.sg/fstelegram" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>
+<p><a href="https://www.go.gov.sg/fstelegram" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>
 </p>
 <p></p>
 <p></p>
