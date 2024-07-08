@@ -55,5 +55,5 @@ and get $5!</p>
 to Singapore Garden Festival 2024 at Suntec City on 5 Aug! Immerse yourself
 in award-winning floral displays and check out works by the world's top
 garden and floral designers!</p>
-<p><a href="go.gov.sg/gardenfestival24" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+<p><a href="https://www.go.gov.sg/gardenfestival24" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
 </p>
