@@ -10,7 +10,7 @@ description: ""
 </div>
 <h3>Part of the East Coast Plan is to make Singapore greener. Why? Because we want to leave the earth in a good place for our future generations.</h3>
 <p></p>
-<p>Want to make a difference to the earth? Reach out to join us via <a href="https://form.gov.sg/65f7e5764d5246341e3f06e7" rel="noopener noreferrer nofollow" target="_blank">link</a> here.</p>
+<p>Want to make a difference to the earth? Reach out to join us via <a href="https://go.gov.sg/ecvolunteer" rel="noopener noreferrer nofollow" target="_blank">link</a> here.</p>
 <p>#GreenEastCoast</p>
 <p></p>
 <p></p>
