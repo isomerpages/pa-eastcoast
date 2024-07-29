@@ -38,20 +38,19 @@ sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
 kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
 mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
 kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
-<h3>Saturday, 3 August 2024: Kampong Chai Chee National Day Carnival </h3>
+<h3>Saturday, 3 August 2024: Kampong Chai Chee National Day Carnival</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee National Day Carnival" src="/images/NDC.jpg">
 </div>
-<p>📣 Calling all football fans! Don't miss the thrilling UEFA Euro 2024
-Knockout matches! Catch the Round of 16 from 30 June to 3 July 2024, 12am
-to 5am, Quarter-Finals from 6 July to 7 July 2024, 12am to 5am, Semi-Finals
-from 10 July to 11 July 2024, 3am to 5am, and the Finals on 15 July 2024,
-3am to 5am. Get ready to cheer for your favorite teams and immerse yourself
-in the excitement of Euro 2024!</p>
-<p>No registration required. Seats available on a first-come, first-serve
-basis.</p>
+<p>🇸🇬 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐲 𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 𝐀𝐥𝐞𝐫𝐭! 🇸🇬</p>
+<p>Join us on 3 August 2024 for our National Day Carnival!&nbsp;</p>
+<p>&nbsp;</p>
+<p>Celebrate with us as we fly our flags high and enjoy a day filled with
+fun, food, and festivities. We can't wait to see you there!</p>
+<p>&nbsp;</p>
+<p>More details in the poster, and let's make this National Day unforgettable</p>
 <h3>Saturday, 13 July 24: Gd Lobangs @ KCC Kitchen Tour + Burger Making</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gd Lobangs @ KCC Kitchen Tour &amp; Burger Making at BK!" src="/images/BK.jpg">
