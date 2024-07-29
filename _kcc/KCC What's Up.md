@@ -38,10 +38,11 @@ sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
 kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
 mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
 kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
-<h3>Saturday, 3 August 2024</h3>
+<h3>Saturday, 3 August 2024: Kampong Chai Chee National Day Carnival </h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Football Match Screening at Heartbeat@Bedok" src="/images/IMG_20221219_WA0052.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee National Day Carnival" src="/images/NDC.jpg">
 </div>
 <p>📣 Calling all football fans! Don't miss the thrilling UEFA Euro 2024
 Knockout matches! Catch the Round of 16 from 30 June to 3 July 2024, 12am
