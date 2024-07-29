@@ -46,10 +46,8 @@ kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
 </div>
 <p>🇸🇬 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐲 𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 𝐀𝐥𝐞𝐫𝐭! 🇸🇬</p>
 <p>Join us on 3 August 2024 for our National Day Carnival!&nbsp;</p>
-<p>&nbsp;</p>
 <p>Celebrate with us as we fly our flags high and enjoy a day filled with
 fun, food, and festivities. We can't wait to see you there!</p>
-<p>&nbsp;</p>
 <p>More details in the poster, and let's make this National Day unforgettable</p>
 <h3>Saturday, 13 July 24: Gd Lobangs @ KCC Kitchen Tour + Burger Making</h3>
 <div class="isomer-image-wrapper">
