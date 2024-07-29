@@ -24,15 +24,16 @@ etc. No one is left behind in this digital age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="We're embracing new skills and shaping the future with enthusiasm and joy." src="/images/IMG_20240629_WA0119.jpg">
 </div>
 <p></p>
-<p>Calling all lovely makcik, pakcik, abang and adik of Kampong Chai Chee!</p>
+<p><strong>Calling all lovely makcik, pakcik, abang and adik of Kampong Chai Chee!</strong>
+</p>
 <p>Join us at Kelab Digital and embark on a journey of digital learning and
 empowerment for life. At Kelab Digital, we're committed to equipping you
 with essential digital skills for life, ensuring that you can navigate
 the online world safely, smartly, and with kindness. Keep an eye out for
 our upcoming posters, or call us at 62419878 to register and be part of
-this exciting initiative.</p>
-<p>Let's embrace the digital age together!</p>
-<p>Penduduk Kampong Chai Chee yang dikasihi!</p>
+this exciting initiative. Let's embrace the digital age together!</p>
+<p><strong>Penduduk Kampong Chai Chee yang dikasihi!</strong>
+</p>
 <p>Sertai kami di Kelab Digital dan mulakan perjalanan pembelajaran digital
 sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
 kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
