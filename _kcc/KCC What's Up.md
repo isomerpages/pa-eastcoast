@@ -32,6 +32,12 @@ the online world safely, smartly, and with kindness. Keep an eye out for
 our upcoming posters, or call us at 62419878 to register and be part of
 this exciting initiative.</p>
 <p>Let's embrace the digital age together!</p>
+<p>Penduduk Kampong Chai Chee yang dikasihi!</p>
+<p>Sertai kami di Kelab Digital dan mulakan perjalanan pembelajaran digital
+sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
+kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
+mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
+kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
 <h3>UEFA Euro 2024 Football Match Live Screening</h3>
 <p></p>
 <div class="isomer-image-wrapper">
