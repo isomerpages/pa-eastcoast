@@ -38,7 +38,7 @@ sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
 kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
 mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
 kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
-<h3>UEFA Euro 2024 Football Match Live Screening</h3>
+<h3>Saturday, 3 August 2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Football Match Screening at Heartbeat@Bedok" src="/images/IMG_20221219_WA0052.jpg">
