@@ -15,7 +15,7 @@ etc. No one is left behind in this digital age.</p>
 <p><a href="https://www.tiktok.com/@tankiathow/video/7279055987309382914" rel="noopener noreferrer nofollow" target="_blank">Click here to see what SMS Tan Kiat How has to say about Tech Saturday!</a>
 </p>
 <hr>
-<h3>Saturday, 31 Aug 24</h3>
+<h3>Saturday, 31 Aug 24: Kelab Digital @ Kampong Chai Chee</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Immersed in the world of digital learning with our lovely makciks" src="/images/IMG_20240629_WA0142.jpg">
