@@ -15,30 +15,22 @@ etc. No one is left behind in this digital age.</p>
 <p><a href="https://www.tiktok.com/@tankiathow/video/7279055987309382914" rel="noopener noreferrer nofollow" target="_blank">Click here to see what SMS Tan Kiat How has to say about Tech Saturday!</a>
 </p>
 <hr>
-<h3>Friday, 5 July 24: How? Ask Kiat How Dialogue Series: Wasiat Talk</h3>
+<h3>Saturday, 31 Aug 24</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LPA_Talk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Immersed in the world of digital learning with our lovely makciks" src="/images/IMG_20240629_WA0142.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20231122_WA0011.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="We're embracing new skills and shaping the future with enthusiasm and joy." src="/images/IMG_20240629_WA0119.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wasiat Talk Poster" src="/images/Wasiat_Talk__ML_.jpg">
-</div>
-<p>Join us for "How? Ask Kiat How" – our community dialogue series delving
-into topics such as Lasting Power of Attorney, CPF, and housing. Gain clarity
-on government policies and engage with agency representatives. We also
-offer sessions in Mandarin and Malay!</p>
-<p></p>
-<p>In July, "How? Ask Kiat How" will connect with the Malay Muslim Community,
-partnering with Al Ansar Mosque and the law firm ARLC to organize the Estate
-Planning Talk titled "Wasiat Talk" on Friday, 5 July 2024 at Al Ansar Mosque
-Auditorium, from 8:00pm to 9:30pm. This session will be conducted in Malay.</p>
-<p><a href="https://go.gov.sg/kccwasiat24" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
-</p>
+<p>Calling all lovely makcik, pakcik, abang and adik of Kampong Chai Chee!
+Join us at Kelab Digital and embark on a journey of digital learning and
+empowerment for life. At Kelab Digital, we're committed to equipping you
+with essential digital skills for life, ensuring that you can navigate
+the online world safely, smartly, and with kindness. Keep an eye out for
+our upcoming posters, or call us at 62419878 to register and be part of
+this exciting initiative. Let's embrace the digital age together!</p>
 <h3>UEFA Euro 2024 Football Match Live Screening</h3>
 <p></p>
 <div class="isomer-image-wrapper">
