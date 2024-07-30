@@ -31,6 +31,6 @@ in Singapore.</p>
 <p><a href="https://www.tiktok.com/@ecbuzz" rel="noopener noreferrer nofollow" target="_blank">Tik Tok</a>
 </p>
 <p></p>
-<p>And / or enquire to volunteer with us <a href="https://form.gov.sg/65f7e5764d5246341e3f06e7" rel="noopener noreferrer nofollow" target="_blank">link</a>
-</p>
+<p>And / or <a href="https://form.gov.sg/65f7e5764d5246341e3f06e7" rel="noopener noreferrer nofollow" target="_blank">enquire</a> to
+volunteer with us</p>
 <p></p>
