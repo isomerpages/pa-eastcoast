@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Find out how to volunteer with us
           description: Make a difference!
-          url: eastcoast.pa.gov.sg/contactus
+          url: eastcoast.pa.gov.sg/contact-us
   - textcards:
       title: Our 3 Pillars
       subtitle: FIND OUT MORE ABOUT OUR
