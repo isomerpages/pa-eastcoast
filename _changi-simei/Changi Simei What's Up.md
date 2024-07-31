@@ -4,11 +4,6 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>National Day Estate Decoration 2024</h3>
-<p>Get ready to paint the town red (and white) as we deck out our estate
-for Singapore National Day!</p>
-<p>Mark your calendars for 13 July 2024, Saturday, from 9am to 12pm, for
-a fabulous community decorating extravaganza.</p>
 <p>Come on board while we flex our patriotic flair and creativity to celebrate
 Singapore's big day in style! <a href="https://www.onepa.gov.sg/events/national-day-estate-decoration-2024-35969707" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>
 </p>
