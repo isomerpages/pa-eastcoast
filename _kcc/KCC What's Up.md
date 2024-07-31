@@ -50,30 +50,5 @@ kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
 <p>Celebrate with us as we fly our flags high and enjoy a day filled with
 fun, food, and festivities. We can't wait to see you there!</p>
 <p>More details in the poster, and let's make this National Day unforgettable</p>
-<h3>Saturday, 13 July 24: Gd Lobangs @ KCC Kitchen Tour + Burger Making</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gd Lobangs @ KCC Kitchen Tour &amp; Burger Making at BK!" src="/images/BK.jpg">
-</div>
-<p>🍔 Join us in collaboration with Burger King for an exclusive opportunity!
-GD Lobangs@KCC invites parents and children to discover the secrets of
-preparing and serving hot, fresh food at Burger King. Sign up now for Burger
-King’s Burger Making Workshop to uncover what goes on behind the scenes
-and create your very own delicious burger!</p>
-<p><a href="https://go.gov.sg/glbkw1" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
-<br>
-</p>
-<h3>Saturday, 20 July 24: Family Fun Outing at Dinoland</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dinoland Poster" src="/images/Dinoland.jpg">
-</div>
-<p>🦕 Calling all parents! Dive into an immersive dinosaur adventure at Dinoland,
-set within an indoor live forest. Join us for an unforgettable experience
-where families will learn about different dinosaur species. Participating
-families will also take part in the mini obstacle challenge and bond over
-family-friendly playtime! Don't miss out – sign up now for an unforgettable
-adventure at Dinoland!</p>
-<p><a href="https://go.gov.sg/td05oj" rel="noopener noreferrer nofollow" target="_blank">Click here to register</a>
-</p>
 <p></p>
 <p></p>
