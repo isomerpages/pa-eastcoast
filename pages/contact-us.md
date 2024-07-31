@@ -18,8 +18,7 @@ contacts:
   - content:
       - phone: +65 6243 3822
       - email: eastcoastbuzz@pa.gov.sg
-      - other: To volunteer with us, drop us your details at
-          https://go.gov.sg/ecvolunteer
+      - other: Drop us an email if you have an idea to build our East Coast together!
     title: General Enquiries & Feedback
 feedback: ""
 ---
