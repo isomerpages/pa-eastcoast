@@ -4,36 +4,7 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Bedok CCC Education Awards 2024 - (Closing Date: 5 July 2024)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_06_13_at_16_14_43.jpg">
-</div>
-<p>Are you or your child a student who has attained good academic performance
-and has passed the final year exams in the preceding year? Apply for Bedok
-Citizens Consultative Committee's Education Awards 2024!</p>
-<p><strong>Eligibility:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A Singapore Citizen or child of a Singapore Citizen, and permanent bona
-fide resident of Bedok Constituency</p>
-</li>
-<li>
-<p>Attending a Primary, Secondary, Special School, JC, Centralised Institute,
-ITE, Polytechnic or University under the jurisdiction of the Ministry of
-Education (MOE) of Singapore.</p>
-</li>
-<li>
-<p>Must not be in receipt of any Edusave Merit Bursary/Scholarship Award
-or CDC-CCC Awards during the year; and</p>
-</li>
-<li>
-<p>Must have achieved good academic performance and passed the Final Year
-Examination in the preceding year</p>
-</li>
-</ul>
-<p><a href="https://go.gov.sg/bedokcccawards" rel="noopener noreferrer nofollow" target="_blank">Click here to apply now!</a>
-</p>
+<p></p>
 <hr>
 <h3>Earn Cashback at Heartland Shops in East Coast with PayLah! - (Valid until 31 July 2024)</h3>
 <div class="isomer-image-wrapper">
