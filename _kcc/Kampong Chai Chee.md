@@ -13,7 +13,7 @@ description: ""
 to green living. We take pride in nurturing a warm and inclusive atmosphere
 that embodies the spirit of a close-knit village.</p>
 <p>At the heart of Kampong Chai Chee lies a caring and vibrant community
-spirit, where residents prioritize each other's well-being and foster strong
+spirit, where residents prioritise each other's well-being and foster strong
 bonds through a supportive environment. Neighbours in Kampong Chai Chee
 look out for one another. The neighborhood also pulsates with vibrancy,
 exemplified by the lively National Day Carnival and Kampong Chai Chee Sports
