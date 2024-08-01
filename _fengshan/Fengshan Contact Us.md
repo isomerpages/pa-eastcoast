@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fengshan_Main.jpg">
 </div>
 <p></p>
-<p>Fengshan CC has gone through a face lift, tucked nicely between the rustic
+<p>Fengshan CC has gone through a facelift, tucked nicely between the rustic
 neighbourhoods around the area. We see the young and old alike, engaging
 in activities and programmes week in week out over here.</p>
 <hr>
