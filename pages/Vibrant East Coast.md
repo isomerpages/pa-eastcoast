@@ -31,11 +31,11 @@ up!</p>
 <a rel="noopener noreferrer nofollow" href="https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/a_better_public_transport_experience/transforming-tanah-merah-mrt-viaduct-into-community-spaces.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LTA Via Duct Reboot" src="/images/viaduct.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="LTA Viaduct Reboot" src="/images/viaduct.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">LTA Via Duct Reboot</div>
+<div class="isomer-card-title">LTA Viaduct Reboot</div>
 <div class="isomer-card-description">This space will be undergoing a transformation for more community activities
 to held there, definitely going to be iconic</div>
 <div class="isomer-card-link">Click here to read on what our friends from LTA have to say.</div>
