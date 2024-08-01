@@ -28,5 +28,5 @@ awareness and making our homes greener.</p>
 <p></p>
 <h4>CAN I VOLUNTEER WITH YOU?</h4>
 <p>Yes, we love to meet you and say hi!</p>
-<p><a href="https://go.gov.sg/ecvolunteer" rel="noopener noreferrer nofollow" target="_blank">Click here to enquire!</a>
+<p><a href="https://go.gov.sg/ecvolunteer" rel="noopener noreferrer nofollow" target="_blank">Click here to reach out to us!</a>
 </p>
