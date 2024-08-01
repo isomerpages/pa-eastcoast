@@ -10,10 +10,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS_Cover.jpg">
 </div>
 <p>Known to be a quaint neighbourhood, Changi Simei has a unique facade of
-HDB flats and a very homely private residential area. The kampong spirit
+HDB flats and a very homely private residential area. The kampung spirit
 is very alive in Changi Simei, and you will often see smiles and happy
 faces in many of our community events.</p>
-<p>This space has also encountered multiple facelifts, with a new Eastpoint
+<p>This space has also undergone multiple facelifts, with a new Eastpoint
 Mall, and many more cycling paths that link up all the estates.</p>
 <p>We have little gems hidden in our neighbourhood, like an old school hotel
 from the 1950s tucked in our estate and one of the most beautiful art community
