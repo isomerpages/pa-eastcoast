@@ -25,7 +25,7 @@ a glimpse into the rich cultural tapestry of Fengshan.</p>
 <p></p>
 <p><strong><u>Did you know?</u></strong>
 </p>
-<p><em>The name Fengshan came from the name Hong San, which was once the name of a Chinese temple in Fengshan.</em>
+<p><em>The name Fengshan came from the name Hong San, which was once the name of a Chinese temple.</em>
 </p>
 <p></p>
 <p></p>
