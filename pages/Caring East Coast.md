@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
 </div>
-<h2>East Coast has a wide range of programs and activities that continue to champion our caring pillar.</h2>
+<h2>East Coast has a wide range of programmes and activities that continue to champion our caring pillar.</h2>
 <p>From providing support to our caregivers to our WinSTEM Bursary, East
 Coast continues to find ways to reach out to help every walk of life.</p>
 <p>These initiatives also continue to engage volunteers, who give back to
