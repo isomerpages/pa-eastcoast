@@ -1,0 +1,8 @@
+collections:
+  kcc:
+    output: true
+    order:
+      - Kampong Chai Chee.md
+      - KCC Highlights.md
+      - KCC What's Up.md
+      - KCC Contact Us.md

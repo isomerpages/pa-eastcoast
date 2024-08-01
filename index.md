@@ -1,32 +1,34 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: "East Coast: Home to the Sunny Side!"
+description: Official Website of East Coast GRC
+image: /images/pa_ec_logos.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to the Sunny Side!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/updated_Welcome_to_East_Coast.jpg
+      variant: center
+      key_highlights:
+        - title: Find out how to volunteer with us
+          description: Make a difference!
+          url: eastcoast.pa.gov.sg/contact-us
+  - textcards:
+      title: Our 3 Pillars
+      subtitle: FIND OUT MORE ABOUT OUR
+      id: textcards
+      description: of East Coast
+      cards:
+        - title: CARING
+          description: Where friends and neighbours look out for each other.
+          linktext: The East Coast Caring Spirit
+          url: https://eastcoast.pa.gov.sg/caring/
+        - title: VIBRANT
+          description: The most exciting place to live in, in Singapore.
+          linktext: Why East Side is the Best Side
+          url: https://eastcoast.pa.gov.sg/vibrant/
+        - title: GREEN
+          description: Our earth, our responsibility.
+          linktext: Our Green Initiatives
+          url: https://eastcoast.pa.gov.sg/green/
 ---
-
