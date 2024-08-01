@@ -1,7 +1,7 @@
 logo: /images/pa_ec_logos.png
 links:
   - title: Home
-    url: /
+    url: https://eastcoast.pa.gov.sg/
     sublinks:
       - title: About us
         url: /aboutus/
