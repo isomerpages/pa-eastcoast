@@ -10,7 +10,7 @@ description: ""
 </div>
 <p>If there are 3 words we want you to know, that would be...</p>
 <h2><strong>CARING, VIBRANT &amp; GREEN</strong></h2>
-<p>We are made up 5 unique divisions with one common goal; to make the <strong>EAST SIDE</strong> the <strong>BEST SIDE</strong>.</p>
+<p>We are made up of 5 unique divisions with one common goal; to make the <strong>EAST SIDE</strong> the <strong>BEST SIDE</strong>.</p>
 <p>We care for one another, looking out for those among us who may need a
 helping hand. It's this Kampung Spirit that bonds us.</p>
 <p>We are a vibrant community, brimming with a rich diversity of food, culture
