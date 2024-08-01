@@ -14,7 +14,7 @@ more! Visit The Chill Mug study room for free from 10am to 9.30pm daily,
 or grab a late night bite at Han's Cafe and Cake House!</p>
 <hr>
 <p><strong>Address:</strong> 
-<br>850 Upper Changi Road
+<br>850 New Upper Changi Road
 <br>Singapore 467352
 <br>Contact Number: 6442 5317</p>
 <p><a href="https://maps.app.goo.gl/pWy1rRocJbuN1haJ6" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
