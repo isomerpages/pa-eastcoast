@@ -16,7 +16,7 @@ happy faces in our community.</p>
 <p>This space has also undergone multiple facelifts, with a new Eastpoint
 Mall, and many more cycling paths that link the whole estate.</p>
 <p>In the neighbourhood, there are hidden gems such as a historic hotel from
-the 1950s tucked in the estate and picturesque community gardens in Singapore.
+the 1950s tucked in the estate and scenic community gardens in Singapore.
 The quiet sense of beauty in Changi Simei never grows old.</p>
 <p></p>
 <p><strong><u>Did you know?</u></strong>
