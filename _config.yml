@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2thuhgvaz74co.amplifyapp.com
 prod: https://master.d2thuhgvaz74co.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/pa_ec_logos.png
+shareicon: /images/pa_ec_logos_updated.png
 is_government: false
 google_analytics_ga4: G-FGSDXE4JTF
 linkedin-insights: ""
