@@ -9,7 +9,8 @@ description: ""
 <h3>National Day Observance Ceremony 2024</h3>
 <p>Together, One Changi Simei</p>
 <p>Celebrate Changi Simei's Kampong Spirit at our National Day Observance
-Ceremony 2024 on 9 Aug, from 8.30 am to 11.30 am!</p>
+Ceremony 2024 on <strong>9 Aug, from 8.30 am to 11.30 am, </strong>at the
+open field beside Eastpoint Mall.</p>
 <p>Event Highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
