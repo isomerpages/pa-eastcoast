@@ -39,3 +39,5 @@ and also share their day to day concerns.</div>
 </div>
 </div>
 <p></p>
+<p>Check out the latest happening in Changi Simei <a href="https://eastcoast.pa.gov.sg/cs-whatsup/" rel="noopener noreferrer nofollow" target="_blank">here!</a>
+</p>
