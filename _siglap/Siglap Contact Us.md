@@ -21,7 +21,7 @@ Fast food restaurant, supermarket and 24 hour gym.</p>
 <hr>
 <p><strong>Follow us on social media!</strong>
 </p>
-<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Siglap Community Club Facebook</a>
 </p>
-<p><a href="https://www.instagram.com/siglapcommunityclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<p><a href="https://www.instagram.com/siglapcommunityclub" rel="noopener noreferrer nofollow" target="_blank">Siglap Community Club Instagram</a>
 </p>
