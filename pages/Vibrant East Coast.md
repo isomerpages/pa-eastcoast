@@ -59,5 +59,6 @@ the sunny side of East Coast.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid02P7h8bL7bM3p8DXxLXmqCngnK2V1Pk4YuZgzHW2znKXojSVHCthNQsSxz5Revw5gXl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="kampong chai chee facelift" src="/images/410464242_756279899869721_8523462695243460515_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Old Kampong Chai Chee Facelift</div><div class="isomer-card-description">A future hub for all our youths - our old site is about to undergo a facelift so it can serve our future youths.</div><div class="isomer-card-link">Click here to take a short trip down memory lane.</div></div></a>
 </div>
 <p>
-<br>
+<br>Read more about our <a href="https://www.eastcoast.pa.gov.sg/caring/" rel="noopener noreferrer nofollow" target="_blank">Caring East Coast </a>or
+find why about our <a href="https://www.eastcoast.pa.gov.sg/green/" rel="noopener noreferrer nofollow" target="_blank">Green Initiatives.</a>
 </p>
