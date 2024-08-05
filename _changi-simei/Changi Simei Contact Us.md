@@ -23,5 +23,5 @@ Simei over the years.</p>
 <hr>
 <p><strong>Follow us on social media!</strong>
 </p>
-<p>Follow us on Facebook: <a href="https://www.facebook.com/ChangiSimeiCC/" rel="noopener noreferrer nofollow" target="_blank">Changi Simei CC</a>
+<p><a href="https://www.facebook.com/ChangiSimeiCC/" rel="noopener noreferrer nofollow" target="_blank">Changi Simei CC Facebook</a>
 </p>
