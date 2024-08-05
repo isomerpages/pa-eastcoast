@@ -22,8 +22,8 @@ or grab a late night bite at Han's Cafe and Cake House!</p>
 <hr>
 <p><strong>Follow us on social media!</strong>
 </p>
-<p><a href="https://www.facebook.com/weluvbedok" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p><a href="https://www.facebook.com/weluvbedok" rel="noopener noreferrer nofollow" target="_blank">Bedok Community Club Facebook</a>
 </p>
-<p><a href="https://www.instagram.com/bedokcares/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<p><a href="https://www.instagram.com/bedokcares/" rel="noopener noreferrer nofollow" target="_blank">Bedok Community Club Instagram</a>
 </p>
 <p></p>
