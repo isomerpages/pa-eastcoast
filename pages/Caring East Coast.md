@@ -53,3 +53,5 @@ currently enrolled in ITE, Polytechnics, and local universities.</div>
 </a>
 </div>
 <p></p>
+<p>Learn why <a href="https://www.eastcoast.pa.gov.sg/vibrant/" rel="noopener noreferrer nofollow" target="_blank">East Side is the Best Side</a> OR
+check out our <a href="https://www.eastcoast.pa.gov.sg/green/" rel="noopener noreferrer nofollow" target="_blank">Green Initiatives</a>!</p>
