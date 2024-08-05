@@ -46,4 +46,5 @@ but "fang-tastic" evening of fun!</div>
 </div>
 </div>
 <p></p>
-<p></p>
+<p>Check out the latest happenings in Bedok <a href="https://www.eastcoast.pa.gov.sg/bedok-whatsup/" rel="noopener noreferrer nofollow" target="_blank">here!</a>
+</p>
