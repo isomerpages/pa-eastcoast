@@ -17,7 +17,7 @@ or grab a late night bite at Han's Cafe and Cake House!</p>
 <br>850 New Upper Changi Road
 <br>Singapore 467352
 <br>Contact Number: 6442 5317</p>
-<p><a href="https://maps.app.goo.gl/pWy1rRocJbuN1haJ6" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
+<p><a href="https://maps.app.goo.gl/pWy1rRocJbuN1haJ6" rel="noopener noreferrer nofollow" target="_blank">Find out how to get to Bedok Community Club</a>
 </p>
 <hr>
 <p><strong>Follow us on social media!</strong>
