@@ -18,13 +18,13 @@ you're looking for, you'll find it here!</p>
 <br>11 Bedok North Street 1 #01-11
 <br>Singapore 469662
 <br>Contact Number: 6241 9878</p>
-<p><a href="https://maps.app.goo.gl/xm1f1y4mdK84N2Xx8" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for directions</u></a>
+<p><a href="https://maps.app.goo.gl/xm1f1y4mdK84N2Xx8" rel="noopener noreferrer nofollow" target="_blank"><u>How to get to Kampong Chai Chee Community Club</u></a>
 </p>
 <hr>
 <p><strong>Follow us on social media!</strong>
 </p>
-<p><a href="https://www.facebook.com/kcc.ekampong" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p><a href="https://www.facebook.com/kcc.ekampong" rel="noopener noreferrer nofollow" target="_blank">Kampong Chai Chee Community Club Facebook</a>
 </p>
-<p><a href="https://www.instagram.com/ourkampongchaichee/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<p><a href="https://www.instagram.com/ourkampongchaichee/" rel="noopener noreferrer nofollow" target="_blank">Kampong Chai Chee Community Club Instagram</a>
 </p>
 <p></p>

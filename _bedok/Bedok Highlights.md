@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/community_fridge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Community Fridge" src="/images/community_fridge.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -21,7 +21,7 @@ those in need with donations from partners and individuals.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Flea Market" src="/images/bedokfleamarket.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Flea Market" src="/images/bedokfleamarket.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ your booth ($5)!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Halloween" src="/images/bedokhalloween.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Halloween" src="/images/bedokhalloween.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,4 +46,5 @@ but "fang-tastic" evening of fun!</div>
 </div>
 </div>
 <p></p>
-<p></p>
+<p>Check out the latest happenings in Bedok <a href="https://www.eastcoast.pa.gov.sg/bedok-whatsup/" rel="noopener noreferrer nofollow" target="_blank">here!</a>
+</p>

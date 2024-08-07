@@ -20,4 +20,5 @@ a greener, more sustainable future for all.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/fengshancommunityclub" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stories in Fengshan" src="/images/storiesinfengshan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stories in Fengshan</div><div class="isomer-card-description">A platform where community stories come to life and shared within Fengshan.</div><div class="isomer-card-link">Follow us on IG!</div></div></a>
 </div>
-<p></p>
+<p>Check out our lively Fengshan and their latest happenings <a href="https://eastcoast.pa.gov.sg/fengshan-whatsup/" rel="noopener noreferrer nofollow" target="_blank">here!</a>
+</p>

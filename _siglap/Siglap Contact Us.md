@@ -16,12 +16,12 @@ Fast food restaurant, supermarket and 24 hour gym.</p>
 <br>151 Bedok South Road
 <br>Singapore 460151
 <br>Contact Number: 6449 8040</p>
-<p><a href="https://maps.app.goo.gl/Mbze4iVvHRrVgGbA6" rel="noopener noreferrer nofollow" target="_blank">Click here for directions</a>
+<p><a href="https://maps.app.goo.gl/Mbze4iVvHRrVgGbA6" rel="noopener noreferrer nofollow" target="_blank">Directions to Siglap Community Club</a>
 </p>
 <hr>
 <p><strong>Follow us on social media!</strong>
 </p>
-<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p><a href="https://www.facebook.com/mysiglap" rel="noopener noreferrer nofollow" target="_blank">Siglap Community Club Facebook</a>
 </p>
-<p><a href="https://www.instagram.com/siglapcommunityclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<p><a href="https://www.instagram.com/siglapcommunityclub" rel="noopener noreferrer nofollow" target="_blank">Siglap Community Club Instagram</a>
 </p>

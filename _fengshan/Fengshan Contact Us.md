@@ -17,16 +17,16 @@ in activities and programmes week in week out over here.</p>
 <br>20 Bedok North Street 2
 <br>Singapore 469644
 <br>Contact Number: 6449 5136
-<br><a href="https://maps.app.goo.gl/3rosuudgzHNLJUNj9" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for directions</u></a>
+<br><a href="https://maps.app.goo.gl/3rosuudgzHNLJUNj9" rel="noopener noreferrer nofollow" target="_blank"><u>Find out how to get to Fengshan Community Club</u></a>
 </p>
 <hr>
 <p><strong>Follow us on social media!</strong>
 </p>
-<p><a href="https://www.facebook.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p><a href="https://www.facebook.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Fengshan Community Club Facebook</a>
 </p>
-<p><a href="https://www.instagram.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<p><a href="https://www.instagram.com/fengshancommunityclub" rel="noopener noreferrer nofollow" target="_blank">Fengshan Community Club Instagram</a>
 </p>
-<p><a href="https://www.go.gov.sg/fstelegram" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>
+<p><a href="https://www.go.gov.sg/fstelegram" rel="noopener noreferrer nofollow" target="_blank">Fengshan Community Club Telegram</a>
 </p>
 <p></p>
 <p></p>
