@@ -69,7 +69,7 @@ and prioritize our health together!</p>
 </div>
 <p>📢 Attention all youths and aspiring changemakers! Here's your chance
 to voice your opinions on the upcoming National Day Rally 2024 and engage
-directly with community and political leaders.</p>
+directly with community and Grassroots Advisers.</p>
 <p></p>
 <p><strong>Event Highlights:</strong>
 </p>
