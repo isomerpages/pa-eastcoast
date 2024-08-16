@@ -15,7 +15,7 @@ etc. No one is left behind in this digital age.</p>
 <p><a href="https://www.tiktok.com/@tankiathow/video/7279055987309382914" rel="noopener noreferrer nofollow" target="_blank">Click here to see what SMS Tan Kiat How has to say about Tech Saturday!</a>
 </p>
 <hr>
-<h3>Saturday, 31 Aug 24: Kelab Digital @ Kampong Chai Chee</h3>
+<h3>Saturday, 24 Aug 24: Kelab Digital @ Kampong Chai Chee</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Immersed in the world of digital learning with our lovely makciks" src="/images/IMG_20240629_WA0142.jpg">
@@ -39,16 +39,22 @@ sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
 kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
 mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
 kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
-<h3>Saturday, 3 August 2024: Kampong Chai Chee National Day Carnival</h3>
-<p></p>
+<h3>Kampong Chai Chee Walkers: Mass Brisk Walk</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee National Day Carnival" src="/images/NDC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (English)" src="/images/KCC_CSN_Mass_Brisk_Walk_EL.jpg">
 </div>
-<p>🇸🇬 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐲 𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 𝐀𝐥𝐞𝐫𝐭! 🇸🇬</p>
-<p>Join us on 3 August 2024 for our National Day Carnival!&nbsp;</p>
-<p>Celebrate with us as we fly our flags high and enjoy a day filled with
-fun, food, and festivities. We can't wait to see you there!</p>
-<p>More details in the poster, and let's make this National Day unforgettable</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (Malay)" src="/images/KCC_CSN_Mass_Brisk_Walk_ML.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (Chinese)" src="/images/KCC_CSN_Mass_Brisk_Walk_CL.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Walking route for Kampong Chai Chee Brisk Walk (English)" src="/images/CSN_Brisk__Walk_Walking_Route.jpg">
+</div>
+<p>Kampong Chai Chee Mass Brisk Walk Route</p>
 <p></p>
 <p></p>
