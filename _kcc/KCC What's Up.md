@@ -56,5 +56,8 @@ kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Walking route for Kampong Chai Chee Brisk Walk (English)" src="/images/CSN_Brisk__Walk_Walking_Route.jpg">
 </div>
 <p>Kampong Chai Chee Mass Brisk Walk Route</p>
-<p></p>
-<p></p>
+<p>Join us for the Kampong Chai Chee Brisk Walk, commencing every first Sunday
+of the Month from September onwards. Lace up your shoes and get ready to
+walk your way to better health and community connections. For more information
+and details, refer to the accompanying poster. Let's create connections
+and prioritize our health together!</p>
