@@ -61,3 +61,6 @@ of the Month from September onwards. Lace up your shoes and get ready to
 walk your way to better health and community connections. For more information
 and details, refer to the accompanying poster. Let's create connections
 and prioritize our health together!</p>
+<p></p>
+<h2>M3 X Kampong Chai Chee MAEC  Post-National Day Rally Dialogue 2024</h2>
+<p></p>
