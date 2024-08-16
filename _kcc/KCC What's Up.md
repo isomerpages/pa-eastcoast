@@ -80,5 +80,5 @@ our community.</p>
 <p>Meet Your Peers: Connect with like-minded youths who share your interests
 and passion. Don't miss this opportunity to make your voices heard and
 contribute to shaping our community's future.</p>
-<p>Sign up at: [<a href="https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)</a>
+<p>Sign up at: [<a href="https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/m3bedok-dialogue2024]</a>
 </p>
