@@ -71,7 +71,7 @@ and prioritize our health together!</p>
 to voice your opinions on the upcoming National Day Rally 2024 and engage
 directly with community and political leaders.</p>
 <p></p>
-<p><strong>Event Highlights:</strong> 
+<p><strong>Event Highlights:</strong>
 </p>
 <p>Safe Space, Open Discussion: Share your thoughts, concerns, and questions
 about NDR 2024</p>
