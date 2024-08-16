@@ -62,5 +62,23 @@ walk your way to better health and community connections. For more information
 and details, refer to the accompanying poster. Let's create connections
 and prioritize our health together!</p>
 <p></p>
-<h2>M3 X Kampong Chai Chee MAEC  Post-National Day Rally Dialogue 2024</h2>
+<h2>M3 X Kampong Chai Chee MAEC Post-National Day Rally Dialogue 2024</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDR_EDM_2024.jpg">
+</div>
+<p>📢 Attention all youths and aspiring changemakers! Here's your chance
+to voice your opinions on the upcoming National Day Rally 2024 and engage
+directly with community and political leaders.</p>
+<p></p>
+<p><strong>Event Highlights:</strong> 
+</p>
+<p>Safe Space, Open Discussion: Share your thoughts, concerns, and questions
+about NDR 2024</p>
+<p>Connect with Leaders: Engage in meaningful conversations with those shaping
+our community.</p>
+<p>Meet Your Peers: Connect with like-minded youths who share your interests
+and passion. Don't miss this opportunity to make your voices heard and
+contribute to shaping our community's future.</p>
+<p>Sign up at: [<a href="https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)</a>
+</p>
