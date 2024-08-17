@@ -88,4 +88,7 @@ contribute to shaping our community's future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_for_Volunteer_at_KCC_Poster_18_Aug_24.jpg">
 </div>
-<p></p>
+<p>Are you ready to make a difference in the community? Join us as a volunteer
+with Kampong Chai Chee and discover how you can get involved, collaborate
+with the Kampong Chai Chee Youth Networks, develop new skills, expand your
+network, and build lasting bonds. Keen to volunteer?</p>
