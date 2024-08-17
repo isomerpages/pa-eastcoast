@@ -17,7 +17,7 @@ sections:
       title: Our 3 Pillars
       subtitle: FIND OUT MORE ABOUT OUR
       id: textcards
-      description: of East Coast
+      description: of the East Coast Plan
       cards:
         - title: CARING
           description: Where friends and neighbours look out for each other.
