@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Community Fridge" src="/images/community_fridge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Community Fridge East Coast Plan" src="/images/community_fridge.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -21,7 +21,7 @@ those in need with donations from partners and individuals.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Flea Market" src="/images/bedokfleamarket.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Flea Market East Coast Plan" src="/images/bedokfleamarket.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ your booth ($5)!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Halloween" src="/images/bedokhalloween.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Community Club Halloween East Coast Plan" src="/images/bedokhalloween.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
