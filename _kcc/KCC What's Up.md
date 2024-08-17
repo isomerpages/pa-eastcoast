@@ -82,3 +82,6 @@ and passion. Don't miss this opportunity to make your voices heard and
 contribute to shaping our community's future.</p>
 <p>Sign up at: [<a href="https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/m3bedok-dialogue2024]</a>
 </p>
+<p></p>
+<h2>Join us as a Kampong Chai Chee Volunteer Today!</h2>
+<p></p>
