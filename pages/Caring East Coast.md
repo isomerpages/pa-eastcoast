@@ -37,11 +37,11 @@ and refurbish them for use again, distributing them to our needy families.</div>
 <p>
 <br>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/videos/684083847084469/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="mobile tcm traditional chinese medicine" src="/images/Mobile_Tcm.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mobile TCM</div><div class="isomer-card-description">TCM Services at the doorstep of our residents, so everyone has access to medical care.</div><div class="isomer-card-link">Check out one of the many Mobile TCM pop ups in East Coast!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/videos/684083847084469/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="mobile tcm traditional chinese medicine East Coast Plan" src="/images/Mobile_Tcm.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mobile TCM</div><div class="isomer-card-description">TCM Services at the doorstep of our residents, so everyone has access to medical care.</div><div class="isomer-card-link">Check out one of the many Mobile TCM pop ups in East Coast!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid0uYXckRtdPZnMtVzUaahVQkEbTcEpouCMhfJS28pg2ohmZFkcARNiAh8qxrRKquK1l" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="winstem" src="/images/WinSTEM_4___Siglap_Winstem__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="WinSTEM (Women in Science, Technology, Engineering and Mathematics) Bursary East Coast Plan" src="/images/WinSTEM_4___Siglap_Winstem__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
