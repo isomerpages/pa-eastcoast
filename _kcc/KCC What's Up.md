@@ -85,3 +85,7 @@ contribute to shaping our community's future.</p>
 <p></p>
 <h2>Join us as a Kampong Chai Chee Volunteer Today!</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_for_Volunteer_at_KCC_Poster_18_Aug_24.jpg">
+</div>
+<p></p>
