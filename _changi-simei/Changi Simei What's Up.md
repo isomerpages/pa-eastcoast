@@ -20,6 +20,19 @@ opportunity to share your thoughts and hear from our Adviser!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changi_Simei_Event_National_Day_Rally.png">
 </div>
-<p></p>
+<hr>
+<h4>PAPAZAO! East Coast Walk at Jurassic Walk</h4>
+<p>Healthier Changi Simei!
+<br>Let's embark on an exciting 9.8km journey from Jurassic Mile to NSRCC
+and back at Healthier Changi Simei! Experience the thrill of exploring
+these scenic locations while getting some invigorating exercise. It's the
+perfect way to enjoy the outdoors and stay active without any pressure.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/455112157_886957566799256_2123752470372551451_k.jpg">
+</div>
+<p>Click here to register: <a href="https://go.gov.sg/papazaochangisimeiwalk?fbclid=IwZXh0bgNhZW0CMTAAAR2rpYErijTQKXqsbw8xXhHhWfoODFzvXcjKjCWZlIw4v10dQvsSZfVrlH4_aem_dZnHNRDpMPFrJBNDtE34rw" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/papazaochangisimeiwalk</u></a><u> </u>
+</p>
 <p>Follow us on our <a href="https://www.facebook.com/ChangiSimeiCC" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for our happenings!</p>
 <p></p>
