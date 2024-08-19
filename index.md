@@ -33,7 +33,7 @@ sections:
           url: https://eastcoast.pa.gov.sg/green/
   - infopic:
       title: Healthier East Coast
-      subtitle: wHAT IS
+      subtitle: What is
       id: infopic
       description: It is about not just xxx
       button: Button Text
