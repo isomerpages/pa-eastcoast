@@ -31,12 +31,4 @@ sections:
           description: Our earth, our responsibility.
           linktext: Our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
-  - infopic:
-      title: Healthier East Coast
-      subtitle: What is
-      id: infopic
-      description: It is about not just xxx
-      button: Button Text
-      image: /images/Healthier_East_Coast_Card.jpg
-      alt: Image alt text
 ---
