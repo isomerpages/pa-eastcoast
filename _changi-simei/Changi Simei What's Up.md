@@ -35,7 +35,7 @@ perfect way to enjoy the outdoors and stay active without any pressure.
 <p>Click here to register: <a href="https://go.gov.sg/papazaochangisimeiwalk?fbclid=IwZXh0bgNhZW0CMTAAAR2rpYErijTQKXqsbw8xXhHhWfoODFzvXcjKjCWZlIw4v10dQvsSZfVrlH4_aem_dZnHNRDpMPFrJBNDtE34rw" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/papazaochangisimeiwalk</u></a>
 </p>
 <hr>
-<h3>Mid Autumn Lantern-Making Workshop</h3>
+<h3>Mid-Autumn Lantern-Making Workshop</h3>
 <p>Join us in crafting your own lantern to celebrate the Mid-Autumn Festival!
 The lantern making workshop will be held on:</p>
 <ul data-tight="true" class="tight">
