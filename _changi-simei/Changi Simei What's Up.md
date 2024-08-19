@@ -53,10 +53,10 @@ The lantern making workshop will be held on:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/455052308_524855376773786_3825265514437954188_n.jpg">
 </div>
-<p>Kids above 5 years old are welcome to join in the creative fun.
-<br>
+<p>Kids above 5 years old are welcome to join in the creative fun!</p>
+<p>
 <br>Don't miss this opportunity to add a personal touch to your Mid-Autumn
-festivities, register now by scanning the QR Code or visit <a href="https://go.gov.sg/cv-event2?fbclid=IwZXh0bgNhZW0CMTAAAR0zRzBnJGNLhoIT2JT4_xBL7PCCRIP5jPhasgbCyDdeLZzr4pEDEwMsYiY_aem_EPGRVgm4na140vyu0f59hQ" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-event2</a>
+festivities. Register now by scanning the QR Code or visit <a href="https://go.gov.sg/cv-event2?fbclid=IwZXh0bgNhZW0CMTAAAR0zRzBnJGNLhoIT2JT4_xBL7PCCRIP5jPhasgbCyDdeLZzr4pEDEwMsYiY_aem_EPGRVgm4na140vyu0f59hQ" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-event2</a>
 </p>
 <hr>
 <p></p>
