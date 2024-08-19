@@ -51,7 +51,7 @@ and Flower Dome!</p>
 trip to the Singapore Night Festival 2024! Explore our downtown areas like
 you’ve never seen them before as they light up for this annual event! Two-way
 transportation is provided from Bedok CC (departing at 6 pm).</p>
-<p> <a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZVMuCtxsbmucSKbcxlJx74TF79RIJULl9yCkrTQMHE-uoUvv68xkPxRNyQWnb7iGKTc_xgs9vr6jYVXFHYvqz4p7BXJgxL_Bc_J70xxrqOXmHEcZSZLu5O384PanWlFzckm2Sn3XIcGof4DcEVmToUXpDVqnftRPc0Pv2UzhMfa3bgG98pVm3o5Dsg65tVhcj18iTupvbJcOO6E6K7JrK-_" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+<p><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZVMuCtxsbmucSKbcxlJx74TF79RIJULl9yCkrTQMHE-uoUvv68xkPxRNyQWnb7iGKTc_xgs9vr6jYVXFHYvqz4p7BXJgxL_Bc_J70xxrqOXmHEcZSZLu5O384PanWlFzckm2Sn3XIcGof4DcEVmToUXpDVqnftRPc0Pv2UzhMfa3bgG98pVm3o5Dsg65tVhcj18iTupvbJcOO6E6K7JrK-_" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
 </p>
 <hr>
 <h3>Echo Free Health Screening - 21 Sep 2024 (Sat), 8AM - 12PM</h3>
@@ -62,6 +62,6 @@ transportation is provided from Bedok CC (departing at 6 pm).</p>
 trip to the Singapore Night Festival 2024! Explore our downtown areas like
 you’ve never seen them before as they light up for this annual event! Two-way
 transportation is provided from Bedok CC (departing at 6 pm).</p>
-<p> <a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZVMuCtxsbmucSKbcxlJx74TF79RIJULl9yCkrTQMHE-uoUvv68xkPxRNyQWnb7iGKTc_xgs9vr6jYVXFHYvqz4p7BXJgxL_Bc_J70xxrqOXmHEcZSZLu5O384PanWlFzckm2Sn3XIcGof4DcEVmToUXpDVqnftRPc0Pv2UzhMfa3bgG98pVm3o5Dsg65tVhcj18iTupvbJcOO6E6K7JrK-_" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+<p><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZVMuCtxsbmucSKbcxlJx74TF79RIJULl9yCkrTQMHE-uoUvv68xkPxRNyQWnb7iGKTc_xgs9vr6jYVXFHYvqz4p7BXJgxL_Bc_J70xxrqOXmHEcZSZLu5O384PanWlFzckm2Sn3XIcGof4DcEVmToUXpDVqnftRPc0Pv2UzhMfa3bgG98pVm3o5Dsg65tVhcj18iTupvbJcOO6E6K7JrK-_" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
 <br>
 </p>
