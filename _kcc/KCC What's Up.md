@@ -105,4 +105,18 @@ network, and build lasting bonds. Keen to volunteer?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Rainbow Ville Mid-Autumn Celebration" src="/images/IMG_20240821_WA0034.jpg">
 </div>
+<p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong> 
+</p>
+<p>Join us for a joyous Mid-Autumn celebration at Bedok Town Centre and Rainbow
+Ville! Kampong Chai Chee residents are invited to register for this enchanting
+event and revel in the festive spirit of Mid-Autumn.</p>
+<p><strong>Benefits of Joining the Event:</strong>
+</p>
+<p>- Experience the rich cultural heritage of Mid-Autumn festivities - Engage
+in vibrant community bonding and connections</p>
+<p>- Enjoy traditional performances, lantern displays, and delectable mooncakes..</p>
+<p>- Create lasting memories with family and friends amidst a lively and
+welcoming atmosphere.</p>
+<p>Don't miss this opportunity to immerse yourself in the warmth and traditions
+of Mid-Autumn. Register now and be part of this illuminating celebration!</p>
 <p></p>
