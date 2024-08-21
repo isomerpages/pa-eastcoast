@@ -15,7 +15,7 @@ etc. No one is left behind in this digital age.</p>
 <p><a href="https://www.tiktok.com/@tankiathow/video/7279055987309382914" rel="noopener noreferrer nofollow" target="_blank">Click here to see what SMS Tan Kiat How has to say about Tech Saturday!</a>
 </p>
 <hr>
-<h3>Saturday, 24 Aug 24: Kelab Digital @ Kampong Chai Chee</h3>
+<h3>Kelab Digital @ Kampong Chai Chee</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Immersed in the world of digital learning with our lovely makciks" src="/images/IMG_20240629_WA0142.jpg">
@@ -26,19 +26,21 @@ etc. No one is left behind in this digital age.</p>
 <p></p>
 <p><strong>Calling all lovely makcik, pakcik, abang and adik of Kampong Chai Chee!</strong>
 </p>
-<p>Join us at Kelab Digital and embark on a journey of digital learning and
-empowerment for life. At Kelab Digital, we're committed to equipping you
-with essential digital skills for life, ensuring that you can navigate
-the online world safely, smartly, and with kindness. Keep an eye out for
-our upcoming posters, or call us at 62419878 to register and be part of
-this exciting initiative. Let's embrace the digital age together!</p>
+<p>Happening every 4th Saturday of the month, join us at Kelab Digital and
+embark on a journey of digital learning and empowerment for life. At Kelab
+Digital, we're committed to equipping you with essential digital skills
+for life, ensuring that you can navigate the online world safely, smartly,
+and with kindness. Keep an eye out for our upcoming posters, or call us
+at 62419878 to register and be part of this exciting initiative. Let's
+embrace the digital age together!</p>
 <p><strong>Penduduk Kampong Chai Chee yang dikasihi!</strong>
 </p>
-<p>Sertai kami di Kelab Digital dan mulakan perjalanan pembelajaran digital
-sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
-kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
-mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
-kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
+<p>Sertai kami pada setiap Sabtu pada minggu keempat pada setiap bulan di
+Kelab Digital dan mulakan perjalanan pembelajaran digital sepanjang hayat.
+Di Kelab Digital, kami komited untuk melengkapi anda dengan kemahiran digital
+penting untuk sepanjang hayat, memastikan anda dapat mengharungi dunia
+dalam talian dengan selamat, bijak, dan dengan penuh kebaikan. Jangan lepaskan
+peluang untuk menyertai kami.</p>
 <h3>Kampong Chai Chee Walkers: Mass Brisk Walk</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -55,12 +57,15 @@ kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Walking route for Kampong Chai Chee Brisk Walk (English)" src="/images/CSN_Brisk__Walk_Walking_Route.jpg">
 </div>
-<p>Kampong Chai Chee Mass Brisk Walk Route</p>
-<p>Join us for the Kampong Chai Chee Brisk Walk, commencing every first Sunday
-of the Month from September onwards. Lace up your shoes and get ready to
-walk your way to better health and community connections. For more information
-and details, refer to the accompanying poster. Let's create connections
-and prioritize our health together!</p>
+<p><strong>Kampong Chai Chee Mass Brisk Walk Route</strong>
+</p>
+<p>Get ready to kick off the Kampong Chai Chee Brisk Walk, starting on Sunday,
+8 September 24, at Heartbeat@Bedok Atrium. Lace up your shoes and join
+us as we walk our way to better health and stronger community connections.</p>
+<p>For more information and details, please refer to the accompanying poster.
+Don't forget to register at</p>
+<p>[<a href="https://go.gov.sg/kccbriskwalk24](https://go.gov.sg/kccbriskwalk24)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
+come together to prioritize our health and build meaningful connections!</p>
 <p></p>
 <h2>M3 X Kampong Chai Chee MAEC Post-National Day Rally Dialogue 2024</h2>
 <p></p>
@@ -92,3 +97,26 @@ contribute to shaping our community's future.</p>
 with Kampong Chai Chee and discover how you can get involved, collaborate
 with the Kampong Chai Chee Youth Networks, develop new skills, expand your
 network, and build lasting bonds. Keen to volunteer?</p>
+<h2>Radiant Moonlight: A Community Mid-Autumn Celebration</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Town Centre Mid-Autumn Celebration" src="/images/Mid_Autumn_Poster_2024_20240821_184722_0000.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rainbow Ville Mid-Autumn Celebration" src="/images/IMG_20240821_WA0034.jpg">
+</div>
+<p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong>
+</p>
+<p>Join us for a joyous Mid-Autumn celebration at Bedok Town Centre and Rainbow
+Ville! Kampong Chai Chee residents are invited to register for this enchanting
+event and revel in the festive spirit of Mid-Autumn.</p>
+<p><strong>Benefits of Joining the Event:</strong>
+</p>
+<p>- Experience the rich cultural heritage of Mid-Autumn festivities - Engage
+in vibrant community bonding and connections</p>
+<p>- Enjoy traditional performances, lantern displays, and delectable mooncakes.</p>
+<p>- Create lasting memories with family and friends amidst a lively and
+welcoming atmosphere.</p>
+<p>Don't miss this opportunity to immerse yourself in the warmth and traditions
+of Mid-Autumn. Register now and be part of this illuminating celebration!</p>
+<p></p>
