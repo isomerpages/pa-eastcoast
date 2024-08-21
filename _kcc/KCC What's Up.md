@@ -97,3 +97,12 @@ contribute to shaping our community's future.</p>
 with Kampong Chai Chee and discover how you can get involved, collaborate
 with the Kampong Chai Chee Youth Networks, develop new skills, expand your
 network, and build lasting bonds. Keen to volunteer?</p>
+<h2>Radiant Moonlight: A Community Mid-Autumn Celebration</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Town Centre Mid-Autumn Celebration" src="/images/Mid_Autumn_Poster_2024_20240821_184722_0000.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rainbow Ville Mid-Autumn Celebration" src="/images/IMG_20240821_WA0034.jpg">
+</div>
+<p></p>
