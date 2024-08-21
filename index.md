@@ -31,4 +31,15 @@ sections:
           description: Our earth, our responsibility.
           linktext: Our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
+  - infopic:
+      title: HEALTHIER EAST COAST?
+      subtitle: Why should I be part of
+      id: infopic
+      description: Your health is your greatest asset. Take charge and start your
+        health journey early by taking proactive steps to benefit you and your
+        family.
+      button: Read about healthier ec
+      url: eastcoast.pa.gov.sg/healthier-east-coast
+      image: /images/Healthier_East_Coast_Card.jpg
+      alt: healthier east coast plan
 ---
