@@ -57,12 +57,16 @@ peluang untuk menyertai kami.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Walking route for Kampong Chai Chee Brisk Walk (English)" src="/images/CSN_Brisk__Walk_Walking_Route.jpg">
 </div>
-<p>Kampong Chai Chee Mass Brisk Walk Route</p>
-<p>Join us for the Kampong Chai Chee Brisk Walk, commencing every first Sunday
-of the Month from September onwards. Lace up your shoes and get ready to
-walk your way to better health and community connections. For more information
-and details, refer to the accompanying poster. Let's create connections
-and prioritize our health together!</p>
+<p><strong>Kampong Chai Chee Mass Brisk Walk Route</strong>
+</p>
+<p>Get ready to kick off the Kampong Chai Chee Brisk Walk, starting on Sunday,
+8 September 24, at Heartbeat@Bedok Atrium. Lace up your shoes and join
+us as we walk our way to better health and stronger community connections.
+:</p>
+<p>For more information and details, please refer to the accompanying poster.
+Don't forget to register at</p>
+<p>[<a href="https://go.gov.sg/kccbriskwalk24](https://go.gov.sg/kccbriskwalk24)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
+come together to prioritize our health and build meaningful connections!</p>
 <p></p>
 <h2>M3 X Kampong Chai Chee MAEC Post-National Day Rally Dialogue 2024</h2>
 <p></p>
