@@ -20,6 +20,22 @@ Chai Chee residents particularly those holding Blue CHAS Card.</div>
 <div class="isomer-card-link">Click here to find out more.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/reel/3519916994927890" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gd Lobangs @ Kampong Chai Chee East Coast Plan" src="/images/Adviser_pasting_CHAS_Card_board__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gd Lobangs @ Kampong Chai Chee</div><div class="isomer-card-description">This initiative, facilitated by KCC’s Adviser, Mr Tan Kiat How, was initiated by grassroots leaders and neighbourhood merchants. It aims to provide special discounts to Kampong Chai Chee (KCC) residents and broaden the set of current cost-of-living assistance measures for KCC residents.</div><div class="isomer-card-link">Click to watch the launch of the programme!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Capturing a heartwarming moment: Mummy and child interaction at the KCC Parenthood Care launch" src="/images/Parenthood_Care.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kampong Chai Chee Parenthood Care Package</div>
+<div class="isomer-card-description">Developed by the Women’s Executive Committee (WEC), the program aims to
+(a) empower parents and grandparents with essential caregiving skills,
+(b) establish the Kampong Chai Chee Parenthood Network for enhanced peer
+support, and (c) provide additional financial assistance for lower-income
+families.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p>Find out more of Kampong Chai Chee's happenings <a href="https://www.eastcoast.pa.gov.sg/kcc-whatsup/" rel="noopener noreferrer nofollow" target="_blank">right here!</a>
 </p>
