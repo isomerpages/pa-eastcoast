@@ -61,8 +61,7 @@ peluang untuk menyertai kami.</p>
 </p>
 <p>Get ready to kick off the Kampong Chai Chee Brisk Walk, starting on Sunday,
 8 September 24, at Heartbeat@Bedok Atrium. Lace up your shoes and join
-us as we walk our way to better health and stronger community connections.
-:</p>
+us as we walk our way to better health and stronger community connections.</p>
 <p>For more information and details, please refer to the accompanying poster.
 Don't forget to register at</p>
 <p>[<a href="https://go.gov.sg/kccbriskwalk24](https://go.gov.sg/kccbriskwalk24)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
