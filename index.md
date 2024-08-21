@@ -39,7 +39,7 @@ sections:
         health journey early by taking proactive steps to benefit you and your
         family.
       button: Read about healthier ec
-      url: www.eastcoast.pa.gov.sg/healthier-east-coast
+      url: https://www.eastcoast.pa.gov.sg/healthier-east-coast/
       image: /images/Healthier_East_Coast_Card.jpg
       alt: healthier east coast plan
 ---
