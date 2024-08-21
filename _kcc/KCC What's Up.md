@@ -15,7 +15,7 @@ etc. No one is left behind in this digital age.</p>
 <p><a href="https://www.tiktok.com/@tankiathow/video/7279055987309382914" rel="noopener noreferrer nofollow" target="_blank">Click here to see what SMS Tan Kiat How has to say about Tech Saturday!</a>
 </p>
 <hr>
-<h3>Saturday, 24 Aug 24: Kelab Digital @ Kampong Chai Chee</h3>
+<h3>Kelab Digital @ Kampong Chai Chee</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Immersed in the world of digital learning with our lovely makciks" src="/images/IMG_20240629_WA0142.jpg">
@@ -26,19 +26,21 @@ etc. No one is left behind in this digital age.</p>
 <p></p>
 <p><strong>Calling all lovely makcik, pakcik, abang and adik of Kampong Chai Chee!</strong>
 </p>
-<p>Join us at Kelab Digital and embark on a journey of digital learning and
-empowerment for life. At Kelab Digital, we're committed to equipping you
-with essential digital skills for life, ensuring that you can navigate
-the online world safely, smartly, and with kindness. Keep an eye out for
-our upcoming posters, or call us at 62419878 to register and be part of
-this exciting initiative. Let's embrace the digital age together!</p>
+<p>Happening every 4th Saturday of the month, join us at Kelab Digital and
+embark on a journey of digital learning and empowerment for life. At Kelab
+Digital, we're committed to equipping you with essential digital skills
+for life, ensuring that you can navigate the online world safely, smartly,
+and with kindness. Keep an eye out for our upcoming posters, or call us
+at 62419878 to register and be part of this exciting initiative. Let's
+embrace the digital age together!</p>
 <p><strong>Penduduk Kampong Chai Chee yang dikasihi!</strong>
 </p>
-<p>Sertai kami di Kelab Digital dan mulakan perjalanan pembelajaran digital
-sepanjang hayat. Di Kelab Digital, kami komited untuk melengkapi anda dengan
-kemahiran digital penting untuk sepanjang hayat, memastikan anda dapat
-mengharungi dunia dalam talian dengan selamat, bijak, dan dengan penuh
-kebaikan. Jangan lepaskan peluang untuk menyertai kami.</p>
+<p>Sertai kami pada setiap Sabtu pada minggu keempat pada setiap bulan di
+Kelab Digital dan mulakan perjalanan pembelajaran digital sepanjang hayat.
+Di Kelab Digital, kami komited untuk melengkapi anda dengan kemahiran digital
+penting untuk sepanjang hayat, memastikan anda dapat mengharungi dunia
+dalam talian dengan selamat, bijak, dan dengan penuh kebaikan. Jangan lepaskan
+peluang untuk menyertai kami.</p>
 <h3>Kampong Chai Chee Walkers: Mass Brisk Walk</h3>
 <p></p>
 <div class="isomer-image-wrapper">
