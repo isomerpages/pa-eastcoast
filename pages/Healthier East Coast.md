@@ -12,7 +12,7 @@ description: ""
 <p>In support of the <a href="https://www.healthiersg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG</a> initiative by the
 Ministry of Health, we are pleased to launch&nbsp;<strong>Healthier East Coast</strong>&nbsp;(Healthier
 EC) under the CARING Pillar of our East Coast Plan. Healthier EC hopes
-to provide holistic health support—physical, Mental, and Social—for you
+to provide holistic health support— Physical, Mental, and Social—for you
 and your loved ones.</p>
 <p></p>
 <h4><strong>What does Healthier EC encompass?</strong></h4>
@@ -26,12 +26,11 @@ the community</p>
 the Eastern Green Corridor)</p>
 </li>
 <li>
-<p>Functional health screening and heath talks</p>
+<p>Functional health screening and health talks</p>
 </li>
 <li>
-<p>Vibrant Community programmes organised by Grassroots Organisations (e.g.
-Residents’ Committee/Network) and interest groups for families and community
-bonding &nbsp;</p>
+<p>Vibrant Community programmes organised by Grassroots Organisations and
+interest groups for families and community bonding &nbsp;</p>
 </li>
 </ul>
 <div class="isomer-card-grid">
