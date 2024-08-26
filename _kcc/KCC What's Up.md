@@ -105,9 +105,9 @@ bonds.</p>
 </div>
 <p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong>
 </p>
-<p>Join us for a joyous Mid-Autumn celebration at Bedok Town Centre and Rainbow
-Ville! Kampong Chai Chee residents are invited to register for this enchanting
-event and revel in the festive spirit of Mid-Autumn.</p>
+<p>Join us for a magical evening under the stars as we celebrate the Mid-Autumn
+Festival in Kampong Chai Chee! This family-friendly event promises a delightful
+blend of tradition, culture, and community spirit.</p>
 <p><strong>Benefits of Joining the Event:</strong>
 </p>
 <p>- Experience the rich cultural heritage of Mid-Autumn festivities - Engage
@@ -117,4 +117,6 @@ in vibrant community bonding and connections</p>
 welcoming atmosphere.</p>
 <p>Don't miss this opportunity to immerse yourself in the warmth and traditions
 of Mid-Autumn. Register now and be part of this illuminating celebration!</p>
+<p><em>Priority will be given to Kampong Chai Chee residents. Limited slots available.</em>
+</p>
 <p></p>
