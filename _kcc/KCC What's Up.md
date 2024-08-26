@@ -4,7 +4,7 @@ permalink: /kcc-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>3rd Saturday of the Month: Tech Saturday @ Kampong Chai Chee</h3>
+<h1>Monthly Program - Tech Saturday @ Kampong Chai Chee</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Saturday Kampong Chai Chee" src="/images/Tech_Saturday.jpg">
 </div>
@@ -15,7 +15,7 @@ etc. No one is left behind in this digital age.</p>
 <p><a href="https://www.tiktok.com/@tankiathow/video/7279055987309382914" rel="noopener noreferrer nofollow" target="_blank">Click here to see what SMS Tan Kiat How has to say about Tech Saturday!</a>
 </p>
 <hr>
-<h3>Kelab Digital @ Kampong Chai Chee</h3>
+<h1>Monthly Program: Kelab Digital @ Kampong Chai Chee</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Immersed in the world of digital learning with our lovely makciks" src="/images/IMG_20240629_WA0142.jpg">
@@ -41,7 +41,7 @@ Di Kelab Digital, kami komited untuk melengkapi anda dengan kemahiran digital
 penting untuk sepanjang hayat, memastikan anda dapat mengharungi dunia
 dalam talian dengan selamat, bijak, dan dengan penuh kebaikan. Jangan lepaskan
 peluang untuk menyertai kami.</p>
-<h3>Kampong Chai Chee Walkers: Mass Brisk Walk</h3>
+<h1>Kampong Chai Chee Walkers: Mass Brisk Walk</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (English)" src="/images/KCC_CSN_Mass_Brisk_Walk_EL.jpg">
@@ -66,50 +66,58 @@ us as we walk our way to better health and stronger community connections.</p>
 Don't forget to register at</p>
 <p>[<a href="https://go.gov.sg/kccbriskwalk24](https://go.gov.sg/kccbriskwalk24)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
 come together to prioritize our health and build meaningful connections!</p>
-<p></p>
-<h2>M3 X Kampong Chai Chee MAEC Post-National Day Rally Dialogue 2024</h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDR_EDM_2024.jpg">
-</div>
-<p>📢 Attention all youths and aspiring changemakers! Here's your chance
-to voice your opinions on the upcoming National Day Rally 2024 and engage
-directly with community and Grassroots Advisers.</p>
-<p></p>
-<p><strong>Event Highlights:</strong>
+<p><strong>Brisk Walk Sessions:</strong>
 </p>
-<p>Safe Space, Open Discussion: Share your thoughts, concerns, and questions
-about NDR 2024</p>
-<p>Connect with Leaders: Engage in meaningful conversations with those shaping
-our community.</p>
-<p>Meet Your Peers: Connect with like-minded youths who share your interests
-and passion. Don't miss this opportunity to make your voices heard and
-contribute to shaping our community's future.</p>
-<p>Sign up at: [<a href="https://go.gov.sg/m3bedok-dialogue2024](https://go.gov.sg/m3bedok-dialogue2024)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/m3bedok-dialogue2024]</a>
-</p>
-<p></p>
-<h2>Join us as a Kampong Chai Chee Volunteer Today!</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sunday, 8 Sep 24</p>
+</li>
+<li>
+<p>Sunday, 6 Oct 24</p>
+</li>
+<li>
+<p>Sunday, 1 Nov 24</p>
+</li>
+<li>
+<p>Sunday, 1 Dec 24</p>
+</li>
+</ol>
+<h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_for_Volunteer_at_KCC_Poster_18_Aug_24.jpg">
 </div>
-<p>Are you ready to make a difference in the community? Join us as a volunteer
-with Kampong Chai Chee and discover how you can get involved, collaborate
-with the Kampong Chai Chee Youth Networks, develop new skills, expand your
-network, and build lasting bonds. Keen to volunteer?</p>
-<h2>Radiant Moonlight: A Community Mid-Autumn Celebration</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Town Centre Mid-Autumn Celebration" src="/images/Mid_Autumn_Poster_2024_20240821_184722_0000.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Community Volunteering Activity at Green Kampong @ Kampong Chai Chee" src="/images/IMG_20240820_WA0005.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rainbow Ville Mid-Autumn Celebration" src="/images/IMG_20240821_WA0034.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Community Volunteers preparing to engage our residents." src="/images/Community_Volunteers.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our youth volunteers assisting our beneficiaries during GVAS program." src="/images/DSC02674.jpg">
+</div>
+<p>Volunteering in Kampong Chai Chee offers a unique opportunity to make
+a meaningful impact in our community while developing skills and connections.</p>
+<p>Discover how you can get involved, collaborate with the Kampong Chai Chee
+Youth Networks, develop new skills, expand your network, and build lasting
+bonds.</p>
+<p>Keen to volunteer? Scan the QR Code :)</p>
+<p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
+</p>
+<p></p>
+<h1>Kampong Chai Chee Mid-Autumn Celebration</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee Mid-Autumn Community Celebration" src="/images/Syuk__EC_Website_Mid_Autumn__Festival_Poster_.jpg">
 </div>
 <p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong>
 </p>
-<p>Join us for a joyous Mid-Autumn celebration at Bedok Town Centre and Rainbow
-Ville! Kampong Chai Chee residents are invited to register for this enchanting
-event and revel in the festive spirit of Mid-Autumn.</p>
+<p>Join us for a magical evening under the stars as we celebrate the Mid-Autumn
+Festival in Kampong Chai Chee! This family-friendly event promises a delightful
+blend of tradition, culture, and community spirit.</p>
 <p><strong>Benefits of Joining the Event:</strong>
 </p>
 <p>- Experience the rich cultural heritage of Mid-Autumn festivities - Engage
@@ -119,4 +127,6 @@ in vibrant community bonding and connections</p>
 welcoming atmosphere.</p>
 <p>Don't miss this opportunity to immerse yourself in the warmth and traditions
 of Mid-Autumn. Register now and be part of this illuminating celebration!</p>
+<p><em>Priority will be given to Kampong Chai Chee residents. Limited slots available.</em>
+</p>
 <p></p>
