@@ -68,10 +68,20 @@ Don't forget to register at</p>
 come together to prioritize our health and build meaningful connections!</p>
 <p><strong>Brisk Walk Sessions:</strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Sunday, 8 Sep 24</p>
+</li>
+<li>
 <p>Sunday, 6 Oct 24</p>
+</li>
+<li>
 <p>Sunday, 1 Nov 24</p>
+</li>
+<li>
 <p>Sunday, 1 Dec 24</p>
+</li>
+</ol>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
