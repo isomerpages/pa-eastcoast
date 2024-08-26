@@ -77,6 +77,18 @@ come together to prioritize our health and build meaningful connections!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_for_Volunteer_at_KCC_Poster_18_Aug_24.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Volunteering Activity at Green Kampong @ Kampong Chai Chee" src="/images/IMG_20240820_WA0005.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Volunteers preparing to engage our residents." src="/images/Community_Volunteers.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our youth volunteers assisting our beneficiaries during GVAS program." src="/images/DSC02674.jpg">
+</div>
 <p>Volunteering in Kampong Chai Chee offers a unique opportunity to make
 a meaningful impact in our community while developing skills and connections.</p>
 <p>Discover how you can get involved, collaborate with the Kampong Chai Chee
