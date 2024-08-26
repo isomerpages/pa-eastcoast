@@ -98,13 +98,10 @@ bonds.</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
 <p></p>
-<h2>Radiant Moonlight: A Community Mid-Autumn Celebration</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Town Centre Mid-Autumn Celebration" src="/images/Mid_Autumn_Poster_2024_20240821_184722_0000.jpg">
-</div>
+<h1>Kampong Chai Chee Mid-Autumn Celebration</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rainbow Ville Mid-Autumn Celebration" src="/images/IMG_20240821_WA0034.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee Mid-Autumn Community Celebration" src="/images/Syuk__EC_Website_Mid_Autumn__Festival_Poster_.jpg">
 </div>
 <p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong>
 </p>
