@@ -95,6 +95,9 @@ a meaningful impact in our community while developing skills and connections.</p
 Youth Networks, develop new skills, expand your network, and build lasting
 bonds.</p>
 <p>Keen to volunteer? Scan the QR Code :)</p>
+<p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
+</p>
+<p></p>
 <h2>Radiant Moonlight: A Community Mid-Autumn Celebration</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bedok Town Centre Mid-Autumn Celebration" src="/images/Mid_Autumn_Poster_2024_20240821_184722_0000.jpg">
