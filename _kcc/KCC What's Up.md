@@ -64,7 +64,7 @@ peluang untuk menyertai kami.</p>
 us as we walk our way to better health and stronger community connections.</p>
 <p>For more information and details, please refer to the accompanying poster.
 Don't forget to register at</p>
-<p>[<a href="https://go.gov.sg/kccbriskwalk24](https://go.gov.sg/kccbriskwalk24)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
+<p>[<a href="https://go.gov.sg/kccbriskwalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
 come together to prioritize our health and build meaningful connections!</p>
 <p><strong>Brisk Walk Sessions:</strong>
 </p>
