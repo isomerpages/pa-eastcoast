@@ -67,5 +67,5 @@ green initiative.</div>
 </div>
 <p></p>
 <p>Read more about our <a href="https://eastcoast.pa.gov.sg/caring/" rel="noopener noreferrer nofollow" target="_blank">Caring East Coast </a>or find
-why <a href="https://www.eastcoast.pa.gov.sg/vibrant/" rel="noopener noreferrer nofollow" target="_blank">East Side is the Best Side.</a>
+why <a href="https://eastcoast.pa.gov.sg/vibrant/" rel="noopener noreferrer nofollow" target="_blank">East Side is the Best Side.</a>
 </p>
