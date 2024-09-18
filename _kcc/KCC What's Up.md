@@ -41,47 +41,65 @@ Di Kelab Digital, kami komited untuk melengkapi anda dengan kemahiran digital
 penting untuk sepanjang hayat, memastikan anda dapat mengharungi dunia
 dalam talian dengan selamat, bijak, dan dengan penuh kebaikan. Jangan lepaskan
 peluang untuk menyertai kami.</p>
-<h1>Kampong Chai Chee Walkers: Mass Brisk Walk</h1>
-<p></p>
+<h1>Kampong Chai Chee Children's Day Carnival</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (English)" src="/images/KCC_CSN_Mass_Brisk_Walk_EL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="KCC Children's Day Carnival" src="/images/KCC_Children_s_Day_Carnival.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (Malay)" src="/images/KCC_CSN_Mass_Brisk_Walk_ML.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (Chinese)" src="/images/KCC_CSN_Mass_Brisk_Walk_CL.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Walking route for Kampong Chai Chee Brisk Walk (English)" src="/images/CSN_Brisk__Walk_Walking_Route.jpg">
-</div>
-<p><strong>Kampong Chai Chee Mass Brisk Walk Route</strong>
+<p><strong>Kampong Chai Chee Children's Day Carnival</strong>
 </p>
-<p>Get ready to kick off the Kampong Chai Chee Brisk Walk, starting on Sunday,
-8 September 24, at Heartbeat@Bedok Atrium. Lace up your shoes and join
-us as we walk our way to better health and stronger community connections.</p>
-<p>For more information and details, please refer to the accompanying poster.
-Don't forget to register at</p>
-<p>[<a href="https://go.gov.sg/kccbriskwalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
-come together to prioritize our health and build meaningful connections!</p>
-<p><strong>Brisk Walk Sessions:</strong>
+<p>𝐉𝐨𝐢𝐧 𝐔𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐊𝐚𝐦𝐩𝐨𝐧𝐠 𝐂𝐡𝐚𝐢 𝐂𝐡𝐞𝐞 𝐂𝐡𝐢𝐥𝐝𝐫𝐞𝐧'𝐬
+𝐃𝐚𝐲 𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥!</p>
+<p>Get ready for a day of Imagination and Creativity at the Kampong Chai
+Chee Children's Day Carnival happening on Saturday, 5 October 2024, at
+Heartbeat@Bedok Atrium!&nbsp;</p>
+<p>Bring the whole family and dive into a world of fun, laughter, and excitement
+with games, activities, and surprises that will spark your children's creativity
+and imagination. From interactive workshops to hands-on crafts, there’s
+something for everyone to enjoy!</p>
+<p>Date: Saturday, 5 October 2024&nbsp;&nbsp;</p>
+<p>Venue: Heartbeat@Bedok Atrium&nbsp;&nbsp;</p>
+<p>Free entry!&nbsp;&nbsp;</p>
+<p>Registration required: https://go.gov.sg/cdc24</p>
+<p>Don’t miss out on this wonderful day of family bonding and creative fun!</p>
+<h1>Be A Samaritan Program</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Be A Samaritan Program" src="/images/Syuk__SOS_Workshop.jpg">
+</div>
+<p>𝐉𝐨𝐢𝐧 𝐭𝐡𝐞 "𝐁𝐞 𝐚 𝐒𝐚𝐦𝐚𝐫𝐢𝐭𝐚𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦: 𝐑𝐚𝐢𝐬𝐞
+𝐌𝐞𝐧𝐭𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐀𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬!"</p>
+<p>Calling all youth!</p>
+<p>Mental health matters, and you can be the difference in someone's life.
+Our "𝐁𝐞 𝐚 𝐒𝐚𝐦𝐚𝐫𝐢𝐭𝐚𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦" is specially curated for
+young people to 𝐬𝐩𝐨𝐭 𝐭𝐡𝐞 𝐬𝐢𝐠𝐧𝐬, learn essential life-saving
+skills, and become a befriender to those in need.</p>
+<p>Mental health awareness is more important than ever. By understanding
+how to recognize signs of distress, you can offer support and be there
+for your friends when they need it most. Together, let's break the stigma
+and build a stronger, more supportive community.</p>
+<p>Date: Saturday, 5 October 2024&nbsp;&nbsp;</p>
+<p>Time: 9:30am - 12:30pm&nbsp;&nbsp;</p>
+<p>Slots are limited, so secure yours now!&nbsp;&nbsp;</p>
+<p>Register here: <a href="https://go.gov.sg/kccmaecmh24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccmaecmh24</a>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sunday, 8 Sep 24</p>
-</li>
-<li>
-<p>Sunday, 6 Oct 24</p>
-</li>
-<li>
-<p>Sunday, 1 Nov 24</p>
-</li>
-<li>
-<p>Sunday, 1 Dec 24</p>
-</li>
-</ol>
+<p>Take the step to be a beacon of hope. 𝐘𝐨𝐮𝐫 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬 𝐜𝐚𝐧
+𝐬𝐚𝐯𝐞 𝐥𝐢𝐯𝐞𝐬!</p>
+<h1>Pharmacy Week @ Heartbeat@Bedok</h1>
+<p>𝐉𝐨𝐢𝐧 𝐮𝐬 𝐟𝐨𝐫 𝐏𝐡𝐚𝐫𝐦𝐚𝐜𝐲 𝐖𝐞𝐞𝐤 𝟐𝟎𝟐𝟒!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pharmacy Week" src="/images/Pharmacy_Week_Poster.png">
+</div>
+<p>Mark your calendars, East Coast residents! On Sunday, 29 September 2024,
+from 10:00 am to 2:30 pm, Heartbeat@Bedok will be buzzing with health and
+wellness activities as we celebrate Pharmacy Week 2024.</p>
+<p>This isn't just another health fair – it's a golden opportunity for you
+and your family to boost your health literacy and take charge of your well-being.
+Whether you're 8 or 80, there's something for everyone!</p>
+<p>Bring your family, bring your neighbours, and let's make East Coast the
+healthiest community in Singapore!&nbsp;</p>
+<p>See you there for a day of learning, fun, and steps towards a healthier
+you.</p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -108,25 +126,6 @@ bonds.</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
 <p></p>
-<h1>Kampong Chai Chee Mid-Autumn Celebration</h1>
+<h1></h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee Mid-Autumn Community Celebration" src="/images/Syuk__EC_Website_Mid_Autumn__Festival_Poster_.jpg">
-</div>
-<p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong>
-</p>
-<p>Join us for a magical evening under the stars as we celebrate the Mid-Autumn
-Festival in Kampong Chai Chee! This family-friendly event promises a delightful
-blend of tradition, culture, and community spirit.</p>
-<p><strong>Benefits of Joining the Event:</strong>
-</p>
-<p>- Experience the rich cultural heritage of Mid-Autumn festivities - Engage
-in vibrant community bonding and connections</p>
-<p>- Enjoy traditional performances, lantern displays, and delectable mooncakes.</p>
-<p>- Create lasting memories with family and friends amidst a lively and
-welcoming atmosphere.</p>
-<p>Don't miss this opportunity to immerse yourself in the warmth and traditions
-of Mid-Autumn. Register now and be part of this illuminating celebration!</p>
-<p><em>Priority will be given to Kampong Chai Chee residents. Limited slots available.</em>
-</p>
 <p></p>
