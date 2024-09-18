@@ -37,5 +37,5 @@ families.</div>
 </div>
 </a>
 </div>
-<p>Find out more of Kampong Chai Chee's happenings <a href="https://www.eastcoast.pa.gov.sg/kcc-whatsup/" rel="noopener noreferrer nofollow" target="_blank">right here!</a>
+<p>Find out more of Kampong Chai Chee's happenings <a href="https://eastcoast.pa.gov.sg/kcc-whatsup/" rel="noopener noreferrer nofollow" target="_blank">right here!</a>
 </p>
