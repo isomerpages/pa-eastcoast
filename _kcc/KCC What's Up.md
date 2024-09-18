@@ -84,7 +84,22 @@ and build a stronger, more supportive community.</p>
 </p>
 <p>Take the step to be a beacon of hope. 𝐘𝐨𝐮𝐫 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬 𝐜𝐚𝐧
 𝐬𝐚𝐯𝐞 𝐥𝐢𝐯𝐞𝐬!</p>
+<h1>Pharmacy Week @ Heartbeat@Bedok</h1>
+<p>𝐉𝐨𝐢𝐧 𝐮𝐬 𝐟𝐨𝐫 𝐏𝐡𝐚𝐫𝐦𝐚𝐜𝐲 𝐖𝐞𝐞𝐤 𝟐𝟎𝟐𝟒!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pharmacy Week" src="/images/Pharmacy_Week_Poster.png">
+</div>
+<p>Mark your calendars, East Coast residents! On Sunday, 29 September 2024,
+from 10:00 am to 2:30 pm, Heartbeat@Bedok will be buzzing with health and
+wellness activities as we celebrate Pharmacy Week 2024.</p>
+<p>This isn't just another health fair – it's a golden opportunity for you
+and your family to boost your health literacy and take charge of your well-being.
+Whether you're 8 or 80, there's something for everyone!</p>
+<p>Bring your family, bring your neighbours, and let's make East Coast the
+healthiest community in Singapore!&nbsp;</p>
+<p>See you there for a day of learning, fun, and steps towards a healthier
+you.</p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
