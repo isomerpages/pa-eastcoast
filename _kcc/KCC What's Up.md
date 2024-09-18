@@ -61,6 +61,30 @@ something for everyone to enjoy!</p>
 <p>Free entry!&nbsp;&nbsp;</p>
 <p>Registration required: https://go.gov.sg/cdc24</p>
 <p>Don’t miss out on this wonderful day of family bonding and creative fun!</p>
+<h1>Be A Samaritan Program</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Be A Samaritan Program" src="/images/Syuk__SOS_Workshop.jpg">
+</div>
+<p>𝐉𝐨𝐢𝐧 𝐭𝐡𝐞 "𝐁𝐞 𝐚 𝐒𝐚𝐦𝐚𝐫𝐢𝐭𝐚𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦: 𝐑𝐚𝐢𝐬𝐞
+𝐌𝐞𝐧𝐭𝐚𝐥 𝐇𝐞𝐚𝐥𝐭𝐡 𝐀𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬!"</p>
+<p>Calling all youth!</p>
+<p>Mental health matters, and you can be the difference in someone's life.
+Our "𝐁𝐞 𝐚 𝐒𝐚𝐦𝐚𝐫𝐢𝐭𝐚𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦" is specially curated for
+young people to 𝐬𝐩𝐨𝐭 𝐭𝐡𝐞 𝐬𝐢𝐠𝐧𝐬, learn essential life-saving
+skills, and become a befriender to those in need.</p>
+<p>Mental health awareness is more important than ever. By understanding
+how to recognize signs of distress, you can offer support and be there
+for your friends when they need it most. Together, let's break the stigma
+and build a stronger, more supportive community.</p>
+<p>Date: Saturday, 5 October 2024&nbsp;&nbsp;</p>
+<p>Time: 9:30am - 12:30pm&nbsp;&nbsp;</p>
+<p>Slots are limited, so secure yours now!&nbsp;&nbsp;</p>
+<p>Register here: <a href="https://go.gov.sg/kccmaecmh24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccmaecmh24</a>
+</p>
+<p>Take the step to be a beacon of hope. 𝐘𝐨𝐮𝐫 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬 𝐜𝐚𝐧
+𝐬𝐚𝐯𝐞 𝐥𝐢𝐯𝐞𝐬!</p>
+<p></p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
