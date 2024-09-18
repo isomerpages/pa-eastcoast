@@ -126,25 +126,6 @@ bonds.</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
 <p></p>
-<h1>Kampong Chai Chee Mid-Autumn Celebration</h1>
+<h1></h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kampong Chai Chee Mid-Autumn Community Celebration" src="/images/Syuk__EC_Website_Mid_Autumn__Festival_Poster_.jpg">
-</div>
-<p>🌕✨ <strong>Kampong Chai Chee Mid-Autumn Celebration: Embracing Tradition, Illuminating Community Spirit</strong>
-</p>
-<p>Join us for a magical evening under the stars as we celebrate the Mid-Autumn
-Festival in Kampong Chai Chee! This family-friendly event promises a delightful
-blend of tradition, culture, and community spirit.</p>
-<p><strong>Benefits of Joining the Event:</strong>
-</p>
-<p>- Experience the rich cultural heritage of Mid-Autumn festivities - Engage
-in vibrant community bonding and connections</p>
-<p>- Enjoy traditional performances, lantern displays, and delectable mooncakes.</p>
-<p>- Create lasting memories with family and friends amidst a lively and
-welcoming atmosphere.</p>
-<p>Don't miss this opportunity to immerse yourself in the warmth and traditions
-of Mid-Autumn. Register now and be part of this illuminating celebration!</p>
-<p><em>Priority will be given to Kampong Chai Chee residents. Limited slots available.</em>
-</p>
 <p></p>
