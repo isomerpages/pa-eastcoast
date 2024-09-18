@@ -59,8 +59,7 @@ something for everyone to enjoy!</p>
 <p>Date: Saturday, 5 October 2024&nbsp;&nbsp;</p>
 <p>Venue: Heartbeat@Bedok Atrium&nbsp;&nbsp;</p>
 <p>Free entry!&nbsp;&nbsp;</p>
-<p>Registration required: <a href="https://go.gov.sg/cdc24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cdc24</a>
-</p>
+<p>Registration required: https://go.gov.sg/cdc24</p>
 <p>Don’t miss out on this wonderful day of family bonding and creative fun!</p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
