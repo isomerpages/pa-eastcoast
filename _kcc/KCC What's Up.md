@@ -41,47 +41,27 @@ Di Kelab Digital, kami komited untuk melengkapi anda dengan kemahiran digital
 penting untuk sepanjang hayat, memastikan anda dapat mengharungi dunia
 dalam talian dengan selamat, bijak, dan dengan penuh kebaikan. Jangan lepaskan
 peluang untuk menyertai kami.</p>
-<h1>Kampong Chai Chee Walkers: Mass Brisk Walk</h1>
-<p></p>
+<h1>Kampong Chai Chee Children's Day Carnival</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (English)" src="/images/KCC_CSN_Mass_Brisk_Walk_EL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="KCC Children's Day Carnival" src="/images/KCC_Children_s_Day_Carnival.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (Malay)" src="/images/KCC_CSN_Mass_Brisk_Walk_ML.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Poster for Kampong Chai Chee Brisk Walk (Chinese)" src="/images/KCC_CSN_Mass_Brisk_Walk_CL.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Walking route for Kampong Chai Chee Brisk Walk (English)" src="/images/CSN_Brisk__Walk_Walking_Route.jpg">
-</div>
-<p><strong>Kampong Chai Chee Mass Brisk Walk Route</strong>
+<p><strong>Kampong Chai Chee Children's Day Carnival</strong>
 </p>
-<p>Get ready to kick off the Kampong Chai Chee Brisk Walk, starting on Sunday,
-8 September 24, at Heartbeat@Bedok Atrium. Lace up your shoes and join
-us as we walk our way to better health and stronger community connections.</p>
-<p>For more information and details, please refer to the accompanying poster.
-Don't forget to register at</p>
-<p>[<a href="https://go.gov.sg/kccbriskwalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccbriskwalk24]</a> Let's
-come together to prioritize our health and build meaningful connections!</p>
-<p><strong>Brisk Walk Sessions:</strong>
+<p>𝐉𝐨𝐢𝐧 𝐔𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐊𝐚𝐦𝐩𝐨𝐧𝐠 𝐂𝐡𝐚𝐢 𝐂𝐡𝐞𝐞 𝐂𝐡𝐢𝐥𝐝𝐫𝐞𝐧'𝐬
+𝐃𝐚𝐲 𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥!</p>
+<p>Get ready for a day of Imagination and Creativity at the Kampong Chai
+Chee Children's Day Carnival happening on Saturday, 5 October 2024, at
+Heartbeat@Bedok Atrium!&nbsp;</p>
+<p>Bring the whole family and dive into a world of fun, laughter, and excitement
+with games, activities, and surprises that will spark your children's creativity
+and imagination. From interactive workshops to hands-on crafts, there’s
+something for everyone to enjoy!</p>
+<p>Date: Saturday, 5 October 2024&nbsp;&nbsp;</p>
+<p>Venue: Heartbeat@Bedok Atrium&nbsp;&nbsp;</p>
+<p>Free entry!&nbsp;&nbsp;</p>
+<p>Registration required: <a href="https://go.gov.sg/cdc24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cdc24</a>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sunday, 8 Sep 24</p>
-</li>
-<li>
-<p>Sunday, 6 Oct 24</p>
-</li>
-<li>
-<p>Sunday, 1 Nov 24</p>
-</li>
-<li>
-<p>Sunday, 1 Dec 24</p>
-</li>
-</ol>
+<p>Don’t miss out on this wonderful day of family bonding and creative fun!</p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
