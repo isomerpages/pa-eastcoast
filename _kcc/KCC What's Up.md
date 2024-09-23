@@ -118,12 +118,10 @@ break it deserves.</p>
 <p>Friday, 4 October 2024</p>
 <p>5:00 PM - 8:00 PM</p>
 <p>Route: Singapore National Stadium → Marina → East Coast Park loop</p>
-<p>&nbsp;</p>
 <p>Why join?</p>
 <p>• Scenic views of Singapore by night</p>
 <p>• Meet new friends</p>
 <p>• Keep fit and de-stress</p>
-<p>&nbsp;</p>
 <p>Perfect for all skill levels! Don't miss out on this amazing experience.</p>
 <p>Register now: <a href="https://go.gov.sg/maecfunbike24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maecfunbike24</a>
 </p>
