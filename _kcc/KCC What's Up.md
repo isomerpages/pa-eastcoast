@@ -101,7 +101,12 @@ healthiest community in Singapore!&nbsp;</p>
 <p>See you there for a day of learning, fun, and steps towards a healthier
 you.</p>
 <h1>Kampong Chai Chee Fun Bike in the City</h1>
-<p>Fun Bike in the City: Twilight Adventure!</p>
+<p><strong>Fun Bike in the City: Twilight Adventure!</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_Bike_in_the_City_4_Oct_24.jpg">
+</div>
 <p>Picture this: The sun's golden rays dance on the Singapore skyline as
 you mount your trusty bicycle. The cool evening breeze whispers promises
 of adventure, and the city hums with excitement. This isn't just any Friday
@@ -122,10 +127,6 @@ break it deserves.</p>
 <p>Perfect for all skill levels! Don't miss out on this amazing experience.</p>
 <p>Register now: <a href="https://go.gov.sg/maecfunbike24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maecfunbike24</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fun Bike in the City" src="/images/Fun_Bike_in_the_City_4_Oct_24.jpg">
-</div>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
