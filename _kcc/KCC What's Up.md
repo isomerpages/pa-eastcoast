@@ -100,6 +100,32 @@ Whether you're 8 or 80, there's something for everyone!</p>
 healthiest community in Singapore!&nbsp;</p>
 <p>See you there for a day of learning, fun, and steps towards a healthier
 you.</p>
+<h1>Kampong Chai Chee Fun Bike in the City</h1>
+<p>Fun Bike in the City: Twilight Adventure!</p>
+<p>Picture this: The sun's golden rays dance on the Singapore skyline as
+you mount your trusty bicycle. The cool evening breeze whispers promises
+of adventure, and the city hums with excitement. This isn't just any Friday
+night – it's the night of our Fun Bike in the City event!</p>
+<p>So, whether you're a cycling pro or just someone who can balance on two
+wheels (hey, that's a start!), this event is for you. It's time to ditch
+the Netflix, silence those work emails, and give your mind the refreshing
+break it deserves.</p>
+<p>Friday, 4 October 2024</p>
+<p>5:00 PM - 8:00 PM</p>
+<p>Route: Singapore National Stadium → Marina → East Coast Park loop</p>
+<p>&nbsp;</p>
+<p>Why join?</p>
+<p>• Scenic views of Singapore by night</p>
+<p>• Meet new friends</p>
+<p>• Keep fit and de-stress</p>
+<p>&nbsp;</p>
+<p>Perfect for all skill levels! Don't miss out on this amazing experience.</p>
+<p>Register now: <a href="https://go.gov.sg/maecfunbike24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maecfunbike24</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fun Bike in the City" src="/images/Fun_Bike_in_the_City_4_Oct_24.jpg">
+</div>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
