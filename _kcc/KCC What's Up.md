@@ -96,6 +96,28 @@ senses!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Syuk__Southern_Island_Tour.jpg">
 </div>
 <p></p>
-<h1></h1>
+<h1>Join the Kampong Chai Chee Walkers: Where Every Step Counts!</h1>
+<p>Imagine starting your Sunday with a refreshing walk, surrounded by friendly
+faces and the vibrant energy of your community. That's exactly what awaits
+you with the Kampong Chai Chee Walkers!</p>
+<p>Mark your calendars for Sunday, 13 Oct 24!</p>
+<p>Being active doesn't have to be complicated. It's as simple as:</p>
+<p>1. Getting up</p>
+<p>2. Lacing up your shoes</p>
+<p>3. Taking that first step</p>
+<p>But it's so much more than just a walk. It's about:</p>
+<p>Meeting new friends who share your passion for health</p>
+<p>Staying informed on the latest health tips and tricks</p>
+<p>Building a stronger, healthier you - one step at a time</p>
+<p>Remember, every journey begins with a single step. Why not make that step
+with us?</p>
+<p>Don't let another Sunday pass you by. Join us and discover how easy and
+enjoyable being active can be!</p>
+<p>Sign up at <a href="https://go.gov.sg/kccwalkersoct24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccwalkersoct24</a>
+</p>
+<p>Let's walk towards a healthier, happier Kampong Chai Chee together!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Poster_v2___8_Sep_24.jpg">
+</div>
 <p></p>
