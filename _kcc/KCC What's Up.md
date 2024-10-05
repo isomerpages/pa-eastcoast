@@ -121,3 +121,67 @@ enjoyable being active can be!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Poster_v2___8_Sep_24.jpg">
 </div>
 <p></p>
+<h1>Divorce &amp; you (Syariah)</h1>
+<p>Perceraian di bawah undang-undang Syariah membentangkan cabaran unik yang
+memerlukan pemahaman menyeluruh tentang prinsip Islam dan hak undang-undang.
+Sesi informatif ini akan membimbing anda melalui kerumitan proses Mahkamah
+Syariah di Singapura, memperkasakan anda untuk menghadapi fasa kehidupan
+yang kritikal ini dengan keyakinan dan jelas.</p>
+<p>Topik Utama yang Dibincangkan:</p>
+<p>• Elemen penting dalam proses perceraian Syariah</p>
+<p>• Hak undang-undang dan kewangan kedua-dua pihak</p>
+<p>• Pengaturan hak penjagaan anak</p>
+<p>• Pembahagian aset perkahwinan</p>
+<p>• Pertimbangan nafkah</p>
+<p>• Kesejahteraan emosi dan perkembangan peribadi</p>
+<p>&nbsp;</p>
+<p>Sama ada anda sedang mempertimbangkan perceraian atau sudah dalam proses
+perceraian, sesi ini akan melengkapkan anda dengan pengetahuan penting
+untuk membuat keputusan yang tepat. Pelajari cara untuk:</p>
+<p>• Memahami hak dan tanggungjawab anda</p>
+<p>• Mengemudi sistem Mahkamah Syariah dengan berkesan</p>
+<p>• Melindungi kepentingan anda dan anak-anak anda</p>
+<p>• Menguruskan aspek emosi perceraian</p>
+<p>• Merancang masa depan yang selamat dan memuaskan</p>
+<p>&nbsp;</p>
+<p>Sertai kami untuk mendapatkan pandangan dan alat yang diperlukan untuk
+menghadapi masa yang mencabar ini dengan ketahanan dan pemerkasaan. Ambil
+langkah pertama ke arah bab baru dalam hidup anda dengan pemahaman yang
+jelas tentang jalan di hadapan.</p>
+<p></p>
+<p>Divorce under Syariah law presents unique challenges that require a thorough
+understanding of Islamic principles and legal rights. This informative
+session will guide you through the intricacies of the Syariah Court process
+in Singapore, empowering you to approach this critical life phase with
+confidence and clarity.</p>
+<p>&nbsp;</p>
+<p>Key Topics Covered:</p>
+<p>• Essential elements of the Syariah divorce process</p>
+<p>• Legal and financial rights of both parties</p>
+<p>• Child custody arrangements</p>
+<p>• Division of matrimonial assets</p>
+<p>• Maintenance considerations</p>
+<p>• Emotional well-being and personal growth</p>
+<p>&nbsp;</p>
+<p>Whether you're contemplating divorce or already navigating the process,
+this session will equip you with vital knowledge to make informed decisions.
+Learn how to:</p>
+<p>• Understand your rights and responsibilities</p>
+<p>• Navigate the Syariah Court system effectively</p>
+<p>• Protect your interests and those of your children</p>
+<p>• Manage the emotional aspects of divorce</p>
+<p>• Plan for a secure and fulfilling future</p>
+<p>&nbsp;</p>
+<p>Join us to gain the insights and tools needed to approach this challenging
+time with resilience and empowerment. Take the first step towards a new
+chapter in your life with a clear understanding of the path ahead.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_Y_Syariah__English_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_Y_Syariah__English_.jpg">
+</div>
+<p></p>
+<p></p>
