@@ -47,13 +47,6 @@ peluang untuk menyertai kami.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Club___KCC_MAEC_Poster__Oct_2024_.jpg">
 </div>
-<h1></h1>
-<h1></h1>
-<p></p>
-<p></p>
-<p></p>
-<h1></h1>
-<p></p>
 <p></p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
@@ -80,6 +73,28 @@ bonds.</p>
 <p>Keen to volunteer? Scan the QR Code :)</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
+<h1>Discover Singapore's Southern Islands Heritage!</h1>
+<p>Join us for an exclusive Southern Island Sharing session by Orang Laut
+SG:</p>
+<p>Saturday, 12 Oct 2024</p>
+<p>11am to 1pm</p>
+<p>Heartbeat@Bedok Function Rooms, Level 3</p>
+<p>Imagine tasting unique cuisine prepared by former Southern Islanders of
+Pulau Semakau while listening to captivating stories from community members.
+This intimate, experiential session promises to be a feast for all your
+senses!</p>
+<p>Experience:</p>
+<p>• Fascinating history by Firdaus Sani</p>
+<p>• Indigenous plant exploration</p>
+<p>• Traditional snacks</p>
+<p>Limited spots available! Register now:</p>
+<p><a href="https://go.gov.sg/kccmaecsharing24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccmaecsharing24</a>
+</p>
+<p>Don't miss this journey into Singapore's hidden past!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Syuk__Southern_Island_Tour.jpg">
+</div>
 <p></p>
 <h1></h1>
 <p></p>
