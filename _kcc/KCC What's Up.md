@@ -186,5 +186,18 @@ chapter in your life with a clear understanding of the path ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_Y_Syariah__English_.jpg">
 </div>
+<h1>Breakfast with Dad!</h1>
+<p>📅 <strong>Date:</strong> Saturday, 23 November 2024
+<br>📍 <strong>Venue:</strong> Heartbeat@Bedok, Activity Room 2, Level 3
+<br>⏰ <strong>Time:</strong> 10:00am – 12:00pm</p>
+<p>Join us for a heartwarming two-hour breakfast where fathers and their
+children can share meaningful conversations, enjoy quality time together,
+and participate in fun activities that foster love and connection. This
+session is designed to help dads strengthen communication and build closer
+bonds with their children in a relaxed and engaging environment.</p>
+<p>Don’t miss this special opportunity to create lasting memories!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_and_Pastel_Cute_Illustrated_Father_s_Day_Promotion_Photo_Poster.jpg">
+</div>
 <p></p>
