@@ -148,6 +148,8 @@ untuk membuat keputusan yang tepat. Pelajari cara untuk:</p>
 menghadapi masa yang mencabar ini dengan ketahanan dan pemerkasaan. Ambil
 langkah pertama ke arah bab baru dalam hidup anda dengan pemahaman yang
 jelas tentang jalan di hadapan.</p>
+<p>Daftar di pautan berikut:</p>
+<p>https://go.gov.sg/maectalk24</p>
 <p></p>
 <p>Divorce under Syariah law presents unique challenges that require a thorough
 understanding of Islamic principles and legal rights. This informative
@@ -175,7 +177,8 @@ Learn how to:</p>
 <p>Join us to gain the insights and tools needed to approach this challenging
 time with resilience and empowerment. Take the first step towards a new
 chapter in your life with a clear understanding of the path ahead.</p>
-<p></p>
+<p>Register below:</p>
+<p>https://go.gov.sg/maectalk24</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_Y_Syariah__English_.jpg">
 </div>
