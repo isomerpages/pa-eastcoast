@@ -4,44 +4,6 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Kids Fun Fest 2024!</h3>
-<p>Get ready for an unforgettable morning at Kids Fun Fest 2024!</p>
-<p>Date: 12 October, 2024 (Saturday)</p>
-<p>Time: 9 AM to 12 PM (Last entry for the woodworking workshop is at 11:30
-AM or while slots last)</p>
-<p>Venue: Jalan Pelatok Playground</p>
-<p>Entry Ticket: $5 per person (includes a snack box and access to the woodworking
-workshop!)</p>
-<p>Ticket Purchase: <strong><a href="https://go.gov.sg/kids-fun-fest-2024?fbclid=IwZXh0bgNhZW0CMTAAAR3_EyVVNgoBGBoCsp-6utaSmejaKt9Pw2W3MZNvrzdHZjf5qN7Kzkf8CeY_aem_WT4sAPhDGMlfEOMl_EScFw" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kids-fun-fest-2024</a></strong>
-</p>
-<p>What to Expect:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Woodworking Wonders: Unleash your creativity in our woodworking workshop!
-Craft your own custom Bag Tag or Toy Car. (Children under 6 may join but
-must be accompanied by an adult)</p>
-<p></p>
-</li>
-<li>
-<p>Bouncy Castles Galore: Jump into fun with our colourful bouncy castles!</p>
-<p></p>
-</li>
-<li>
-<p>Crop Harvesting: Experience the joy of harvesting fresh produce from our
-mini farm.</p>
-<p></p>
-</li>
-<li>
-<p>Family Games: Enjoy a variety of games suitable for all ages!</p>
-</li>
-</ul>
-<p>Bring your family and friends for a morning filled with laughter, creativity,
-and discovery. We can’t wait to see you there!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KIDS_FUN_FEST__2024__1_.png">
-</div>
-<hr>
 <h4>Law Awareness Week</h4>
 <p>Get Informed, Get Involved!</p>
 <p>Join us for a series of talks that will help you navigate the legal landscape.</p>
