@@ -188,5 +188,9 @@ talk on developing confidence in your children!</p>
 <p>Sign up here: <a href="https://go.gov.sg/kccdialogue" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccdialogue</a>
 </p>
 <p>Don't miss this opportunity to empower your parenting journey!&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_20241014_124917_Facebook.jpg">
+</div>
 <h1></h1>
 <p></p>
