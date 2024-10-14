@@ -176,10 +176,20 @@ Rafie! See you on 27 October, 3pm at Heartbeat @ Bedok!&nbsp;</p>
 <p>Want to help your child thrive in today's world? Join us for an insightful
 talk on developing confidence in your children!</p>
 <p>Learn how to:</p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Spot and manage your child's worries</p>
+</li>
+<li>
 <p>Boost your child's confidence and competence</p>
+</li>
+<li>
 <p>Turn small wins into big successes</p>
+</li>
+<li>
 <p>Teach resilience and bouncing back from setbacks</p>
+</li>
+</ol>
 <p>Speaker: Ms Josephine Loh, Senior Manager, Training Family Wellness Division</p>
 <p>Wednesday, 23 October 2024</p>
 <p>7:30 PM - 9:30 PM</p>
