@@ -44,25 +44,52 @@ learn essential skills that might just help you save a life!</p>
 <p><strong><a href="go.gov.sg/bsfaa" rel="noopener noreferrer nofollow" target="_blank">Click here to register now!</a></strong>
 </p>
 <hr>
-<h3>A Tour to Singapore Night Festival - 5 Sep 2024 (Thu), 6PM</h3>
+<h3>Breakfast with Bedok Bougainvillea Residents - 20 Oct 2024 (Thu), 10AM to 12PM</h3>
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="1528" width="1080" alt="May be an image of 1 person and text" src="https://scontent.fsin6-1.fna.fbcdn.net/v/t39.30808-6/455354192_885023186987344_7362834069821013027_n.jpg?stp=dst-jpg_s1080x2048&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=U3GFNR_P7PwQ7kNvgH_WCCE&amp;_nc_ht=scontent.fsin6-1.fna&amp;oh=00_AYCuZfG3njZnKWVi0GCKz_l382ntN9A54xb32fqzhBpCUQ&amp;oe=66C63630">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_11_at_16_14_16.jpg">
 </div>
-<p>Calling all Bedok residents! Join us on Thursday, 5 Sep for an unforgettable
-trip to the Singapore Night Festival 2024! Explore our downtown areas like
-you’ve never seen them before as they light up for this annual event! Two-way
-transportation is provided from Bedok CC (departing at 6 pm).</p>
-<p><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZVMuCtxsbmucSKbcxlJx74TF79RIJULl9yCkrTQMHE-uoUvv68xkPxRNyQWnb7iGKTc_xgs9vr6jYVXFHYvqz4p7BXJgxL_Bc_J70xxrqOXmHEcZSZLu5O384PanWlFzckm2Sn3XIcGof4DcEVmToUXpDVqnftRPc0Pv2UzhMfa3bgG98pVm3o5Dsg65tVhcj18iTupvbJcOO6E6K7JrK-_" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+<p>Join your neighbours and friends for a delightful morning of breakfast
+and bingo! Enjoy great food and lively conversations in the neighbourhood.
+Don't miss out on the fun!</p>
+<p>Call Bedok Bougainvillea RC at 6449 7034 for tickets. This event is only
+open to BBRC residents.</p>
+<hr>
+<h3>Bedok Good Neighbours Award 2024 Nominations - Closing 31 Dec 2024</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_09_at_20_10_12.jpg">
+</div>
+<p>Have a neighbour that you love? Why not nominate them for the Bedok Good
+Neighbours Award!</p>
+<p>If your neighbour is someone that has contributed to making Bedok a more
+Caring, Vibrant, or Green place, nominate them today and you could win
+a $100 voucher!</p>
+<p>Your neighbour will also receive a $50 voucher if they are selected for
+this award!</p>
+<p><strong><a href="go.gov.sg/bgna" rel="noopener noreferrer nofollow" target="_blank">Click here to submit your nomination now!</a></strong>
 </p>
 <hr>
-<h3>Echo Free Health Screening - 21 Sep 2024 (Sat), 8AM - 12PM</h3>
+<h3>Bedok Bunga Merah RC Community Library - Donate your old Books! - Every Monday, 9.30AM - 1PM</h3>
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="1528" width="1080" alt="May be a graphic of text" src="https://scontent.fsin6-1.fna.fbcdn.net/v/t39.30808-6/456422026_888338833322446_3360331098230093902_n.jpg?stp=dst-jpg_s1080x2048&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=NHM_plALRu8Q7kNvgHJRNLi&amp;_nc_ht=scontent.fsin6-1.fna&amp;oh=00_AYC5k9w1zI0yvv98nDE2dE3F-IQNNLl2pGPJI02B58veHg&amp;oe=66C8D434">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donate_Books_a4.png">
 </div>
-<p>Calling all Bedok residents! Join us on Thursday, 5 Sep for an unforgettable
-trip to the Singapore Night Festival 2024! Explore our downtown areas like
-you’ve never seen them before as they light up for this annual event! Two-way
-transportation is provided from Bedok CC (departing at 6 pm).</p>
-<p><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZVMuCtxsbmucSKbcxlJx74TF79RIJULl9yCkrTQMHE-uoUvv68xkPxRNyQWnb7iGKTc_xgs9vr6jYVXFHYvqz4p7BXJgxL_Bc_J70xxrqOXmHEcZSZLu5O384PanWlFzckm2Sn3XIcGof4DcEVmToUXpDVqnftRPc0Pv2UzhMfa3bgG98pVm3o5Dsg65tVhcj18iTupvbJcOO6E6K7JrK-_" rel="noopener noreferrer nofollow" target="_blank">Click here to purchase tickets now!</a>
+<p>Have old books to donate? Bedok Bunga Merah RC's Community Library is
+now accepting donations of old books!</p>
+<p>Give your old books new life by dropping them off at our RC Centre located
+at #01-445, Blk 37 Bedok South Ave 2, (S)460037.</p>
+<p>Please note that due to space constraints, we reserve the right to reject
+any donations.</p>
+<p><strong>Collection time: Every Monday, 9.30am to 6pm.</strong>
+</p>
+<p>Call 64441510 for more information.</p>
+<hr>
+<h3>Our Residents' Hub @ SHHK Activities - Oct &amp; Nov 2024 </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ORH_octnov2024.png">
+</div>
+<p>Calling all Bedok residents! Our Residents’ Hub (located at Singapore
+Hokkien Huay Kuan, 5 Sennett Rd) invites you to check out its programme
+of activities for October and November 2024!</p>
+<p>Kindly note that pre-registration is required.</p>
+<p><a href="go.gov.sg/luckycomresidentshub" rel="noopener noreferrer nofollow" target="_blank">Click here to pre-register for courses now!</a>
 <br>
 </p>
