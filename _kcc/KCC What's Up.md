@@ -153,7 +153,7 @@ bonds with their children in a relaxed and engaging environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_and_Pastel_Cute_Illustrated_Father_s_Day_Promotion_Photo_Poster.jpg">
 </div>
 <h1>Mediacorp Shiok Karaoke Warna</h1>
-<p>ediacorp WARNA 942 mempersembahkan 𝗦𝗛𝗜𝗢𝗞 𝗞𝗔𝗥𝗔𝗢𝗞𝗘 - 𝗝𝗨𝗔𝗥𝗔
+<p>Mediacorp WARNA 942 mempersembahkan 𝗦𝗛𝗜𝗢𝗞 𝗞𝗔𝗥𝗔𝗢𝗞𝗘 - 𝗝𝗨𝗔𝗥𝗔
 𝗟𝗔𝗪𝗔𝗡 𝗝𝗨𝗔𝗥𝗔! Siapakah antara 5 finalis yang akan merebut gelaran
 juara terunggul? Jumpa anda di Heartbeat @ Bedok pada 27 Oktober ini!</p>
 <p>Ahad, 27 Okt 2024</p>
