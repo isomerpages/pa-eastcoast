@@ -4,29 +4,33 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Bedok CC Presents: East Coast Walk - 25 August 2024 (Sun) - 6.30AM to 10AM</h3>
+<h3>Halloween @ Heartlands 9 - 26 Oct 2024 (Sat) - 5.30PM to 10PM</h3>
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="auto" width="100%" alt="May be a graphic of 3 people and text" src="https://scontent.fsin6-1.fna.fbcdn.net/v/t39.30808-6/456034168_886803220142674_4330822056799628760_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=NV0WGpH397AQ7kNvgHJc5He&amp;_nc_ht=scontent.fsin6-1.fna&amp;oh=00_AYA7kYC__oWrfV7uWc4GVjukJibhl4wKQDY5C7HYJBVnrQ&amp;oe=66C8F1E6">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bedok_Halloween_A4.png">
 </div>
-<p>Join us on Sunday, 25 Aug from 6:30 to 10 AM for the East Coast Walk at
-Changi Airport's Jurassic Mile! Get healthy and prepare to meet some prehistoric
-friends! Also featuring special guest Jack Neo! One-way transportation
-will be provided from Bedok CC.</p>
-<p><a href="https://www.facebook.com/hashtag/changiairport?__eep__=6" rel="noopener noreferrer nofollow" target="_blank">Click here to register now!</a>
+<p>Mark your calendars, <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;__cft__[0]=AZV26TFzAcIr9nRlr3lYG4e63n855FRP30X-2vQ5n6379MRlqjIkkuGUUn5y8notHQtUrS859t9VIa57Z2kbSRzuz501pzIA3Sn0V-q-IvO4w70y-a60mrMAToOnoJdpds7BHRsFfvsgzwWImHcV_sdV_d7pWcHVxreqknNrS-c5L50G-jBrd-VbWJejN0aaj4I" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#Bedok</a></strong>! <strong><a href="https://www.facebook.com/hashtag/halloween?__eep__=6&amp;__cft__[0]=AZV26TFzAcIr9nRlr3lYG4e63n855FRP30X-2vQ5n6379MRlqjIkkuGUUn5y8notHQtUrS859t9VIa57Z2kbSRzuz501pzIA3Sn0V-q-IvO4w70y-a60mrMAToOnoJdpds7BHRsFfvsgzwWImHcV_sdV_d7pWcHVxreqknNrS-c5L50G-jBrd-VbWJejN0aaj4I" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="noopener noreferrer nofollow" target="_blank">#Halloween</a></strong> @
+Heartlands 9 is back on 26 October 2024 at Lucky Gardens Playground!</p>
+<p>Join us for a spook-tacular evening of trick-or-treating!</p>
+<p>Look forward to a murder mystery themed haunted house, exciting stage
+performances and Halloween-themed fringe activities!</p>
+<p>Stand a chance to win ghoulishly-attractive prizes including a Ninetendo
+Switch OLED, Ninetendo Switch Lite, myFirst camera and many more!</p>
+<p>Don't miss out! Tickets ($5/pax) are selling fast so get them now!</p>
+<p><strong><a href="go.gov.sg/bynhalloween9" rel="noopener noreferrer nofollow" target="_blank">Get your tickets here!</a></strong>
 </p>
 <hr>
-<h3>Let's Talk About: Our Singaporean Dream Dialogue Session - 31 August 2024 (Sat) - 10.30AM to 12:30PM</h3>
+<h3>Under the Big Tree - 26 Oct 2024 (Sat) - 6.15PM to 9:15PM</h3>
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="1080" width="1080" alt="May be a graphic of text" src="https://scontent.fsin6-1.fna.fbcdn.net/v/t39.30808-6/455606108_802565772034918_7762856513425811374_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_ohc=4UhHWkExQzwQ7kNvgF0NO-p&amp;_nc_ht=scontent.fsin6-1.fna&amp;oh=00_AYCP2qwHxIW2uchw6iZzAMGvNjXiptVu7gxGCx7tjgppAg&amp;oe=66C8FF6C">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/undethebigtree_a4.png">
 </div>
-<p>Hey young adults of East Coast GRC!</p>
-<p>Ever had grand dreams or big concerns about the future? Wonder what Singapore
-will look like in 2050?</p>
-<p>Here’s your chance to shape it! Join us at Let’s Talk about Our Singaporean
-Dream and dive into engaging conversations about our future</p>
-<p>Date: 31 August 2024 (Saturday), 10:30AM - 12:30PM</p>
-<p>Location: Bedok CC, Multi-Purpose Hall</p>
-<p><a href="https://go.gov.sg/bynpostndr24?fbclid=IwZXh0bgNhZW0CMTAAAR0oh62ypNShfUjiWKdh0N0LnQgDQkws1KVlSw8sH1jAOoHlLScNJNz-Qqc_aem_G7NR0OqSx_ynTfQmg8-o0Q" rel="noopener noreferrer nofollow" target="_blank">Sign up here!</a>
+<p>Come dance under the stars with us from 6.15pm on Sat, 26 Oct, at Under
+the Big Tree @ Singapore Hokkien Huay Kuan (5 Sennett Rd)!</p>
+<p>This outdoor dance carnival organised by the Singapore Chinese Dance Theatre
+is a highly anticipated local event held under the iconic big tree at SHHK's
+Cultural Academy.</p>
+<p>Enjoy dance performances along with cultural games, DIY prop-making and
+more! Tickets are only $5 so get them now!</p>
+<p><strong><a href="https://go.gov.sg/bigtree24" rel="noopener noreferrer nofollow" target="_blank">Get your tickets here!</a></strong>
 </p>
 <hr>
 <h3>Gardens By the Bay Tour - 2 September 2024 (Mon) - 9AM to 1.30PM</h3>
