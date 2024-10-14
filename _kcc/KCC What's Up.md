@@ -73,54 +73,6 @@ bonds.</p>
 <p>Keen to volunteer? Scan the QR Code :)</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
-<h1>Discover Singapore's Southern Islands Heritage!</h1>
-<p>Join us for an exclusive Southern Island Sharing session by Orang Laut
-SG:</p>
-<p>Saturday, 12 Oct 2024</p>
-<p>11am to 1pm</p>
-<p>Heartbeat@Bedok Function Rooms, Level 3</p>
-<p>Imagine tasting unique cuisine prepared by former Southern Islanders of
-Pulau Semakau while listening to captivating stories from community members.
-This intimate, experiential session promises to be a feast for all your
-senses!</p>
-<p>Experience:</p>
-<p>• Fascinating history by Firdaus Sani</p>
-<p>• Indigenous plant exploration</p>
-<p>• Traditional snacks</p>
-<p>Limited spots available! Register now:</p>
-<p><a href="https://go.gov.sg/kccmaecsharing24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccmaecsharing24</a>
-</p>
-<p>Don't miss this journey into Singapore's hidden past!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Syuk__Southern_Island_Tour.jpg">
-</div>
-<p></p>
-<h1>Join the Kampong Chai Chee Walkers: Where Every Step Counts!</h1>
-<p>Imagine starting your Sunday with a refreshing walk, surrounded by friendly
-faces and the vibrant energy of your community. That's exactly what awaits
-you with the Kampong Chai Chee Walkers!</p>
-<p>Mark your calendars for Sunday, 13 Oct 24!</p>
-<p>Being active doesn't have to be complicated. It's as simple as:</p>
-<p>1. Getting up</p>
-<p>2. Lacing up your shoes</p>
-<p>3. Taking that first step</p>
-<p>But it's so much more than just a walk. It's about:</p>
-<p>Meeting new friends who share your passion for health</p>
-<p>Staying informed on the latest health tips and tricks</p>
-<p>Building a stronger, healthier you - one step at a time</p>
-<p>Remember, every journey begins with a single step. Why not make that step
-with us?</p>
-<p>Don't let another Sunday pass you by. Join us and discover how easy and
-enjoyable being active can be!</p>
-<p>Sign up at <a href="https://go.gov.sg/kccwalkersoct24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccwalkersoct24</a>
-</p>
-<p>Let's walk towards a healthier, happier Kampong Chai Chee together!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Poster_v2___8_Sep_24.jpg">
-</div>
-<p></p>
 <h1>Divorce &amp; you (Syariah)</h1>
 <p>Perceraian di bawah undang-undang Syariah membentangkan cabaran unik yang
 memerlukan pemahaman menyeluruh tentang prinsip Islam dan hak undang-undang.
