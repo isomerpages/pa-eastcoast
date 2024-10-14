@@ -171,5 +171,22 @@ Rafie! See you on 27 October, 3pm at Heartbeat @ Bedok!&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SK_2024__IGNative_.jpg">
 </div>
-<p></p>
+<h1>𝐇𝐨𝐰 𝐀𝐬𝐤 𝐊𝐢𝐚𝐭 𝐇𝐨𝐰 𝐃𝐢𝐚𝐥𝐨𝐠𝐮𝐞 𝐒𝐞𝐫𝐢𝐞𝐬: 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐂𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭 𝐊𝐢𝐝𝐬!</h1>
+<p>Calling all parents of children and teens!</p>
+<p>Want to help your child thrive in today's world? Join us for an insightful
+talk on developing confidence in your children!</p>
+<p>Learn how to:</p>
+<p>Spot and manage your child's worries</p>
+<p>Boost your child's confidence and competence</p>
+<p>Turn small wins into big successes</p>
+<p>Teach resilience and bouncing back from setbacks</p>
+<p>Speaker: Ms Josephine Loh, Senior Manager, Training Family Wellness Division</p>
+<p>Wednesday, 23 October 2024</p>
+<p>7:30 PM - 9:30 PM</p>
+<p>Heartbeat@Bedok Function Room, Level 3</p>
+<p>Register now for a chance to win exciting prizes!</p>
+<p>Sign up here: <a href="https://go.gov.sg/kccdialogue" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccdialogue</a>
+</p>
+<p>Don't miss this opportunity to empower your parenting journey!&nbsp;</p>
+<h1></h1>
 <p></p>
