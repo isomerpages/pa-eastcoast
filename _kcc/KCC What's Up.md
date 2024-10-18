@@ -213,21 +213,12 @@ talk on developing confidence in your children!</p>
 </ul>
 <p>Get ready for a day of community fun and excitement! Hosted by the charismatic
 Jay Nesh, this event promises to be a memorable experience for all.</p>
-<p>Highlights:</p>
-<ol data-tight="true" class="tight">
-<li>
+<p><strong>Highlights:</strong>
+</p>
 <p>Delicious snacks</p>
-</li>
-<li>
 <p>Engaging workshops</p>
-</li>
-<li>
 <p>Lively dance performances</p>
-</li>
-<li>
 <p>Festive music</p>
-</li>
-</ol>
 <p>Special Feature: Help us create Singapore's largest bottle cap rangoli!
 Be part of this unique community art project.</p>
 <p>Bring your family and friends for a morning of bonding and creativity.
