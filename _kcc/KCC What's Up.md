@@ -95,20 +95,18 @@ untuk membuat keputusan yang tepat. Pelajari cara untuk:</p>
 <p>• Melindungi kepentingan anda dan anak-anak anda</p>
 <p>• Menguruskan aspek emosi perceraian</p>
 <p>• Merancang masa depan yang selamat dan memuaskan</p>
-<p>&nbsp;</p>
 <p>Sertai kami untuk mendapatkan pandangan dan alat yang diperlukan untuk
 menghadapi masa yang mencabar ini dengan ketahanan dan pemerkasaan. Ambil
 langkah pertama ke arah bab baru dalam hidup anda dengan pemahaman yang
 jelas tentang jalan di hadapan.</p>
 <p>Daftar di pautan berikut:</p>
-<p>https://go.gov.sg/maectalk24</p>
-<p></p>
+<p><a href="https://go.gov.sg/maectalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maectalk24</a> 
+</p>
 <p>Divorce under Syariah law presents unique challenges that require a thorough
 understanding of Islamic principles and legal rights. This informative
 session will guide you through the intricacies of the Syariah Court process
 in Singapore, empowering you to approach this critical life phase with
 confidence and clarity.</p>
-<p>&nbsp;</p>
 <p>Key Topics Covered:</p>
 <p>• Essential elements of the Syariah divorce process</p>
 <p>• Legal and financial rights of both parties</p>
@@ -116,7 +114,6 @@ confidence and clarity.</p>
 <p>• Division of matrimonial assets</p>
 <p>• Maintenance considerations</p>
 <p>• Emotional well-being and personal growth</p>
-<p>&nbsp;</p>
 <p>Whether you're contemplating divorce or already navigating the process,
 this session will equip you with vital knowledge to make informed decisions.
 Learn how to:</p>
@@ -125,7 +122,6 @@ Learn how to:</p>
 <p>• Protect your interests and those of your children</p>
 <p>• Manage the emotional aspects of divorce</p>
 <p>• Plan for a secure and fulfilling future</p>
-<p>&nbsp;</p>
 <p>Join us to gain the insights and tools needed to approach this challenging
 time with resilience and empowerment. Take the first step towards a new
 chapter in your life with a clear understanding of the path ahead.</p>
@@ -202,5 +198,39 @@ talk on developing confidence in your children!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_20241014_124917_Facebook.jpg">
 </div>
-<h1></h1>
+<h1>Kampong Chai Chee Deepavali Celebrations</h1>
+<p>Join us for Kampong Chai Chee Deepavali Celebrations!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: Saturday, 9 November 2024</p>
+</li>
+<li>
+<p>Time: 10:00 AM - 1:00 PM</p>
+</li>
+<li>
+<p>Venue: Heartbeat@Bedok Atrium</p>
+</li>
+</ul>
+<p>Get ready for a day of community fun and excitement! Hosted by the charismatic
+Jay Nesh, this event promises to be a memorable experience for all.</p>
+<p>Highlights:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Delicious snacks</p>
+</li>
+<li>
+<p>Engaging workshops</p>
+</li>
+<li>
+<p>Lively dance performances</p>
+</li>
+<li>
+<p>Festive music</p>
+</li>
+</ol>
+<p>Special Feature: Help us create Singapore's largest bottle cap rangoli!
+Be part of this unique community art project.</p>
+<p>Bring your family and friends for a morning of bonding and creativity.
+Let's celebrate the vibrant spirit of Kampong Chai Chee together!</p>
+<p></p>
 <p></p>
