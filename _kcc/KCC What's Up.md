@@ -100,7 +100,7 @@ menghadapi masa yang mencabar ini dengan ketahanan dan pemerkasaan. Ambil
 langkah pertama ke arah bab baru dalam hidup anda dengan pemahaman yang
 jelas tentang jalan di hadapan.</p>
 <p>Daftar di pautan berikut:</p>
-<p><a href="https://go.gov.sg/maectalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maectalk24</a> 
+<p><a href="https://go.gov.sg/maectalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maectalk24</a>
 </p>
 <p>Divorce under Syariah law presents unique challenges that require a thorough
 understanding of Islamic principles and legal rights. This informative
@@ -232,5 +232,9 @@ Jay Nesh, this event promises to be a memorable experience for all.</p>
 Be part of this unique community art project.</p>
 <p>Bring your family and friends for a morning of bonding and creativity.
 Let's celebrate the vibrant spirit of Kampong Chai Chee together!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241016_WA0003.jpg">
+</div>
 <p></p>
 <p></p>
