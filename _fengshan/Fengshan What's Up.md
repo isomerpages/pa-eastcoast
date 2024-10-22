@@ -16,17 +16,17 @@ Centre - Blk 124 Bedok North Road #01-155</p>
 <p>Walk in to the Blk 124 RN centre on the day of the activity! Open to all
 to participate.</p>
 <hr>
-<h3><strong>Fengshan Digital Club</strong></h3>
 <blockquote>
-<p>Ready to elevate your digital skills and unlock the full potential of
-your smart phone devices?</p>
+<p>
+<br><strong>Walk waaaa</strong>Ready to elevate your digital skills and unlock
+the full potential of your smart phone devices?</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_for_life__2_.png">
 </div>
-<p>We have collaborated with The Singapore Digital Office to bring you the
-Learn Digital Workshop at Fengshan, curriculum are designed to empower
-you with the knowledge you need in today's digital world!</p>
+<p>We have collaborated with The Sinffffffffffffffgapore Digital Office to
+bring you the Learn Digital Workshop at Fengshan, curriculum are designed
+to empower you with the knowledge you need in today's digital world!</p>
 <p></p>
 <p>𝙒𝙝𝙖𝙩'𝙨 𝙞𝙣 𝙨𝙩𝙤𝙧𝙚 𝙛𝙤𝙧 𝙮𝙤𝙪 𝙬𝙝𝙚𝙣 𝙮𝙤𝙪 𝙨𝙞𝙜𝙣 𝙪𝙥
 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙬𝙤𝙧𝙠𝙨𝙝𝙤𝙥?</p>
