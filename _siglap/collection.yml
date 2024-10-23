@@ -2,6 +2,7 @@ collections:
   siglap:
     output: true
     order:
+      - Siglap CC Kids Club.md
       - Siglap Home.md
       - Siglap Highlights.md
       - Siglap What's Up.md
