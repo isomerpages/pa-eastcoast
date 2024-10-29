@@ -66,13 +66,13 @@ links:
     sublinks:
       - title: About us
         url: /siglap-home
+      - title: Siglap Kids Club
+        url: /siglap-cc-kids-club/
       - title: Highlights
         url: /siglap-highlights
       - title: What's up
         url: /siglap-whatsup
       - title: Contact us
         url: /siglap-contactus
-      - title: Siglap Kids Club
-        url: https://eastcoast.pa.gov.sg/siglap-cc-kids-club/
   - title: Contact us
     url: /contact-us
