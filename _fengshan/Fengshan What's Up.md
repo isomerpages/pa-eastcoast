@@ -4,38 +4,74 @@ permalink: /fengshan-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3><strong>New exercises in the community</strong></h3>
+<h3><strong>Functional Assessment</strong></h3>
 <blockquote>
-<p>Stay active and healthy at Blk 124 Fengshan Aspen Residents' Network (RN)
-Centre - Blk 124 Bedok North Road #01-155</p>
+<p><strong>Assess your fitness levels and gain useful tips to improve towards your healthy lifestyle.</strong>
+</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blk_124_activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FA.png">
 </div>
-<p>Walk in to the Blk 124 RN centre on the day of the activity! Open to all
-to participate.</p>
+<p>Are you 50 years or older? Join us for a <em>Functional Screening</em> to
+find out your current fitness and functional level! 🏃‍♂️💪</p>
+<p>Through five simple assessments, you’ll gain insights into your health
+and receive expert recommendations on exercises to keep active, healthy,
+and age gracefully. It’s never too early to prioritise your wellbeing!
+🌿</p>
+<p></p>
+<p><strong>Register via <a href="www.go.gov.sg/fsaaevents" rel="noopener nofollow" target="_blank">www.go.gov.sg/fsaaevents</a></strong>
+</p>
 <hr>
-<h3><strong>Fengshan Digital Club</strong></h3>
+<h3><strong>Dazzling Deepavali</strong></h3>
 <blockquote>
-<p>Ready to elevate your digital skills and unlock the full potential of
-your smart phone devices?</p>
+<p><strong>Join us for a magical evening of celebration as we light up the night with joy, colour, and community spirit</strong>
+</p>
+<p></p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_for_life__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Deepavali_24.png">
 </div>
-<p>We have collaborated with The Singapore Digital Office to bring you the
-Learn Digital Workshop at Fengshan, curriculum are designed to empower
-you with the knowledge you need in today's digital world!</p>
+<p>𝙒𝙝𝙖𝙩’𝙨 𝙞𝙣 𝙨𝙩𝙤𝙧𝙚 𝙛𝙤𝙧 𝙮𝙤𝙪 𝙖𝙣𝙙 𝙮𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Buffet dinner</p>
+</li>
+<li>
+<p>Song and dance performances</p>
+</li>
+<li>
+<p>Fun stage games</p>
+</li>
+<li>
+<p>Performances from our talented residents</p>
+</li>
+<li>
+<p>Lucky draw with exciting prizes!</p>
+</li>
+</ul>
+<p>Everyone is welcome, so bring your family and friends for an unforgettable
+Deepavali celebration. Let’s come together to share the light and love
+of this festival!</p>
+<p><strong>Register via </strong><a href="www.go.gov.sg/fsdeepavali" rel="noopener nofollow" target="_blank">www.go.gov.sg/fsdeepavali</a>
+</p>
+<hr>
+<h3><strong>Walk For Rice 2024</strong></h3>
+<blockquote>
+<p><strong>Let’s Step Up for a Good Cause this November!</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WFR24__1_.png">
+</div>
+<p>Join us at Bedok Stadium for this meaningful event where <strong>every 300m you walk or run</strong> provides <em>a bowl of white rice, brown rice, and oats to a vulnerable resident</em> in
+the South East District. It’s a fun and simple way to give back while staying
+active!</p>
 <p></p>
-<p>𝙒𝙝𝙖𝙩'𝙨 𝙞𝙣 𝙨𝙩𝙤𝙧𝙚 𝙛𝙤𝙧 𝙮𝙤𝙪 𝙬𝙝𝙚𝙣 𝙮𝙤𝙪 𝙨𝙞𝙜𝙣 𝙪𝙥
-𝙛𝙤𝙧 𝙩𝙝𝙚 𝙬𝙤𝙧𝙠𝙨𝙝𝙤𝙥?</p>
-<p>𝑴𝒐𝒏𝒕𝒉𝒍𝒚 𝑻𝒐𝒑𝒊𝒄𝒔: Master and explore advanced smartphone features
-with fresh topics each month.</p>
-<p>𝑮𝒓𝒐𝒖𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈: Connect with neighbours for a supportive
-collective learning experience.</p>
-<p>𝑼𝒏𝒍𝒐𝒄𝒌 𝑵𝒆𝒘 𝑺𝒌𝒊𝒍𝒍𝒔: Whether you're a beginner or leveling
-up, discover the latest tips to maximize your phone's potential!</p>
+<p>🏅 Plus, the top 3 participants who complete the most rounds will walk
+away with prizes!</p>
+<p></p>
+<p>➡️ <strong>Register via <a href="http://www.go.gov.sg/fswfr2024" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/fswfr2024</a> to redeem a goodie bag when you complete 6 rounds!</strong>
+</p>
 <hr>
 <h3><strong>Get Fit at Fengshan</strong></h3>
 <blockquote>
