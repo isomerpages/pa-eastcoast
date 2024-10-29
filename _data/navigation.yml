@@ -7,6 +7,8 @@ links:
         url: /aboutus/
       - title: Healthier East Coast
         url: /healthier-east-coast/
+      - title: East Coast Green Savers
+        url: /east-coast-green-savers
       - title: Caring
         url: /caring
       - title: Vibrant
@@ -64,6 +66,8 @@ links:
     sublinks:
       - title: About us
         url: /siglap-home
+      - title: Siglap Kids Club
+        url: /siglap-cc-kids-club/
       - title: Highlights
         url: /siglap-highlights
       - title: What's up
