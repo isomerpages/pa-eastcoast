@@ -73,67 +73,6 @@ bonds.</p>
 <p>Keen to volunteer? Scan the QR Code :)</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
-<h1>Divorce &amp; you (Syariah)</h1>
-<p>Perceraian di bawah undang-undang Syariah membentangkan cabaran unik yang
-memerlukan pemahaman menyeluruh tentang prinsip Islam dan hak undang-undang.
-Sesi informatif ini akan membimbing anda melalui kerumitan proses Mahkamah
-Syariah di Singapura, memperkasakan anda untuk menghadapi fasa kehidupan
-yang kritikal ini dengan keyakinan dan jelas.</p>
-<p>Topik Utama yang Dibincangkan:</p>
-<p>• Elemen penting dalam proses perceraian Syariah</p>
-<p>• Hak undang-undang dan kewangan kedua-dua pihak</p>
-<p>• Pengaturan hak penjagaan anak</p>
-<p>• Pembahagian aset perkahwinan</p>
-<p>• Pertimbangan nafkah</p>
-<p>• Kesejahteraan emosi dan perkembangan peribadi</p>
-<p>&nbsp;</p>
-<p>Sama ada anda sedang mempertimbangkan perceraian atau sudah dalam proses
-perceraian, sesi ini akan melengkapkan anda dengan pengetahuan penting
-untuk membuat keputusan yang tepat. Pelajari cara untuk:</p>
-<p>• Memahami hak dan tanggungjawab anda</p>
-<p>• Mengemudi sistem Mahkamah Syariah dengan berkesan</p>
-<p>• Melindungi kepentingan anda dan anak-anak anda</p>
-<p>• Menguruskan aspek emosi perceraian</p>
-<p>• Merancang masa depan yang selamat dan memuaskan</p>
-<p>Sertai kami untuk mendapatkan pandangan dan alat yang diperlukan untuk
-menghadapi masa yang mencabar ini dengan ketahanan dan pemerkasaan. Ambil
-langkah pertama ke arah bab baru dalam hidup anda dengan pemahaman yang
-jelas tentang jalan di hadapan.</p>
-<p>Daftar di pautan berikut:</p>
-<p><a href="https://go.gov.sg/maectalk24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/maectalk24</a>
-</p>
-<p>Divorce under Syariah law presents unique challenges that require a thorough
-understanding of Islamic principles and legal rights. This informative
-session will guide you through the intricacies of the Syariah Court process
-in Singapore, empowering you to approach this critical life phase with
-confidence and clarity.</p>
-<p>Key Topics Covered:</p>
-<p>• Essential elements of the Syariah divorce process</p>
-<p>• Legal and financial rights of both parties</p>
-<p>• Child custody arrangements</p>
-<p>• Division of matrimonial assets</p>
-<p>• Maintenance considerations</p>
-<p>• Emotional well-being and personal growth</p>
-<p>Whether you're contemplating divorce or already navigating the process,
-this session will equip you with vital knowledge to make informed decisions.
-Learn how to:</p>
-<p>• Understand your rights and responsibilities</p>
-<p>• Navigate the Syariah Court system effectively</p>
-<p>• Protect your interests and those of your children</p>
-<p>• Manage the emotional aspects of divorce</p>
-<p>• Plan for a secure and fulfilling future</p>
-<p>Join us to gain the insights and tools needed to approach this challenging
-time with resilience and empowerment. Take the first step towards a new
-chapter in your life with a clear understanding of the path ahead.</p>
-<p>Register below:</p>
-<p>https://go.gov.sg/maectalk24</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_Y_Syariah__English_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_Y_Syariah__English_.jpg">
-</div>
 <h1>Breakfast with Dad!</h1>
 <p>📅 <strong>Date:</strong> Saturday, 23 November 2024
 <br>📍 <strong>Venue:</strong> Heartbeat@Bedok, Activity Room 2, Level 3
@@ -147,56 +86,6 @@ bonds with their children in a relaxed and engaging environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_and_Pastel_Cute_Illustrated_Father_s_Day_Promotion_Photo_Poster.jpg">
-</div>
-<h1>Mediacorp Shiok Karaoke Warna</h1>
-<p>Mediacorp WARNA 942 mempersembahkan 𝗦𝗛𝗜𝗢𝗞 𝗞𝗔𝗥𝗔𝗢𝗞𝗘 - 𝗝𝗨𝗔𝗥𝗔
-𝗟𝗔𝗪𝗔𝗡 𝗝𝗨𝗔𝗥𝗔! Siapakah antara 5 finalis yang akan merebut gelaran
-juara terunggul? Jumpa anda di Heartbeat @ Bedok pada 27 Oktober ini!</p>
-<p>Ahad, 27 Okt 2024</p>
-<p>3 ptg - 5 ptg</p>
-<p>Heartbeat @ Bedok&nbsp;</p>
-<p>Tema: Rock Classic</p>
-<p>Get ready for an unforgettable showdown of 5 on-air karaoke finalists
-at the 𝗦𝗛𝗜𝗢𝗞 𝗞𝗔𝗥𝗔𝗢𝗞𝗘 - 𝗝𝗨𝗔𝗥𝗔 𝗟𝗔𝗪𝗔𝗡 𝗝𝗨𝗔𝗥𝗔 &nbsp;organized
-by Mediacorp WARNA 942 in partnership with @HeartbeatBedok and @OurKampongChaiChee!</p>
-<p>Join us for a thrilling afternoon filled with incredible performances
-by guest artist &amp; judge Ryzall Noh and our talented DJs - Sue Kassim,
-A B Shaik, Mariam Mas’od, Aura Shai, Noreha Bajuri, TG &amp; RZ and Elfie
-Rafie! See you on 27 October, 3pm at Heartbeat @ Bedok!&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SK_2024__IGNative_.jpg">
-</div>
-<h1>𝐇𝐨𝐰 𝐀𝐬𝐤 𝐊𝐢𝐚𝐭 𝐇𝐨𝐰 𝐃𝐢𝐚𝐥𝐨𝐠𝐮𝐞 𝐒𝐞𝐫𝐢𝐞𝐬: 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐂𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭 𝐊𝐢𝐝𝐬!</h1>
-<p>Calling all parents of children and teens!</p>
-<p>Want to help your child thrive in today's world? Join us for an insightful
-talk on developing confidence in your children!</p>
-<p>Learn how to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Spot and manage your child's worries</p>
-</li>
-<li>
-<p>Boost your child's confidence and competence</p>
-</li>
-<li>
-<p>Turn small wins into big successes</p>
-</li>
-<li>
-<p>Teach resilience and bouncing back from setbacks</p>
-</li>
-</ol>
-<p>Speaker: Ms Josephine Loh, Senior Manager, Training Family Wellness Division</p>
-<p>Wednesday, 23 October 2024</p>
-<p>7:30 PM - 9:30 PM</p>
-<p>Heartbeat@Bedok Function Room, Level 3</p>
-<p>Register now for a chance to win exciting prizes!</p>
-<p>Sign up here: <a href="https://go.gov.sg/kccdialogue" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kccdialogue</a>
-</p>
-<p>Don't miss this opportunity to empower your parenting journey!&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_20241014_124917_Facebook.jpg">
 </div>
 <h1>Kampong Chai Chee Deepavali Celebrations</h1>
 <p>Join us for Kampong Chai Chee Deepavali Celebrations!</p>
