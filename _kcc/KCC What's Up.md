@@ -87,34 +87,5 @@ bonds with their children in a relaxed and engaging environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_and_Pastel_Cute_Illustrated_Father_s_Day_Promotion_Photo_Poster.jpg">
 </div>
-<h1>Kampong Chai Chee Deepavali Celebrations</h1>
-<p>Join us for Kampong Chai Chee Deepavali Celebrations!</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: Saturday, 9 November 2024</p>
-</li>
-<li>
-<p>Time: 10:00 AM - 1:00 PM</p>
-</li>
-<li>
-<p>Venue: Heartbeat@Bedok Atrium</p>
-</li>
-</ul>
-<p>Get ready for a day of community fun and excitement! Hosted by the charismatic
-Jay Nesh, this event promises to be a memorable experience for all.</p>
-<p><strong>Highlights:</strong>
-</p>
-<p>Delicious snacks</p>
-<p>Engaging workshops</p>
-<p>Lively dance performances</p>
-<p>Festive music</p>
-<p>Special Feature: Help us create Singapore's largest bottle cap rangoli!
-Be part of this unique community art project.</p>
-<p>Bring your family and friends for a morning of bonding and creativity.
-Let's celebrate the vibrant spirit of Kampong Chai Chee together!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20241016_WA0003.jpg">
-</div>
 <p></p>
 <p></p>
