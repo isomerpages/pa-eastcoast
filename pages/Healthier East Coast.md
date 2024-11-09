@@ -33,18 +33,10 @@ the Eastern Green Corridor)</p>
 interest groups for families and community bonding &nbsp;</p>
 </li>
 </ul>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="east coast workout" src="/images/10.jpg">
+<div class="iframe-wrapper">
+<iframe height="669" width="1189" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tHPq2uCn-hw"></iframe>
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">East Coast Workout</div>
-<div class="isomer-card-description">is a 5 minute workout you can do daily.</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=tHPq2uCn-hw&amp;t=4s" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="east coast workout" src="/images/10.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">East Coast Workout</div><div class="isomer-card-description">is a 5 minute workout you can do daily.</div><div class="isomer-card-link">Join the East Coast Workout</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
