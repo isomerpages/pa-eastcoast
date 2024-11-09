@@ -1,6 +1,6 @@
 ---
-title: Siglap CC Kids Club
-permalink: /siglap-cc-kids-club/
+title: Siglap CC Kidz Club
+permalink: /siglap-cc-kidz-club/
 variant: tiptap
 description: ""
 ---
