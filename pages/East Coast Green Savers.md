@@ -10,5 +10,3 @@ description: ""
 </div>
 <p>Stay tuned for more information up ahead.</p>
 <p></p>
-<p></p>
-<p></p>
