@@ -289,7 +289,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Upper Changi and Flora</strong>
 </p>
 </td>
@@ -326,9 +326,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>GoFit Gym Changi</p>
 </td>
