@@ -44,7 +44,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amigo</p>
+<p>Amigo Wanton Mee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Changi Village Road #01-34, Singapore 500002</p>
@@ -88,7 +88,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dao Xiang</p>
+<p>Dao Xiang Sambal Rice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Changi Village Road #01-30, Singapore 500002</p>
