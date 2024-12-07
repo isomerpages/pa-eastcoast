@@ -39,18 +39,18 @@ description: ""
 <p>2 Changi Village Road #01-67-68, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amigo</p>
+<p>Amigo Wanton Mee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Changi Village Road #01-34, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ description: ""
 <p>2 Changi Village Road #01-45, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ description: ""
 <p>2 Changi Village Road #01-25, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -83,18 +83,18 @@ description: ""
 <p>2 Changi Village Road #01-20, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dao Xiang</p>
+<p>Dao Xiang Sambal Rice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Changi Village Road #01-30, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ description: ""
 <p>2 Changi Village Road #01-27, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ description: ""
 <p>2 Changi Village Road #01-56, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ description: ""
 <p>2 Changi Village Road #01-42, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ description: ""
 <p>2 Changi Village Road #01-40, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ description: ""
 <p>2 Changi Village Road #01-39, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.10</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ description: ""
 <p>2 Changi Village Road #01-57, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.10</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ description: ""
 <p>2 Changi Village Road #01-11, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ description: ""
 <p>2 Changi Village Road #01-32, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ description: ""
 <p>2 Changi Village Road #01-59, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ description: ""
 <p>2 Changi Village Road #01-43, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ description: ""
 <p>2 Changi Village Road #01-58, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ description: ""
 <p>2 Changi Village Road #01-44, Singapore 500002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.15</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ description: ""
 <p>168 Bedok South Ave 3, Singapore 460168</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20 off Set D</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ description: ""
 <p>168 Bedok South Ave 3, Singapore 460168</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$.10 off Kopi O and Teh O</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +263,7 @@ description: ""
 <p>168 Bedok South Ave 3, Singapore 460168</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20 off main</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ description: ""
 <p>168 Bedok South Ave 3, Singapore 460168</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20 off main</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ description: ""
 <p>158 Bedok South Ave 3 #01-583, Singapore 460158</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.50 off main</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +300,8 @@ description: ""
 <p>Liv@Changi 933 Upper Changi Road N #B1-01, Singapore 506785</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30% off spa on basic or Full grooming and
+<br>free tooth brushing</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +312,7 @@ description: ""
 <p>Liv@Changi 933 Upper Changi Road N #01-01, Singapore 506785</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1% off total bill</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +323,8 @@ description: ""
 <p>1000 Upper Changi Road N, Singapore 507707</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$1 off takeaway and
+<br>$0.10 off for dine-in</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +335,7 @@ description: ""
 <p>Liv@Changi 933 Upper Changi Road N #03-01, Singapore 506785</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$68 off joining fee and freebies worth $143</p>
 </td>
 </tr>
 <tr>
@@ -348,7 +350,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -359,7 +361,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Set meal promotion: Mushroom Chicken Chop @ $5.50</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +372,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.30</p>
 </td>
 </tr>
 <tr>
@@ -381,7 +383,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.30</p>
 </td>
 </tr>
 <tr>
@@ -392,7 +394,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Set meal promotion: 2 Veg 1 Meat $2.50, 1 Veg 2 Meat $3.00</p>
 </td>
 </tr>
 <tr>
@@ -403,7 +405,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Free 2 pieces of Fish Ball</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +416,7 @@ description: ""
 <p>56 Upper Changi Road, Singapore 461056, Stall 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Free Soup</p>
 </td>
 </tr>
 <tr>
@@ -428,7 +430,7 @@ description: ""
 <p>69 Bedok South Ave 3 #01-498, Singapore 461056</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +441,7 @@ description: ""
 <p>69 Bedok South Ave 3 #01-468, Singapore 461056</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +452,7 @@ description: ""
 <p>69 Bedok South Ave 3 #01-498, Singapore 461056</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.30 (First 30 customers)</p>
 </td>
 </tr>
 <tr>
@@ -461,7 +463,7 @@ description: ""
 <p>73 Bedok South Ave 3 #01-452, Singapore 460073</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.10 off Drinks and $0.20 off Food</p>
 </td>
 </tr>
 <tr>
@@ -472,7 +474,7 @@ description: ""
 <p>69 Bedok South Ave 3 #01-468, Singapore 460069</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -483,7 +485,7 @@ description: ""
 <p>69 Bedok South Ave 3 #01-498, Singapore 460069</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -498,6 +500,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marketplace @ Expo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Expo Drive, Hall 5, S486150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.50</p>
 </td>
 </tr>
 </tbody>
