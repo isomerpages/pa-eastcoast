@@ -300,7 +300,7 @@ description: ""
 <p>Liv@Changi 933 Upper Changi Road N #B1-01, Singapore 506785</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30% off spa on basic or Full grooming and
+<p>30% off spa on basic or full grooming and
 <br>free tooth brushing</p>
 </td>
 </tr>
@@ -499,7 +499,7 @@ description: ""
 <p>1 Expo Drive #01-32, Singapore 486150</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$1 off Takeaway, 10% off Dine-in</p>
 </td>
 </tr>
 <tr>
