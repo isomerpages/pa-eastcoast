@@ -4,56 +4,70 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
-<h4>Law Awareness Week</h4>
-<p>Get Informed, Get Involved!</p>
-<p>Join us for a series of talks that will help you navigate the legal landscape.</p>
-<p>1. Employment Matters</p>
-<p>27 October, 2-3pm</p>
-<p>Register Here: <strong><a href="https://www.onepa.gov.sg/events/law-awareness-weeks-cdc-2024-employment-matters-12796605?fbclid=IwZXh0bgNhZW0CMTAAAR3f52TTLwyHaZRIrSkyEzZvGk2kDBs9NlR5FKKn47k6nuV-YVB7ZzuJ8wA_aem_hHb140toUkazddzdfnp4cQ" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/.../law-awareness-weeks-cdc-2024</a><a href="https://www.onepa.gov.sg/events/law-awareness-weeks-cdc-2024-employment-matters-12796605?fbclid=IwZXh0bgNhZW0CMTAAAR3f52TTLwyHaZRIrSkyEzZvGk2kDBs9NlR5FKKn47k6nuV-YVB7ZzuJ8wA_aem_hHb140toUkazddzdfnp4cQ" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="nofollow" target="_blank">...</a></strong>
+<h4>Changi Simei CC Open House and Christmas in Candyland</h4>
+<p>Get ready to embrace the holiday spirit at our <strong>Christmas Celebration in conjunction with the Open House</strong> on <strong>14 December (Saturday)</strong> from <strong>9:30 AM to 1:00 PM</strong>.
+This event promises a day filled with joy, laughter, and festive cheer
+for everyone in the community!</p>
+<p><strong>Event Highlights:</strong>
 </p>
-<p></p>
-<p>2. Divorce and You (Syariah)</p>
-<p>2 November, 2-3pm</p>
-<p>Register Here: <strong><a href="https://www.onepa.gov.sg/events/law-awareness-weeks-cdc-2024-employment-matters-12796605?fbclid=IwZXh0bgNhZW0CMTAAAR3f52TTLwyHaZRIrSkyEzZvGk2kDBs9NlR5FKKn47k6nuV-YVB7ZzuJ8wA_aem_hHb140toUkazddzdfnp4cQ" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/.../law-awareness-week-cdc-2024</a><a href="https://www.onepa.gov.sg/events/law-awareness-week-cdc-2024-divorce-you-syariah-27901923?fbclid=IwZXh0bgNhZW0CMTAAAR3iJPWISV-8649KyExGh_zh7Nws_3vM0OFti5L4iHd16FxIQNLADBvZJGs_aem_B_f_D41F04C7Lkyztl0tFA" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="nofollow" target="_blank">...</a></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Children's Christmas Party:</strong> Enjoy a magical snow party,
+an enchanting magic show, and a bouncy castle that promises endless fun
+for the little ones.</p>
+</li>
+<li>
+<p><strong>Open House Activities:</strong> There’s something for everyone!
+Participate in free course and interest group tryouts suitable for all
+ages, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Fitness Classes:</strong> Try out Zumba, yoga, and K-pop fitness
+sessions.</p>
+</li>
+<li>
+<p><strong>Farm-to-Table Workshops:</strong> Create unique dishes using fresh
+harvests.</p>
+</li>
+<li>
+<p><strong>DIY Mocktail Making Workshop:</strong> Learn to craft delicious
+non-alcoholic beverages.</p>
+</li>
+<li>
+<p><strong>Christmas Gift Exchange:</strong> Share the joy of giving with
+fellow attendees.</p>
+</li>
+<li>
+<p><strong>Live Performances:</strong> Enjoy captivating performances that
+will keep the festive spirit alive.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Event Details:</strong>
 </p>
-<p></p>
-<p>3. Fighting in Court or Building Bridges (Community Mediation)</p>
-<p>10 November, 2-3pm</p>
-<p>Register Here: <strong><a href="https://www.onepa.gov.sg/events/law-awareness-weeks-cdc-2024-employment-matters-12796605?fbclid=IwZXh0bgNhZW0CMTAAAR3f52TTLwyHaZRIrSkyEzZvGk2kDBs9NlR5FKKn47k6nuV-YVB7ZzuJ8wA_aem_hHb140toUkazddzdfnp4cQ" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/.../law-awareness-weeks-cdc-2024</a><a href="https://www.onepa.gov.sg/events/law-awareness-weeks-cdc-2024-community-disputes-mediation-40166404?fbclid=IwZXh0bgNhZW0CMTAAAR2Ioapu9xatM0-IWJQYQHfhyVJTsJeYJCnqR_01i_UP9EPd2uL61x03Tu0_aem_kRWIEiSTr8DKgnnDtgYaeg" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" rel="nofollow" target="_blank">...</a></strong>
-</p>
-<p>Don’t miss your chance to learn about your rights and how to navigate
-common legal challenges. Sign up today!
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date:</strong> 14 December 2024 (Saturday)</p>
+</li>
+<li>
+<p><strong>Time:</strong> 9:30 AM - 1:00 PM</p>
+</li>
+<li>
+<p><strong>Location:</strong> Changi Simei Community Club</p>
+</li>
+</ul>
+<p>Bring your family and friends to celebrate the season with joy and excitement!
+Don’t miss out on this festive gathering filled with activities and entertainment
+for all. We look forward to celebrating with you!</p>
+<p>
 <br>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LAW_AWARENESS_WEEK___CDC_2024__2_.png">
-</div>
-<hr>
-<h3>VIASTA!</h3>
-<p>Join us as a Collaborator! Changi Simei CC's VIASTA is happening on <strong>30 November from 4 PM to 9 PM</strong> and
-it will be an unforgettable celebration of creativity, community, and sustainability!
-We’re on the lookout for passionate individuals to help us make this event
-a resounding success!</p>
-<p>How You Can Get Involved:</p>
-<p>- <strong>Join the Organising Team:</strong> Be the driving force behind
-an incredible event! Help us coordinate and ensure everything runs smoothly
-while gaining valuable experience and making new friends.</p>
-<p>- <strong>Run a Booth:</strong> Share your creativity with preloved items,
-upcycled art, repair services, food tastings, and produce from community
-gardens—let’s inspire and connect!</p>
-<p>- <strong>Perform:</strong> Step into the spotlight! Whether you sing, dance,
-or have a unique talent, this is your chance to shine and entertain our
-community!</p>
-<p>If you’re excited to be part of this amazing event, scan the QR code to
-register your interest or click here: <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.gov.sg%2Fviasta-volunteer%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0mzkUS0T1MN93dPkF7o4jg5qmkTfbpz2fVxo2AQgP1iO0XtySQyxy0iPQ_aem_nkoydm4yiQydPxOGKMz_ZQ&amp;amp;h=AT0kAtTQFD6bGcDc2gjO9VB1N7x---X5Y7h52-fMe9WW8pNVN_Uco8X-oIZG_QoZ-clwW0YlA2F_kmBl_BPN_YkuHkMn_tlfztV86r8ru4UW_E9AbOqXVy-2I682trnOtA&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AT2dd_Qj6sE90Nhs_voN2jHEWd8c2iqz1wGM--KBzfve6egmKlUK1DgrciaIWKlgf0HeIekvluTr-ZPt-GZ-UkZQGKAXCMJSzOJ3Sh4SeqJSp0kcaJbZ2fP3bNVq57FvVBKe-dYykAf9rgR2sYAfu2BgIe3a18QL2rh3tClNg6Z6QW8QIS-R781HGWJbQPXXqiPM3ra7OmVSQq6635CXKoXY69o" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/viasta-volunteer</a></strong>
-</p>
-<p>Mark Your Calendar: The first meeting will be held on 5 October at Changi
-Simei CC.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CALLING_FOR_RESIDNETS.png">
-</div>
+<hr>
+<h3></h3>
+<p></p>
 <hr>
 <p></p>
 <p>Follow us on our <a href="https://www.facebook.com/ChangiSimeiCC" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for our happenings!</p>
