@@ -42,4 +42,14 @@ sections:
       url: https://eastcoast.pa.gov.sg/healthier-east-coast/
       image: /images/Healthier_East_Coast_Card.jpg
       alt: healthier east coast plan
+  - announcements:
+      title: UPCOMING EVENTS
+      id: announcements
+      announcement_items:
+        - title: Illuminate 2025
+          date: 31 December 2024
+          announcement: A Countdown Party for everyone. 8pm onwards at Bedok Stadium. Free
+            tickets available NOW.
+          link_text: Find out more!
+          link_url: https://www.facebook.com/share/p/17zP8ZdKen/
 ---
