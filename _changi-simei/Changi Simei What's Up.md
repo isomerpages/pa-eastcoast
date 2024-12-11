@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4>Changi Simei CC Open House and Christmas in Candyland</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Christmas_Candy_Carnival__Document__A4____9_.png">
+</div>
 <p>Get ready to embrace the holiday spirit at our <strong>Christmas Celebration in conjunction with the Open House</strong> on <strong>14 December (Saturday)</strong> from <strong>9:30 AM to 1:00 PM</strong>.
 This event promises a day filled with joy, laughter, and festive cheer
 for everyone in the community!</p>
@@ -60,6 +64,10 @@ will keep the festive spirit alive.</p>
 <p>Bring your family and friends to celebrate the season with joy and excitement!
 Don’t miss out on this festive gathering filled with activities and entertainment
 for all. We look forward to celebrating with you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Poster__3_.png">
+</div>
 <p>
 <br>
 </p>
