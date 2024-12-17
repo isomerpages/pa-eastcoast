@@ -230,7 +230,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Bedok South Horizon and Siglap East</strong>
 </p>
 </td>
@@ -253,17 +253,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>$.10 off Kopi O and Teh O</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>168 Minced Pork Noodle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>168 Bedok South Ave 3, Singapore 460168</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.20 off main</p>
 </td>
 </tr>
 <tr>
