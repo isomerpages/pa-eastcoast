@@ -63,7 +63,7 @@ Workshop!</p>
 handmade gift!</p>
 <p><em>Limited slots are available—get your tickets now!</em>
 </p>
-<p><strong> Register here:</strong>  <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.go.gov.sg%2Fyouthsoffsactivities%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1MogbHWbQQLqqg3ZSimIkTGH58eIfYK1t0X6dTNd99HiF23SVnETHx5n0_aem_LxAwiIbOdL_1FBXFR8XNJQ&amp;amp;h=AT3IUg1fKfxzdrVjvKJDC-bvIxvMQP97iNfMyGLf8Ae63-DHmOUqMb2hC8Tu7lWHnrawIbOd1aw4EGnYcZOKsLVGozrPwCotmEBfFtW2wdvySHVRB0VdQX0HrDeWWcPhLRZBS-k&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AT1NFtGQtT-2C7gfFQ4uzKEuuQCfsca05kCCtaciI3xkWkmWeIsDY2wcUT_8xpzQoFcL4tQ2cmoPVLyLrItzjhBpQU8Ck771A3SKXvpH_YIxYwj6fJb1PVf25s5q3gBxjqfr_rgWkkeKXir1PCsojs3u7xiLav7c6DTMVg5LtQwfVj2AYVEVq8eGnurDND1q5UBwfK8e0YxO-Etq0uQ6d6Nen_U" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/youthsoffsactivities</a></strong>
+<p><strong>Register here:</strong>  <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.go.gov.sg%2Fyouthsoffsactivities%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1MogbHWbQQLqqg3ZSimIkTGH58eIfYK1t0X6dTNd99HiF23SVnETHx5n0_aem_LxAwiIbOdL_1FBXFR8XNJQ&amp;amp;h=AT3IUg1fKfxzdrVjvKJDC-bvIxvMQP97iNfMyGLf8Ae63-DHmOUqMb2hC8Tu7lWHnrawIbOd1aw4EGnYcZOKsLVGozrPwCotmEBfFtW2wdvySHVRB0VdQX0HrDeWWcPhLRZBS-k&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AT1NFtGQtT-2C7gfFQ4uzKEuuQCfsca05kCCtaciI3xkWkmWeIsDY2wcUT_8xpzQoFcL4tQ2cmoPVLyLrItzjhBpQU8Ck771A3SKXvpH_YIxYwj6fJb1PVf25s5q3gBxjqfr_rgWkkeKXir1PCsojs3u7xiLav7c6DTMVg5LtQwfVj2AYVEVq8eGnurDND1q5UBwfK8e0YxO-Etq0uQ6d6Nen_U" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/youthsoffsactivities</a></strong>
 </p>
 <hr>
 <h3><strong>Flower and Chocolate Bouquet Arrangement Workshop</strong></h3>
