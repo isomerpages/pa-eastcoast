@@ -32,6 +32,13 @@ sections:
           linktext: Our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: HEALTHIER EAST COAST?
       subtitle: Why should I be part of
       id: infopic
@@ -46,10 +53,9 @@ sections:
       title: UPCOMING EVENTS
       id: announcements
       announcement_items:
-        - title: Illuminate 2025
-          date: 31 December 2024
-          announcement: A Countdown Party for everyone. 8pm onwards at Bedok Stadium. Free
-            tickets available NOW.
-          link_text: Find out more!
-          link_url: https://www.facebook.com/share/p/17zP8ZdKen/
+        - title: Chingay @ East Coast
+          date: 16 February 2025
+          announcement: More details coming soon.
+          link_text: ""
+          link_url: ""
 ---
