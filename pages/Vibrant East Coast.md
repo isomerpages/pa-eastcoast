@@ -35,7 +35,7 @@ up!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">LTA Viaduct Reboot</div>
+<div class="isomer-card-title">Tanah Merah Viaduct Community Spaces</div>
 <div class="isomer-card-description">This space will be undergoing a transformation for more community activities
 to held there, definitely going to be iconic</div>
 <div class="isomer-card-link">Find out what our friends from LTA have to say.</div>
@@ -43,7 +43,7 @@ to held there, definitely going to be iconic</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/about-us/news-and-publications/press-releases/17102023-HDB-Unveils-Masterplan-for-Bayshore-Estate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bayshore Redevelopment East Coast Plan" src="/images/download.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bayshore Redevelopment</div><div class="isomer-card-description">This is the hottest topic in town for all our young couples!</div><div class="isomer-card-link">Read about Bayshore redevelopment.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/about-us/news-and-publications/press-releases/17102023-HDB-Unveils-Masterplan-for-Bayshore-Estate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bayshore Redevelopment East Coast Plan" src="/images/download.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bayshore Development</div><div class="isomer-card-description">This is the hottest topic in town for all our young couples!</div><div class="isomer-card-link">Read about Bayshore redevelopment.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/videos/316434954784764" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -56,7 +56,7 @@ to held there, definitely going to be iconic</div>
 the sunny side of East Coast.</div>
 <div class="isomer-card-link">Watch a reel about this awesome space.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid02P7h8bL7bM3p8DXxLXmqCngnK2V1Pk4YuZgzHW2znKXojSVHCthNQsSxz5Revw5gXl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="kampong chai chee community club facelift East Coast Plan" src="/images/410464242_756279899869721_8523462695243460515_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Old Kampong Chai Chee Facelift</div><div class="isomer-card-description">A future hub for all our youths - our old site is about to undergo a facelift so it can serve our future youths.</div><div class="isomer-card-link">Take a short trip down memory lane.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/posts/pfbid02P7h8bL7bM3p8DXxLXmqCngnK2V1Pk4YuZgzHW2znKXojSVHCthNQsSxz5Revw5gXl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="kampong chai chee community club facelift East Coast Plan" src="/images/410464242_756279899869721_8523462695243460515_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Former Kampong Chai Chee</div><div class="isomer-card-description">A future hub for all our youths - our old site is about to undergo a facelift so it can serve our future youths.</div><div class="isomer-card-link">Take a short trip down memory lane.</div></div></a>
 </div>
 <p>
 <br>Read more about our <a href="https://eastcoast.pa.gov.sg/caring/" rel="noopener noreferrer nofollow" target="_blank">Caring East Coast </a>or find
