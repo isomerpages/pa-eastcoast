@@ -32,12 +32,14 @@ sections:
           linktext: Our Green Initiatives
           url: https://eastcoast.pa.gov.sg/green/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Stories of East Coast
+      subtitle: Read about
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: What is your East Coast Plan?
+      button: OUR EAST COAST RESIDENTS SHARE THEIR STORIES
+      alt: East Coast Our Place to Bond
+      image: /images/ecplacetobond.jpg
+      url: https://www.instagram.com/oureastcoastbuzz/
   - infopic:
       title: HEALTHIER EAST COAST?
       subtitle: Why should I be part of
