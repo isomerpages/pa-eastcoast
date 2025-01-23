@@ -20,6 +20,5 @@ description: ""
 </div>
 <p></p>
 <hr>
-<p></p>
 <p>Follow us on our <a href="https://www.facebook.com/ChangiSimeiCC" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> for our happenings!</p>
 <p></p>
