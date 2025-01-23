@@ -4,7 +4,6 @@ permalink: /cs-whatsup/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Chinese New Year Celebrations in Changi Simei</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover.png">
 </div>
@@ -15,10 +14,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY___Page_2.png">
 </div>
 <hr>
-<h3>Chinese New Year Dinner 2025</h3>
-<p></p>
-<hr>
-<h3></h3>
+<h3><strong>Seniors Gathering : Learn and Connect</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seniors_Gathering.jpg">
+</div>
 <p></p>
 <hr>
 <p></p>
