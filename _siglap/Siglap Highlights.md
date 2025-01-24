@@ -85,10 +85,10 @@ a fun, social space to empower youth and strengthen community bonds.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Baking Initiatives and Interest Group</div>
-<div class="isomer-card-description">With our new two-storey culinary &amp; baking studio, Siglap CC have conducted
-many interesting courses for residents and volunteers have also came together
-to handmade cookies, muffins and distribute to low-income families. We
-hope to see you cooking and baking with us!</div>
+<div class="isomer-card-description">With our new two-storey culinary &amp; baking studio, Siglap Community
+Club has conducted many interesting courses for residents and volunteers
+have also came together to handmade cookies, muffins and distribute to
+low-income families. We hope to see you cooking and baking with us!</div>
 </div>
 </div>
 <div class="isomer-card">
