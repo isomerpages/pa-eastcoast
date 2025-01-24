@@ -73,16 +73,21 @@ bonds.</p>
 <p>Keen to volunteer? Scan the QR Code :)</p>
 <p><a href="https://go.gov.sg/volunteeratkcc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteeratkcc</a>
 </p>
-<h1>Breakfast with Dad!</h1>
-<p>📅 <strong>Date:</strong> Saturday, 23 November 2024
-<br>📍 <strong>Venue:</strong> Heartbeat@Bedok, Activity Room 2, Level 3
-<br>⏰ <strong>Time:</strong> 10:00am – 12:00pm</p>
-<p>Join us for a heartwarming two-hour breakfast where fathers and their
-children can share meaningful conversations, enjoy quality time together,
-and participate in fun activities that foster love and connection. This
-session is designed to help dads strengthen communication and build closer
-bonds with their children in a relaxed and engaging environment.</p>
-<p>Don’t miss this special opportunity to create lasting memories!</p>
+<h1>Kampong Pets: Small Pets Edition</h1>
+<p>📅 <strong>Date:</strong> Saturday, 22 Feb 2025
+<br>📍 <strong>Venue:</strong> Heartbeat@Bedok, Function Room, Level 3
+<br>⏰ <strong>Time:</strong> 11:00am – 5:00pm</p>
+<p>Welcome to Kampong Pets: Small Pet Edition where a day of furry and feathered
+fun awaits the whole family! Step into a world of whiskers, paws, and tiny
+claws as you explore our charming carnival dedicated to rabbits, cats,
+birds, and hamsters. Pawrents will have the opportunity to spoil their
+beloved furkids with exclusive treats from our participating vendors, ensuring
+tails will be wagging and beaks will be chirping with delight. For those
+whose hearts are open to welcoming a new furry family member, our adoption
+corner, hosted by our dedicated partners, offers the perfect chance to
+meet potential companions. Whether you're here to learn, play, shop, or
+adopt, Kampong Pets promises an unforgettable experience that celebrates
+the joy and companionship our small animal friends bring to our lives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_and_Pastel_Cute_Illustrated_Father_s_Day_Promotion_Photo_Poster.jpg">
