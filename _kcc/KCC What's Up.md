@@ -41,12 +41,8 @@ Di Kelab Digital, kami komited untuk melengkapi anda dengan kemahiran digital
 penting untuk sepanjang hayat, memastikan anda dapat mengharungi dunia
 dalam talian dengan selamat, bijak, dan dengan penuh kebaikan. Jangan lepaskan
 peluang untuk menyertai kami.</p>
-<p>Topics for session on Saturday, 26 Oct 24: Setup and use Smart Devices</p>
-<p>Topik untuk sesi pada Sabtu, 26 Okt 24: Sediakan dan Gunakan Alat Pintar</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Club___KCC_MAEC_Poster__Oct_2024_.jpg">
-</div>
+<p></p>
 <p></p>
 <h1>Join us as a Kampong Chai Chee Volunteer Today!</h1>
 <p></p>
