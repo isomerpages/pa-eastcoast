@@ -76,8 +76,22 @@ with leaders, build support networks, encourage idea exchange, and create
 a fun, social space to empower youth and strengthen community bonds.</div>
 <div class="isomer-card-link">Watch a reel of our activities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_2_18_27_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Baking Initiatives and Interest Group</div><div class="isomer-card-description">With our new two-storey culinary &amp; baking studio, Siglap CC have conducted many interesting courses for residents and volunteers have also came together to handmade cookies, muffins and distribute to low-income families. We hope to see you cooking and baking with us!</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_2_18_27_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Baking Initiatives and Interest Group</div>
+<div class="isomer-card-description">With our new two-storey culinary &amp; baking studio, Siglap CC have conducted
+many interesting courses for residents and volunteers have also came together
+to handmade cookies, muffins and distribute to low-income families. We
+hope to see you cooking and baking with us!</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/6.jpg">
@@ -89,8 +103,7 @@ a fun, social space to empower youth and strengthen community bonds.</div>
 badminton hall which was installed with full rubber floor mat for its elastic
 floor surface akin to Badminton World Federation (BWF) standard. There
 is also a Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</div>
 </div>
 <p></p>
