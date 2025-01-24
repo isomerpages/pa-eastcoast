@@ -89,8 +89,8 @@ meet potential companions. Whether you're here to learn, play, shop, or
 adopt, Kampong Pets promises an unforgettable experience that celebrates
 the joy and companionship our small animal friends bring to our lives.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_and_Pastel_Cute_Illustrated_Father_s_Day_Promotion_Photo_Poster.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_Poster_03.png">
+</div>
 <p></p>
