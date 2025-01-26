@@ -39,7 +39,7 @@ sections:
       button: OUR EAST COAST RESIDENTS SHARE THEIR STORIES
       alt: East Coast Our Place to Bond
       image: /images/ecplacetobond.jpg
-      url: https://www.instagram.com/oureastcoastbuzz/
+      url: https://drive.google.com/file/d/1sBFryx7V2hBrdRR-o93pxkyYcLIE57qq/view?usp=sharing
   - infopic:
       title: HEALTHIER EAST COAST?
       subtitle: Why should I be part of
