@@ -306,14 +306,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bark Cafe</p>
+<p>The Bark Cafe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1000 Upper Changi Road N, Singapore 507707</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1 off takeaway and
-<br>$0.10 off for dine-in</p>
+<p>$1 off Takeaway,
+<br>$0.10 off Dine-in</p>
 </td>
 </tr>
 <tr>
@@ -678,7 +678,7 @@ description: ""
 <p>Expo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tag Restuarant &amp; Bar @ Expo</p>
+<p>Tag Restaurant &amp; Bar @ Expo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Expo Drive #01-32, Singapore 486150</p>
