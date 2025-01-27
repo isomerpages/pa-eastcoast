@@ -4,32 +4,16 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Illuminate 2025 Countdown Party - 31 Dec 2024 (Tue) - 8PM to 12AM</h3>
-<p></p>
+<h3>Healthier East Coast Challenge </h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Illuminate_2025_Poster_Design__A4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/474770799_1000697948753200_8783893598800840713_n.jpg">
 </div>
-<p>Welcome 2025 with us at the Illuminate Countdown Party on 31 Dec! Join
-us at Bedok Stadium from 8 PM all the way till midnight for Carnival games,
-food booths, free goodie bags, and fireworks!</p>
-<p>Get your free tickets (limited to 2 per resident) at the following CCs:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bedok CC</p>
-</li>
-<li>
-<p>Changi Simei CC</p>
-</li>
-<li>
-<p>Fengshan CC</p>
-</li>
-<li>
-<p>Kampong Chai Chee CC</p>
-</li>
-<li>
-<p>Siglap CC</p>
-</li>
-</ul>
+<p>Staying active can improve your overall health and energy levels, lower
+the risk of chronic diseases, and help older adults maintain their strength
+and avoid frailty! Live an active lifestyle and get rewarded with the Healthier
+East Coast Challenge!</p>
+<p>Scan the QR code or visit <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.gov.sg%2Fletsgetmovingec&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/letsgetmovingec</a></strong> to
+sign up now!</p>
 <hr>
 <h3>Kampong Day with Bedok Bunga Merah RC - 30 Dec 2024 (Mon) - 8AM to 10PM</h3>
 <p></p>
