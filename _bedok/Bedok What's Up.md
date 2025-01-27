@@ -4,7 +4,7 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Healthier East Coast Challenge </h3>
+<h3>Healthier East Coast Challenge</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/474770799_1000697948753200_8783893598800840713_n.jpg">
 </div>
@@ -15,19 +15,45 @@ East Coast Challenge!</p>
 <p>Scan the QR code or visit <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.gov.sg%2Fletsgetmovingec&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/letsgetmovingec</a></strong> to
 sign up now!</p>
 <hr>
-<h3>Kampong Day with Bedok Bunga Merah RC - 30 Dec 2024 (Mon) - 8AM to 10PM</h3>
+<h3>Chingay @ East Coast 2025 - 16 Feb 2025 (Sun) - 6PM to 10PM</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BMRC_Kampong_Day_edited.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/474723345_1001035962052732_6869611831017257630_n.jpg">
 </div>
-<p>Round off 2024 with a trip down memory lane! Bedok Bunga Merah RC invites
-you on an immersive guided tour of Singapore's last Kampong, located at
-Lorong Buangkok in Sengkang.</p>
-<p>Two-way transportation will be provided to and from Bedok Bunga Merah
-RC, located at Block 37 Bedok South Ave 2, #01-445, (S)460037.</p>
-<p>Tickets are available (Free of charge for seniors aged 65 and above, $5
-for all other ages) at Bedok Bunga Merah RC. Kindly call 64441510 for more
-information.</p>
+<p>Join us for the vibrant Chingay @ East Coast 2025 in Bedok! Entry is free
+so bring your friends and family to experience a night of spectacular fun!</p>
+<p>
+<br><strong>Event Highlights: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chingay Floats</p>
+</li>
+<li>
+<p>Fireworks</p>
+</li>
+<li>
+<p>Stage Performances and Games</p>
+</li>
+<li>
+<p>Multi-Racial Dances</p>
+</li>
+<li>
+<p>Carnival Snacks Booths</p>
+</li>
+<li>
+<p>Bouncy Castles</p>
+</li>
+<li>
+<p>Display of the Singapore Book of Records Mesh Oranges</p>
+</li>
+<li>
+<p>Chingay Truncated Performance</p>
+</li>
+</ul>
+<p><strong> Venue: Open Space @ Blk 19 Bedok South Road</strong>
+<br>Don’t miss out on the festivities! Come down and make some unforgettable
+memories with us!</p>
 <hr>
 <h3>Bedok Christmas Carnival Wishing Tree - 14 Nov 2024 (Sat) - 4.30PM to 8:30PM</h3>
 <p></p>
