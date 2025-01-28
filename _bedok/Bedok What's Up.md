@@ -23,7 +23,7 @@ sign up now!</p>
 <p>Join us for the vibrant Chingay @ East Coast 2025 in Bedok! Entry is free
 so bring your friends and family to experience a night of spectacular fun!</p>
 <p>
-<br><strong>Event Highlights: </strong>
+<br><strong>Event Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +51,7 @@ so bring your friends and family to experience a night of spectacular fun!</p>
 <p>Chingay Truncated Performance</p>
 </li>
 </ul>
-<p><strong> Venue: Open Space @ Blk 19 Bedok South Road</strong>
+<p><strong>Venue: Open Space @ Blk 19 Bedok South Road</strong>
 <br>Don’t miss out on the festivities! Come down and make some unforgettable
 memories with us!</p>
 <hr>
