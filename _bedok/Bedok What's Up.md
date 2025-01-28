@@ -83,31 +83,20 @@ epic line-up of activities that will make your season merry and bright!</p>
 <a href="https://www.facebook.com/hashtag/hohoho?__eep__=6" rel="noopener noreferrer nofollow" target="_blank">!</a>
 </p>
 <hr>
-<h3>Bedok Heartland Safety Festival - 14 Dec 2024 (Sat) - 8AM to 12PM</h3>
+<h3>Voices of Bedok: Sing Together for SG60 Workshop - Starting March 2025</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_03_at_14_44_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/473184213_992775902878738_1684354488588858796_n.jpg">
 </div>
-<p>Head down to The Marketplace at Blk 58 New Upper Changi Rd on Saturday,
-14 Dec at 8.30am for the Bedok Heartland Safety Festival!</p>
-<p>Entry is free so come have fun while learning important lifesaving skills
-like fire extinguisher use and CPR! Grab a snack, visit our booths and
-enjoy free craft activities for the whole family!</p>
-<p>Visit <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZV8CVogAqJw3n5hSrK3g3D30w0TieFtmn40cTr90lOn6jnXLlKeONwBAG8ZrhGG7YXebbBB0_l49q4Kqz3rRGeo3iNnjRuG5daqrWUUc8v5JlDNuhfzxU9eSr_nEQYOPPX1bZEbnIsqdXg1nHeEF3SoayWx27Q_CAS2B582-HLFErMeQFnIqQ5OwDdNsrXG4rE" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/bhsf24</a></strong> to
-register for your lucky draw ticket and stand a chance to win a free fire
-extinguisher!</p>
-<hr>
-<h3>Bedok Good Neighbours Award 2024 Nominations - Closing 31 Dec 2024</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_09_at_20_10_12.jpg">
-</div>
-<p>Have a neighbour that you love? Why not nominate them for the Bedok Good
-Neighbours Award!</p>
-<p>If your neighbour is someone that has contributed to making Bedok a more
-Caring, Vibrant, or Green place, nominate them today and you could win
-a $100 voucher!</p>
-<p>Your neighbour will also receive a $50 voucher if they are selected for
-this award!</p>
-<p><strong><a href="go.gov.sg/bgna" rel="noopener noreferrer nofollow" target="_blank">Click here to submit your nomination now!</a></strong>
+<p>Bedok Community Arts and Culture Club (CACC) presents Voices of Bedok,
+a singing workshop aimed at enthusiasts of all skill levels.
+<br>
+<br>Join composer Derrick Tham (COMPASS’ Young Composer of the Year 2012,
+known for his collaborations with international artistes like Fish Leong
+and Rainie Yang) for this unique opportunity!
+<br>
+<br>Participants will have a chance to perform at community events and be
+featured in our music video! Register now at <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZU7GuhtsnWmvWHUsMJCycREKoDlEpbYMXzVcxas-DTEZcXB7pdTKEYPXExazgfK2uM6QP-A7N6zfcdSwll0mNgDdDVNmf7l2uWL9pv3Fhbe7FbhsP9eb2rYr4n2ZAhUcSznVYagb39cQvBCHsxAn2CFBJxq03s_dIW1mh7NG4Hw4hiiGi2LFLCpDHCcgDVqvC4" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/bedokcaccsg60s</a></strong> !
 <br>
 </p>
 <p></p>
