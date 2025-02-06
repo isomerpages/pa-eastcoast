@@ -46,7 +46,7 @@ sections:
       id: infopic
       description: Stretching the dollar futher with our grocery initiative.
       button: find out more
-      url: /200=100@eastcoast
+      url: /200-100-east-coast/
       image: /images/200100cardpink.jpg
       alt: Image alt text
   - infopic:
