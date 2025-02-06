@@ -4,46 +4,56 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Illuminate 2025 Countdown Party - 31 Dec 2024 (Tue) - 8PM to 12AM</h3>
+<h3>Healthier East Coast Challenge</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/474770799_1000697948753200_8783893598800840713_n.jpg">
+</div>
+<p>Staying active can improve your overall health and energy levels, lower
+the risk of chronic diseases, and help older adults maintain their strength
+and avoid frailty! Live an active lifestyle and get rewarded with the Healthier
+East Coast Challenge!</p>
+<p>Scan the QR code or visit <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.gov.sg%2Fletsgetmovingec&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg&amp;amp;h=AT1WQfIhvRBz61zieW6Ypbsqbe-5cw3Avb504-gcuxblsVHGwVfb7qRKcCrzEGruXwGiYeuNrd4xmfJ7UM-nfF-BQJ3FhhkW9M4-v0norKTPZZBIJmnKRGabslTIIVBjN6je5yg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/letsgetmovingec</a></strong> to
+sign up now!</p>
+<hr>
+<h3>Chingay @ East Coast 2025 - 16 Feb 2025 (Sun) - 6PM to 10PM</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Illuminate_2025_Poster_Design__A4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/474723345_1001035962052732_6869611831017257630_n.jpg">
 </div>
-<p>Welcome 2025 with us at the Illuminate Countdown Party on 31 Dec! Join
-us at Bedok Stadium from 8 PM all the way till midnight for Carnival games,
-food booths, free goodie bags, and fireworks!</p>
-<p>Get your free tickets (limited to 2 per resident) at the following CCs:</p>
+<p>Join us for the vibrant Chingay @ East Coast 2025 in Bedok! Entry is free
+so bring your friends and family to experience a night of spectacular fun!</p>
+<p>
+<br><strong>Event Highlights:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bedok CC</p>
+<p>Chingay Floats</p>
 </li>
 <li>
-<p>Changi Simei CC</p>
+<p>Fireworks</p>
 </li>
 <li>
-<p>Fengshan CC</p>
+<p>Stage Performances and Games</p>
 </li>
 <li>
-<p>Kampong Chai Chee CC</p>
+<p>Multi-Racial Dances</p>
 </li>
 <li>
-<p>Siglap CC</p>
+<p>Carnival Snacks Booths</p>
+</li>
+<li>
+<p>Bouncy Castles</p>
+</li>
+<li>
+<p>Display of the Singapore Book of Records Mesh Oranges</p>
+</li>
+<li>
+<p>Chingay Truncated Performance</p>
 </li>
 </ul>
-<hr>
-<h3>Kampong Day with Bedok Bunga Merah RC - 30 Dec 2024 (Mon) - 8AM to 10PM</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BMRC_Kampong_Day_edited.png">
-</div>
-<p>Round off 2024 with a trip down memory lane! Bedok Bunga Merah RC invites
-you on an immersive guided tour of Singapore's last Kampong, located at
-Lorong Buangkok in Sengkang.</p>
-<p>Two-way transportation will be provided to and from Bedok Bunga Merah
-RC, located at Block 37 Bedok South Ave 2, #01-445, (S)460037.</p>
-<p>Tickets are available (Free of charge for seniors aged 65 and above, $5
-for all other ages) at Bedok Bunga Merah RC. Kindly call 64441510 for more
-information.</p>
+<p><strong>Venue: Open Space @ Blk 19 Bedok South Road</strong>
+<br>Don’t miss out on the festivities! Come down and make some unforgettable
+memories with us!</p>
 <hr>
 <h3>Bedok Christmas Carnival Wishing Tree - 14 Nov 2024 (Sat) - 4.30PM to 8:30PM</h3>
 <p></p>
@@ -73,31 +83,20 @@ epic line-up of activities that will make your season merry and bright!</p>
 <a href="https://www.facebook.com/hashtag/hohoho?__eep__=6" rel="noopener noreferrer nofollow" target="_blank">!</a>
 </p>
 <hr>
-<h3>Bedok Heartland Safety Festival - 14 Dec 2024 (Sat) - 8AM to 12PM</h3>
+<h3>Voices of Bedok: Sing Together for SG60 Workshop - Starting March 2025</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_03_at_14_44_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/473184213_992775902878738_1684354488588858796_n.jpg">
 </div>
-<p>Head down to The Marketplace at Blk 58 New Upper Changi Rd on Saturday,
-14 Dec at 8.30am for the Bedok Heartland Safety Festival!</p>
-<p>Entry is free so come have fun while learning important lifesaving skills
-like fire extinguisher use and CPR! Grab a snack, visit our booths and
-enjoy free craft activities for the whole family!</p>
-<p>Visit <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZV8CVogAqJw3n5hSrK3g3D30w0TieFtmn40cTr90lOn6jnXLlKeONwBAG8ZrhGG7YXebbBB0_l49q4Kqz3rRGeo3iNnjRuG5daqrWUUc8v5JlDNuhfzxU9eSr_nEQYOPPX1bZEbnIsqdXg1nHeEF3SoayWx27Q_CAS2B582-HLFErMeQFnIqQ5OwDdNsrXG4rE" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/bhsf24</a></strong> to
-register for your lucky draw ticket and stand a chance to win a free fire
-extinguisher!</p>
-<hr>
-<h3>Bedok Good Neighbours Award 2024 Nominations - Closing 31 Dec 2024</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_09_at_20_10_12.jpg">
-</div>
-<p>Have a neighbour that you love? Why not nominate them for the Bedok Good
-Neighbours Award!</p>
-<p>If your neighbour is someone that has contributed to making Bedok a more
-Caring, Vibrant, or Green place, nominate them today and you could win
-a $100 voucher!</p>
-<p>Your neighbour will also receive a $50 voucher if they are selected for
-this award!</p>
-<p><strong><a href="go.gov.sg/bgna" rel="noopener noreferrer nofollow" target="_blank">Click here to submit your nomination now!</a></strong>
+<p>Bedok Community Arts and Culture Club (CACC) presents Voices of Bedok,
+a singing workshop aimed at enthusiasts of all skill levels.
+<br>
+<br>Join composer Derrick Tham (COMPASS’ Young Composer of the Year 2012,
+known for his collaborations with international artistes like Fish Leong
+and Rainie Yang) for this unique opportunity!
+<br>
+<br>Participants will have a chance to perform at community events and be
+featured in our music video! Register now at <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZU7GuhtsnWmvWHUsMJCycREKoDlEpbYMXzVcxas-DTEZcXB7pdTKEYPXExazgfK2uM6QP-A7N6zfcdSwll0mNgDdDVNmf7l2uWL9pv3Fhbe7FbhsP9eb2rYr4n2ZAhUcSznVYagb39cQvBCHsxAn2CFBJxq03s_dIW1mh7NG4Hw4hiiGi2LFLCpDHCcgDVqvC4" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/bedokcaccsg60s</a></strong> !
 <br>
 </p>
 <p></p>
