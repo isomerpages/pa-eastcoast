@@ -41,6 +41,15 @@ sections:
       image: /images/ecplacetobond.jpg
       url: https://go.gov.sg/storiesofec
   - infopic:
+      title: 200=100 @ EAST COAST
+      subtitle: double the joy, half the cost
+      id: infopic
+      description: Stretching the dollar futher with our grocery initiative.
+      button: find out more
+      url: /200=100@eastcoast
+      image: /images/200100cardpink.jpg
+      alt: Image alt text
+  - infopic:
       title: HEALTHIER EAST COAST?
       subtitle: Why should I be part of
       id: infopic
