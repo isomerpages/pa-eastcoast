@@ -44,7 +44,7 @@ sections:
       title: 200=100 @ EAST COAST
       subtitle: double the joy, half the cost
       id: infopic
-      description: Stretching the dollar futher with our grocery initiative.
+      description: Stretching the dollar further with our grocery initiative.
       button: find out more
       url: /200-100-east-coast/
       image: /images/200100cardpink.jpg
