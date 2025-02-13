@@ -16,7 +16,7 @@ products. The success of this programme was evident in the first session,
 where eligible residents benefited from at least $40,000 in total discounts,
 demonstrating the initiative's positive impact on the community.</p>
 <p>No one is left behind on the East Coast.</p>
-<p><a href="https://form.gov.sg/672882b68ee23e29291aef7e" rel="noopener nofollow" target="_blank">Click here to see if you are legible!</a>
+<p><a href="go.gov.sg/ec200-100" rel="noopener nofollow" target="_blank">Click here to see if you are eligible!</a>
 </p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z5CyMrFNagU"></iframe>
