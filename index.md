@@ -63,4 +63,14 @@ sections:
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
+  - infopic:
+      title: Bites of Bliss
+      subtitle: aN EAST COAST E-COOKBOOK
+      id: infopic
+      description: Residents uniting to compile home recipes for our inaugural East
+        Coast Digital E-Cookbook!
+      button: CHECK OUT OUR E-COOKBOOK
+      url: https://go.gov.sg/ecbitesofbliss
+      image: /images/WhatsApp_Image_2025_02_20_at_3_50_30_PM.jpg
+      alt: Bites of Bliss East Coast Plan
 ---
