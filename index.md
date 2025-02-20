@@ -60,9 +60,6 @@ sections:
       url: https://eastcoast.pa.gov.sg/healthier-east-coast/
       image: /images/Healthier_East_Coast_Card.jpg
       alt: healthier east coast plan
-  - announcements:
-      title: UPCOMING EVENTS
-      id: announcements
   - infopic:
       title: Bites of Bliss
       subtitle: aN EAST COAST E-COOKBOOK
@@ -73,4 +70,7 @@ sections:
       url: https://go.gov.sg/ecbitesofbliss
       image: /images/WhatsApp_Image_2025_02_20_at_3_50_30_PM.jpg
       alt: Bites of Bliss East Coast Plan
+  - announcements:
+      title: UPCOMING EVENTS
+      id: announcements
 ---
