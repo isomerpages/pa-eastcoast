@@ -63,10 +63,4 @@ sections:
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
-      announcement_items:
-        - title: Chingay @ East Coast
-          date: 16 February 2025
-          announcement: More details coming soon.
-          link_text: ""
-          link_url: ""
 ---
