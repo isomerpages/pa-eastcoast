@@ -60,13 +60,17 @@ sections:
       url: https://eastcoast.pa.gov.sg/healthier-east-coast/
       image: /images/Healthier_East_Coast_Card.jpg
       alt: healthier east coast plan
+  - infopic:
+      title: Bites of Bliss
+      subtitle: aN EAST COAST E-COOKBOOK
+      id: infopic
+      description: Residents uniting to compile home recipes for our inaugural East
+        Coast Digital E-Cookbook!
+      button: CHECK OUT OUR E-COOKBOOK
+      url: https://go.gov.sg/ecbitesofbliss
+      image: /images/WhatsApp_Image_2025_02_20_at_3_50_30_PM.jpg
+      alt: Bites of Bliss East Coast Plan
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
-      announcement_items:
-        - title: Chingay @ East Coast
-          date: 16 February 2025
-          announcement: More details coming soon.
-          link_text: ""
-          link_url: ""
 ---
