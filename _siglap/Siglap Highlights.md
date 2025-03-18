@@ -104,5 +104,19 @@ pouches. Proceeds support Siglap CCC’s Community Development and Welfare
 Fund, aiding residents in need while promoting sustainability.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://fb.watch/x9GsccOSAJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/IMG_5749.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Youth Conversation</div><div class="isomer-card-description">Connect young Siglap residents to share, learn, and grow. They engage with Dr. Maliki Osman and peers on life, aspirations, and challenges. Dialogues with leaders, build support networks, encourage idea exchange, and create a fun, social space to empower youth and strengthen community bonds.</div><div class="isomer-card-link">Watch a reel of our activities</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our Tote-rific Community</div>
+<div class="isomer-card-description">An SG60 initiative, aims to raise $60,000 for 60 special needs residents
+in Siglap. Volunteers upcycle donated fabric into tote bags, sold for $10
+to $100 with SG60 customisations. Supporting the Green Pillar of East Coast
+Plan, over 100 volunteers joined this effort.</div>
+</div>
+</div>
 </div>
 <p></p>
