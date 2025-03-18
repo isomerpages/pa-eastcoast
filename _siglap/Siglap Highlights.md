@@ -64,31 +64,31 @@ Osman joins the fun—don’t miss it!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Siglap Kidz Club" src="/images/Screenshot_2025_01_22_at_1_12_29_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Siglap CC Kidz Club" src="/images/Screenshot_2025_01_22_at_1_12_29_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Kidz Club</div>
-<div class="isomer-card-description">A yearly membership of $10 The club is only eligible for residents living
-in Siglap division.&nbsp; Those who wish to get the membership can proceed
-to Siglap CC Level 1 Counter Reception on Mon-Sun, 10am-6pm (except for
-Public Holidays).</div>
+<div class="isomer-card-title">Siglap CC Kidz Club</div>
+<div class="isomer-card-description">A club specially designed for children living within Siglap division to
+do activities within the community club. Aims to facilitate children development
+and enhance parent-child bonding.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div><div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance Band workouts, and Low Impact Aerobics, catering to all fitness levels. This initiative fosters mobility, strength, and community spirit, promoting active ageing in a fun, supportive environment.</div><div class="isomer-card-link">Check out our activities</div></div></a>
-<div class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Plate It Forward</div><div class="isomer-card-description">Provide low-income seniors with $10 meal vouchers monthly, redeemable at partner eateries. Donors can contribute via QR codes, with eateries adding $2 per meal. The initiative fosters community care and supports seniors’ independence.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sports, Dance and Fitness Activities</div>
-<div class="isomer-card-description">Sports and dance studio facility at Siglap Community Club such as our
-badminton hall which was installed with full rubber floor mat for its elastic
-floor surface akin to Badminton World Federation (BWF) standard. There
-is also aa Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
+<div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div>
+<div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance
+Band workouts, and Low Impact Aerobics, catering to all fitness levels.
+This initiative fosters mobility, strength, and community spirit, promoting
+active ageing in a fun, supportive environment.</div>
+<div class="isomer-card-link">Check out our activities</div>
 </div>
-</div>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -102,21 +102,34 @@ donated fabric samples and washed denim into handcrafted bags, hats, and
 pouches. Proceeds support Siglap CCC’s Community Development and Welfare
 Fund, aiding residents in need while promoting sustainability.</div>
 </div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports, Dance and Fitness Activities</div>
+<div class="isomer-card-description">Sports and dance studio facility at Siglap Community Club such as our
+badminton hall which was installed with full rubber floor mat for its elastic
+floor surface akin to Badminton World Federation (BWF) standard. There
+is also aa Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
+</div>
 </div><a rel="noopener noreferrer nofollow" href="https://fb.watch/x9GsccOSAJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/IMG_5749.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Youth Conversation</div><div class="isomer-card-description">Connect young Siglap residents to share, learn, and grow. They engage with Dr. Maliki Osman and peers on life, aspirations, and challenges. Dialogues with leaders, build support networks, encourage idea exchange, and create a fun, social space to empower youth and strengthen community bonds.</div><div class="isomer-card-link">Watch a reel of our activities</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Plate It Forward</div>
-<div class="isomer-card-description">Provide low-income seniors with $10 meal vouchers monthly, redeemable
-at partner eateries. Donors can contribute via QR codes, with eateries
-adding $2 per meal. The initiative fosters community care and supports
-seniors’ independence.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">GRC Hari Raya Cookies Baking</div>
+<div class="isomer-card-description">Volunteers at Siglap CC’s Culinary &amp; Baking Studio baked 60,000 cookies
+for 1,000 beneficiaries across East Coast GRC. With 20 volunteers daily,
+baking ran from morning till midnight. Led by East Coast GRC MAECs, this
+initiative showcases true community spirit!</div>
 </div>
-</a>
+</div>
 </div>
 <p></p>
