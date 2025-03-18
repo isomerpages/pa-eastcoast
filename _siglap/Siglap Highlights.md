@@ -46,6 +46,21 @@ Malay Activity Executive Committee, it provides ready-to-eat meals to over
 both body and spirit, fostering kindness, gratitude, and solidarity.</div>
 <div class="isomer-card-link">Check out our activities</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1BA7EjsAEs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Carnival Day</div><div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025, at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities, and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin Osman joins the fun—don’t miss it!</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Siglap Edibles Workshops</div>
+<div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow
+herbs, vegetables, and fruits in small spaces, supporting Singapore's "30
+by 30" food resilience goal. Hands-on sessions, beginner-friendly training,
+and starter kits empower participants to cultivate at home sustainably.</div>
+<div class="isomer-card-link">Check out our activities</div>
+</div>
 </a>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -60,6 +75,20 @@ in Siglap division.&nbsp; Those who wish to get the membership can proceed
 to Siglap CC Level 1 Counter Reception on Mon-Sun, 10am-6pm (except for
 Public Holidays).</div>
 </div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div><div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance Band workouts, and Low Impact Aerobics, catering to all fitness levels. This initiative fosters mobility, strength, and community spirit, promoting active ageing in a fun, supportive environment.</div><div class="isomer-card-link">Check out our activities</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports, Dance and Fitness Activities</div>
+<div class="isomer-card-description">Sports and dance studio facility at Siglap Community Club such as our
+badminton hall which was installed with full rubber floor mat for its elastic
+floor surface akin to Badminton World Federation (BWF) standard. There
+is also aa Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
+</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -73,35 +102,6 @@ Public Holidays).</div>
 donated fabric samples and washed denim into handcrafted bags, hats, and
 pouches. Proceeds support Siglap CCC’s Community Development and Welfare
 Fund, aiding residents in need while promoting sustainability.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Edibles Workshops</div><div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow herbs, vegetables, and fruits in small spaces, supporting Singapore's "30 by 30" food resilience goal. Hands-on sessions, beginner-friendly training, and starter kits empower participants to cultivate at home sustainably.</div><div class="isomer-card-link">Check out our activities</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div>
-<div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance
-Band workouts, and Low Impact Aerobics, catering to all fitness levels.
-This initiative fosters mobility, strength, and community spirit, promoting
-active ageing in a fun, supportive environment.</div>
-<div class="isomer-card-link">Check out our activities</div>
-</div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/6.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sports, Dance and Fitness Activities</div>
-<div class="isomer-card-description">Sports and dance studio facility at Siglap Community Club such as our
-badminton hall which was installed with full rubber floor mat for its elastic
-floor surface akin to Badminton World Federation (BWF) standard. There
-is also aa Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://fb.watch/x9GsccOSAJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/IMG_5749.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Youth Conversation</div><div class="isomer-card-description">Connect young Siglap residents to share, learn, and grow. They engage with Dr. Maliki Osman and peers on life, aspirations, and challenges. Dialogues with leaders, build support networks, encourage idea exchange, and create a fun, social space to empower youth and strengthen community bonds.</div><div class="isomer-card-link">Watch a reel of our activities</div></div></a>
 </div>
