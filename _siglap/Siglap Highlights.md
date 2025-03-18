@@ -33,7 +33,7 @@ merchants. Residents can collect a set from Siglap Community Club. The
 initiative encourages eco-friendly habits while saving costs.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Siglap Estate Party East Coast Plan" src="/images/upperchangiparty.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Estate Parties</div><div class="isomer-card-description">If there is one thing we are known for, it is parties. Welcome parties for new residents, Halloween parties, block parties, festival parties. There is always a reason for good food and even better company.</div><div class="isomer-card-link">Follow us today</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1H2NRvBjat/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/WhatsApp_Image_2025_03_15_at_13_19_27.jpg">
@@ -45,8 +45,9 @@ initiative encourages eco-friendly habits while saving costs.</div>
 for 1,000 beneficiaries across East Coast GRC. With 20 volunteers daily,
 baking ran from morning till midnight. Led by East Coast GRC MAECs, this
 initiative showcases true community spirit!</div>
+<div class="isomer-card-link">Find out more!</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/groups/siglapheartymeals/permalink/749489430053640" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hearty Meals at Siglap East Coast Plan" src="/images/heartymeals.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hearty Meals</div><div class="isomer-card-description">Meals prepared by volunteers, with rescued food, for the community. Hearty for the heart and for the belly.</div><div class="isomer-card-link">Read about our first Hearty Meals</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/groups/siglapheartymeals/permalink/749489430053640" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hearty Meals at Siglap East Coast Plan" src="/images/heartymeals.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hearty Meals</div><div class="isomer-card-description">Meals prepared by volunteers, with rescued food, for the community. Hearty for the heart and for the belly.</div><div class="isomer-card-link">Read about our first Hearty Meals</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/reel/1416041562332182" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
