@@ -64,7 +64,7 @@ to make healthcare accessible to everyone in Siglap.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Our_Tote_rific_Community_and_5_60yo_volunteers.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
