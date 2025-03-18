@@ -89,7 +89,21 @@ and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin
 Osman joins the fun—don’t miss it!</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Edibles Workshops</div><div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow herbs, vegetables, and fruits in small spaces, supporting Singapore's "30 by 30" food resilience goal. Hands-on sessions, beginner-friendly training, and starter kits empower participants to cultivate at home sustainably.</div><div class="isomer-card-link">Check out our activities</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Edibles Workshops</div><div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow herbs, vegetables and fruits in small spaces, supporting Singapore’s “30 by 30” food resilience goal. Hands-on sessions, beginner-friendly training and starter kits empower participants to cultivate at home sustainably.</div><div class="isomer-card-link">Check out our activities</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Siglap Food Rescue and Collection</div>
+<div class="isomer-card-description">A community-driven food rescue program reducing waste while supporting
+those in need. Households donate excess non-perishable food, ensuring it
+reaches beneficiaries. This initiative strengthens community welfare and
+promotes environmental sustainability</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
