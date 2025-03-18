@@ -36,7 +36,7 @@ initiative encourages eco-friendly habits while saving costs.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/WhatsApp_Image_2025_03_15_at_13_19_27.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
