@@ -131,5 +131,19 @@ floor surface akin to Badminton World Federation (BWF) standard. There
 is also aa Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://fb.watch/x9GsccOSAJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/IMG_5749.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Youth Conversation/Party</div><div class="isomer-card-description">Unites Siglap’s young residents to connect, share, and grow. In a relaxed setting, they engage in talks with Dr. Maliki Osman and peers about life, aspirations, and challenges. These events foster dialogue, build networks, and empower youth while strengthening community ties.</div><div class="isomer-card-link">Watch a reel of our activities</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Copy_of_Minister_Maliki_giving_out_the_Green_Savers_pack_to_residents_during_the_launch.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">East Coast Green Savers</div>
+<div class="isomer-card-description">Promote sustainability by providing residents with a reusable lunch box,
+tumbler, cutlery set and woven bag. These items unlock discounts at participating
+merchants. Residents can collect a set from Siglap Community Club. The
+initiative encourages eco-friendly habits while saving costs.</div>
+</div>
+</div>
 </div>
 <p></p>
