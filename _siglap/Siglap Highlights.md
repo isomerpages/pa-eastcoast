@@ -19,19 +19,33 @@ have also came together to handmade cookies, muffins and distribute to
 low-income families. We hope to see you cooking and baking with us!</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Siglap Estate Party East Coast Plan" src="/images/upperchangiparty.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Estate Parties</div><div class="isomer-card-description">If there is one thing we are known for, it is parties. Welcome parties for new residents, Halloween parties, block parties, festival parties. There is always a reason for good food and even better company.</div><div class="isomer-card-link">Follow us today</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/groups/siglapheartymeals/permalink/749489430053640" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hearty Meals at Siglap East Coast Plan" src="/images/heartymeals.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hearty Meals</div>
-<div class="isomer-card-description">Meals prepared by volunteers, with rescued food, for the community. Hearty
-for the heart and for the belly.</div>
-<div class="isomer-card-link">Read about our first Hearty Meals</div>
+<div class="isomer-card-title">GRC Hari Raya Cookies Baking</div>
+<div class="isomer-card-description">Volunteers at Siglap CC’s Culinary &amp; Baking Studio baked 60,000 cookies
+for 1,000 beneficiaries across East Coast GRC. With 20 volunteers daily,
+baking ran from morning till midnight. Led by East Coast GRC MAECs, this
+initiative showcases true community spirit!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/reel/1416041562332182" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mobile TCM East Coast Siglap East Coast Plan" src="/images/Mobile_Tcm.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mobile TCM</div><div class="isomer-card-description">Mobile Traditional Chinese Medicine at the residents' doorstep. We want to make healthcare accessible to everyone in Siglap.</div><div class="isomer-card-link">Watch a reel on Mobile TCM</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/groups/siglapheartymeals/permalink/749489430053640" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hearty Meals at Siglap East Coast Plan" src="/images/heartymeals.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hearty Meals</div><div class="isomer-card-description">Meals prepared by volunteers, with rescued food, for the community. Hearty for the heart and for the belly.</div><div class="isomer-card-link">Read about our first Hearty Meals</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/reel/1416041562332182" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mobile TCM East Coast Siglap East Coast Plan" src="/images/Mobile_Tcm.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mobile TCM</div>
+<div class="isomer-card-description">Mobile Traditional Chinese Medicine at the residents' doorstep. We want
+to make healthcare accessible to everyone in Siglap.</div>
+<div class="isomer-card-link">Watch a reel on Mobile TCM</div>
+</div>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -117,19 +131,5 @@ floor surface akin to Badminton World Federation (BWF) standard. There
 is also aa Indoor basketball court, 12 lanes Bowling Alley and Futsal courts.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://fb.watch/x9GsccOSAJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/IMG_5749.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Youth Conversation</div><div class="isomer-card-description">Connect young Siglap residents to share, learn, and grow. They engage with Dr. Maliki Osman and peers on life, aspirations, and challenges. Dialogues with leaders, build support networks, encourage idea exchange, and create a fun, social space to empower youth and strengthen community bonds.</div><div class="isomer-card-link">Watch a reel of our activities</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">GRC Hari Raya Cookies Baking</div>
-<div class="isomer-card-description">Volunteers at Siglap CC’s Culinary &amp; Baking Studio baked 60,000 cookies
-for 1,000 beneficiaries across East Coast GRC. With 20 volunteers daily,
-baking ran from morning till midnight. Led by East Coast GRC MAECs, this
-initiative showcases true community spirit!</div>
-</div>
-</div>
 </div>
 <p></p>
