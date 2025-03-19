@@ -93,7 +93,7 @@ Osman joins the fun—don’t miss it!</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Food_Rescue_01.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -101,7 +101,7 @@ Osman joins the fun—don’t miss it!</div>
 <div class="isomer-card-description">A community-driven food rescue program reducing waste while supporting
 those in need. Households donate excess non-perishable food, ensuring it
 reaches beneficiaries. This initiative strengthens community welfare and
-promotes environmental sustainability</div>
+promotes environmental sustainability.</div>
 </div>
 </div>
 <div class="isomer-card">
