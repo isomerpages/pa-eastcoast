@@ -116,22 +116,21 @@ promotes environmental sustainability.</div>
 do activities within the community club. Aims to facilitate children development
 and enhance parent-child bonding.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/P3800874__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Plate It Forward</div><div class="isomer-card-description">Provide low-income seniors with $10 meal vouchers monthly, redeemable at partner eateries. Donors can contribute via QR codes, with eateries adding $2 per meal. The initiative fosters community care and supports seniors’ independence.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/P3800874__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div>
-<div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance
-Band workouts, and Low Impact Aerobics, catering to all fitness levels.
-This initiative fosters mobility, strength, and community spirit, promoting
-active ageing in a fun, supportive environment.</div>
-<div class="isomer-card-link">Check out our activities</div>
+<div class="isomer-card-title">Siglap Plate It Forward</div>
+<div class="isomer-card-description">Provide low-income seniors with $10 meal vouchers monthly, redeemable
+at partner eateries. Donors can contribute via QR codes, with eateries
+adding $2 per meal. The initiative fosters community care and supports
+seniors’ independence.</div>
 </div>
-</a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div><div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance Band workouts, and Low Impact Aerobics, catering to all fitness levels. This initiative fosters mobility, strength, and community spirit, promoting active ageing in a fun, supportive environment.</div><div class="isomer-card-link">Check out our activities</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
