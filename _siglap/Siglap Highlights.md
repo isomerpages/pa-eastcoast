@@ -78,7 +78,7 @@ Plan, over 100 volunteers joined this effort.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1BA7EjsAEs/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png">
 </div>
 </div>
 <div class="isomer-card-body">
