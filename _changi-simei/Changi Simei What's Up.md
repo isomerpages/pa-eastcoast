@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <hr>
-<h3><strong>Family Dance &amp; Fitness Fiesta </strong></h3>
+<h3><strong>Family Dance &amp; Fitness Fiesta</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Family_Dance___5_Apr.jpg">
 </div>
