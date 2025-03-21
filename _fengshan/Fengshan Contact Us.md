@@ -28,5 +28,7 @@ in activities and programmes week in week out over here.</p>
 </p>
 <p><a href="https://www.go.gov.sg/fstelegram" rel="noopener noreferrer nofollow" target="_blank">Fengshan Community Club Telegram</a>
 </p>
+<p><a href="https://chat.whatsapp.com/G4pnHoWY8iN787qEi6MH3Z" rel="noopener nofollow" target="_blank">Fengshan Community Club WhatsApp</a>
+</p>
 <p></p>
 <p></p>
