@@ -6,8 +6,7 @@ description: ""
 ---
 <h3><strong>Fengshan Indian New Year</strong></h3>
 <blockquote>
-<p>Celebrate the Indian New Year with Fengshan CC IAEC!<strong> </strong>
-</p>
+<p>Celebrate the Indian New Year with Fengshan CC IAEC!</p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/indian_ny_2025.jpg">
