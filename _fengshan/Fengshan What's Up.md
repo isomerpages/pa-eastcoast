@@ -4,79 +4,52 @@ permalink: /fengshan-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Chinese New Year Celebrations</strong></h3>
+<h3><strong>Fengshan Indian New Year</strong></h3>
 <blockquote>
-<p><strong>Explore the various Chinese New Year celebrations happening around the estate and join in the festive cheer this February.</strong>
+<p>Celebrate the Indian New Year with Fengshan CC IAEC!<strong> </strong>
 </p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/indian_ny_2025.jpg">
 </div>
-<p>Stay updated by checking your Residents’ Network social media channel
-or noticeboard!</p>
-<p><strong>Fengshan Acacia Residents' Network</strong>
-<br><a href="https://www.facebook.com/FengshanAcaciaRN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FengshanAcaciaRN/</a>
-</p>
-<p><strong>Fengshan Aspen Residents' Network</strong>
-<br><a href="https://www.facebook.com/fengshan.aspen.rn/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/fengshan.aspen.rn/</a>
-</p>
-<p><strong>Fengshan Cedar Residents' Network</strong>
-<br><a href="https://www.facebook.com/FengshanCedarRN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FengshanCedarRN/</a>
-</p>
-<p><strong>Fengshan Pine Residents' Network</strong>
-<br><a href="https://www.facebook.com/FengshanPineRN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FengshanPineRN/</a>
-</p>
-<p><strong>Fengshan Mulberry Residents' Network</strong>
-<br><a href="https://www.facebook.com/FengshanMulberryRN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FengshanMulberryRN/</a>
-</p>
-<p><strong>Fengshan Maple Residents' Network</strong>
-<br><a href="https://www.facebook.com/FengshanMapleRN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FengshanMapleRN/</a>
-</p>
-<p><strong>Fengshan Rosewood Residents' Network</strong>
-<br><a href="https://www.facebook.com/FSRosewoodRN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/FSRosewoodRN/</a>
+<p>Enjoy fun games, exciting fringe activities, cultural booths, and a lucky
+draw—all for just $5 per person!</p>
+<p><strong>Register here: </strong><a href="http://www.go.gov.sg/fsiny25" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/fsiny25</a>
 </p>
 <hr>
-<h3><strong>Valentine's Day Candle Making Workshop</strong></h3>
+<h3><strong>Digital Club x Shopee Edition</strong></h3>
 <blockquote>
-<p>Celebrate this Valentine’s with your loved ones or friends at our Candle-Making
-Workshop!</p>
+<p>Curious about shopping online but not sure where to start? Join us for
+an <strong>interactive session on using the Shopee mobile app</strong>,
+specially designed for residents aged 40 and above!</p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Candle_making.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shopee.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Create a unique candle for someone special:</p>
-</li>
-<li>
-<p>Choose your favourite scent</p>
-</li>
-<li>
-<p>Add decorative toppings for a personal touch</p>
-</li>
-<li>
-<p>Guided by the experts from Apricot &amp; Co</p>
-</li>
-</ul>
-<p>Sign up now and make this Valentine’s Day extra special with a thoughtful,
-handmade gift!</p>
-<p><em>Limited slots are available—get your tickets now!</em>
+<p>In this hands-on workshop, you'll learn:
+<br>✅ What the Shopee app is and how it works
+<br>✅ How to navigate the app and make purchases
+<br>✅ Step-by-step guidance on downloading the app and creating an account</p>
+<p>💡 Bring your smartphone and get personalised assistance from our volunteers!</p>
+<p>Don't miss this chance to gain confidence in online shopping. <strong>Sign up now and take your first step into the digital marketplace!</strong>
 </p>
-<p><strong>Register here:</strong>  <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.go.gov.sg%2Fyouthsoffsactivities%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1MogbHWbQQLqqg3ZSimIkTGH58eIfYK1t0X6dTNd99HiF23SVnETHx5n0_aem_LxAwiIbOdL_1FBXFR8XNJQ&amp;amp;h=AT3IUg1fKfxzdrVjvKJDC-bvIxvMQP97iNfMyGLf8Ae63-DHmOUqMb2hC8Tu7lWHnrawIbOd1aw4EGnYcZOKsLVGozrPwCotmEBfFtW2wdvySHVRB0VdQX0HrDeWWcPhLRZBS-k&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AT1NFtGQtT-2C7gfFQ4uzKEuuQCfsca05kCCtaciI3xkWkmWeIsDY2wcUT_8xpzQoFcL4tQ2cmoPVLyLrItzjhBpQU8Ck771A3SKXvpH_YIxYwj6fJb1PVf25s5q3gBxjqfr_rgWkkeKXir1PCsojs3u7xiLav7c6DTMVg5LtQwfVj2AYVEVq8eGnurDND1q5UBwfK8e0YxO-Etq0uQ6d6Nen_U" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/youthsoffsactivities</a></strong>
+<p><strong>Register here:</strong>  <a href="https://www.onepa.gov.sg/events/28-mar-25-fri-digital-clinic-x-shopee-edition-53929237" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/events/28-mar-25-fri-digital-clinic-x-shopee-edition-53929237</a>
 </p>
 <hr>
-<h3><strong>Flower and Chocolate Bouquet Arrangement Workshop</strong></h3>
+<h3><strong>New exercise in the hood!</strong></h3>
 <blockquote>
-<p>Join our Valentine's Day workshop and learn to create a stunning flower
-bouquet paired with decadent chocolates — perfect as a heartfelt gift for
-someone special!</p>
+<p>Cardio dance is a type of fitness class that incorporates dance moves
+and aerobic exercises to music, creating a dynamic and engaging workout
+experience.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/flower_chocolate_arrangement__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cardio_dance.png">
 </div>
-<p><strong>Register here: <a href="http://go.gov.sg/fswecactivities" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/fswecactivities</a></strong>
+<p>🔥 Get your heart pumping with our new <strong>Cardio Dance Exercise</strong> in
+Fengshan! 🔥</p>
+<p>🕺 Groove, move, and sweat it out every <strong>Thursday</strong> at <strong>Blk 186 Pavilion, 8.00pm – 9.00pm.</strong>
 </p>
+<p>Join us for a fun and energising workout—perfect for all fitness levels!</p>
 <hr>
 <h3><strong>Get Fit at Fengshan</strong></h3>
 <blockquote>
