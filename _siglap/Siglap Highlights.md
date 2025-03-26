@@ -4,7 +4,7 @@ permalink: /siglap-highlights/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1BA7EjsAEs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Carnival Day</div><div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025, at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities, and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin Osman joins the fun—don’t miss it!</div><div class="isomer-card-link">Find out more</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -75,21 +75,21 @@ to $100 with SG60 customisations. Supporting the Green Pillar of East Coast
 Plan, over 100 volunteers joined this effort.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/18PeotCS3D/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Add_new.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Porridge Distribution</div><div class="isomer-card-description">A monthly initiative spreading community care in Siglap. Led by Siglap's Malay Activity Executive Committee, it provides ready-to-eat meals to over 80 residents, especially during Ramadan. Porridge and side dishes nourish both body and spirit, fostering kindness, gratitude, and solidarity.</div><div class="isomer-card-link">Check out our activities</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1BA7EjsAEs/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Carnival Day</div>
-<div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025,
-at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities,
-and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin
-Osman joins the fun—don’t miss it!</div>
-<div class="isomer-card-link">Find out more</div>
+<div class="isomer-card-title">Siglap Edibles Workshops</div>
+<div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow
+herbs, vegetables and fruits in small spaces, supporting Singapore’s “30
+by 30” food resilience goal. Hands-on sessions, beginner-friendly training
+and starter kits empower participants to cultivate at home sustainably.</div>
+<div class="isomer-card-link">Check out our activities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Edibles Workshops</div><div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow herbs, vegetables and fruits in small spaces, supporting Singapore’s “30 by 30” food resilience goal. Hands-on sessions, beginner-friendly training and starter kits empower participants to cultivate at home sustainably.</div><div class="isomer-card-link">Check out our activities</div></div></a>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
