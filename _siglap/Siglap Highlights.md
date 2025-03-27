@@ -4,7 +4,7 @@ permalink: /siglap-highlights/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1BA7EjsAEs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Carnival Day</div><div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025, at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities, and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin Osman joins the fun—don’t miss it!</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://tinyurl.com/SiGlap60" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Carnival Day</div><div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025, at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities, and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin Osman joins the fun—don’t miss it!</div><div class="isomer-card-link">Find out more</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
