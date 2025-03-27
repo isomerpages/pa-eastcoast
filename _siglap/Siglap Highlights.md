@@ -4,7 +4,7 @@ permalink: /siglap-highlights/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://tinyurl.com/SiGlap60" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Carnival Day</div><div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025, at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities, and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin Osman joins the fun—don’t miss it!</div><div class="isomer-card-link">Find out more</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -75,21 +75,21 @@ to $100 with SG60 customisations. Supporting the Green Pillar of East Coast
 Plan, over 100 volunteers joined this effort.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/18PeotCS3D/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Add_new.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Porridge Distribution</div><div class="isomer-card-description">A monthly initiative spreading community care in Siglap. Led by Siglap's Malay Activity Executive Committee, it provides ready-to-eat meals to over 80 residents, especially during Ramadan. Porridge and side dishes nourish both body and spirit, fostering kindness, gratitude, and solidarity.</div><div class="isomer-card-link">Check out our activities</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1BA7EjsAEs/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/Screenshot_2025_03_19_at_11_46_11_AM.png">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Carnival Day</div>
-<div class="isomer-card-description">The Siglap 60 Carnival, with Antica Foundation, is on April 5-6, 2025,
-at SBH East Coast @ EXPO. Enjoy rides, food, performances, activities,
-and lucky draws! Tickets are just $2 (valued at $30). Dr. Mohd Maliki Bin
-Osman joins the fun—don’t miss it!</div>
-<div class="isomer-card-link">Find out more</div>
+<div class="isomer-card-title">Siglap Edibles Workshops</div>
+<div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow
+herbs, vegetables and fruits in small spaces, supporting Singapore’s “30
+by 30” food resilience goal. Hands-on sessions, beginner-friendly training
+and starter kits empower participants to cultivate at home sustainably.</div>
+<div class="isomer-card-link">Check out our activities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/p/1DuWcVbJwJ/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC Plan" src="/images/Screenshot_2025_01_24_at_11_51_19_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Edibles Workshops</div><div class="isomer-card-description">Transform Siglap into an urban farming hub. It teaches residents to grow herbs, vegetables and fruits in small spaces, supporting Singapore’s “30 by 30” food resilience goal. Hands-on sessions, beginner-friendly training and starter kits empower participants to cultivate at home sustainably.</div><div class="isomer-card-link">Check out our activities</div></div></a>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -116,22 +116,21 @@ promotes environmental sustainability.</div>
 do activities within the community club. Aims to facilitate children development
 and enhance parent-child bonding.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/P3800874__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Plate It Forward</div><div class="isomer-card-description">Provide low-income seniors with $10 meal vouchers monthly, redeemable at partner eateries. Donors can contribute via QR codes, with eateries adding $2 per meal. The initiative fosters community care and supports seniors’ independence.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="East Coast Plan" src="/images/P3800874__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div>
-<div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance
-Band workouts, and Low Impact Aerobics, catering to all fitness levels.
-This initiative fosters mobility, strength, and community spirit, promoting
-active ageing in a fun, supportive environment.</div>
-<div class="isomer-card-link">Check out our activities</div>
+<div class="isomer-card-title">Siglap Plate It Forward</div>
+<div class="isomer-card-description">Provide low-income seniors with $10 meal vouchers monthly, redeemable
+at partner eateries. Donors can contribute via QR codes, with eateries
+adding $2 per meal. The initiative fosters community care and supports
+seniors’ independence.</div>
 </div>
-</a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/mysiglap/posts/siglap-silver-blueprint-together-with-yoga-library-will-be-organising-a-chair-yo/4076660502361671/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="East Coast GRC plan" src="/images/IMG_5530.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Siglap Silver Blueprint Weekly Exercises</div><div class="isomer-card-description">Held thrice weekly at Siglap CC, sessions include Zumba Gold, Resistance Band workouts, and Low Impact Aerobics, catering to all fitness levels. This initiative fosters mobility, strength, and community spirit, promoting active ageing in a fun, supportive environment.</div><div class="isomer-card-link">Check out our activities</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
