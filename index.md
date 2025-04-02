@@ -13,6 +13,16 @@ sections:
         - title: Find out how to volunteer with us
           description: Make a difference!
           url: https://www.go.gov.sg/ecvolunteer
+  - infopic:
+      title: East Coast Plan?
+      subtitle: what is your
+      id: infopic
+      description: This is East Coast -- where its people are caring, the community is
+        vibrant, and its spaces clean and green. This is the East Coast Plan.
+      button: watch our video
+      url: https://youtu.be/joRPEX85DIg
+      image: /images/Screenshot_2025_04_02_at_4_30_34_PM.png
+      alt: Image alt text
   - textcards:
       title: Our 3 Pillars
       subtitle: FIND OUT MORE ABOUT OUR
