@@ -13,24 +13,16 @@ sections:
         - title: Find out how to volunteer with us
           description: Make a difference!
           url: https://www.go.gov.sg/ecvolunteer
-  - textcards:
-      title: Our 3 Pillars
-      subtitle: FIND OUT MORE ABOUT OUR
-      id: textcards
-      description: of the East Coast Plan
-      cards:
-        - title: CARING
-          description: Where friends and neighbours look out for each other.
-          linktext: The East Coast Caring Spirit
-          url: https://eastcoast.pa.gov.sg/caring/
-        - title: VIBRANT
-          description: The most exciting place to live in, in Singapore.
-          linktext: Why East Side is the Best Side
-          url: https://eastcoast.pa.gov.sg/vibrant/
-        - title: GREEN
-          description: Our earth, our responsibility.
-          linktext: Our Green Initiatives
-          url: https://eastcoast.pa.gov.sg/green/
+  - infopic:
+      title: East Coast Plan?
+      subtitle: what is your
+      id: infopic
+      description: This is East Coast -- where its people are caring, the community is
+        vibrant, and its spaces clean and green. This is the East Coast Plan.
+      button: watch our video
+      url: https://youtu.be/joRPEX85DIg
+      image: /images/Screenshot_2025_04_02_at_4_30_34_PM.png
+      alt: Image alt text
   - infopic:
       title: Stories of East Coast
       subtitle: Read about
@@ -70,6 +62,24 @@ sections:
       url: https://go.gov.sg/ecbitesofbliss
       image: /images/WhatsApp_Image_2025_02_20_at_3_50_30_PM.jpg
       alt: Bites of Bliss East Coast Plan
+  - textcards:
+      title: Our 3 Pillars
+      subtitle: FIND OUT MORE ABOUT OUR
+      id: textcards
+      description: of the East Coast Plan
+      cards:
+        - title: CARING
+          description: Where friends and neighbours look out for each other.
+          linktext: The East Coast Caring Spirit
+          url: https://eastcoast.pa.gov.sg/caring/
+        - title: VIBRANT
+          description: The most exciting place to live in, in Singapore.
+          linktext: Why East Side is the Best Side
+          url: https://eastcoast.pa.gov.sg/vibrant/
+        - title: GREEN
+          description: Our earth, our responsibility.
+          linktext: Our Green Initiatives
+          url: https://eastcoast.pa.gov.sg/green/
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
