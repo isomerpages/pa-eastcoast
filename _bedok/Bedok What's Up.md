@@ -35,23 +35,7 @@ at the DBS Foundation Outdoor Theatre – all for just $10 per participant!</p>
 <p>Participants must be above 7 and below 70 years old. For more info, contact
 Bedok CC at 6442 5317.</p>
 <p>Spots are limited so visit <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.gov.sg%2Florn2604&amp;amp;h=AT33Hlypaob1-98wbXAKFX1AMyHmtx76YSSnsk1uOZpL7oIWKoKwtzA7gJ3gjckLBX_Yn_OYXtquhNQDduhHnwgAhQZruNX6vfBZjuOmTxLuBpkLy-VUyD2CmTp9emcDm_ZNA8nzFjiO-jvampU&amp;amp;h=AT33Hlypaob1-98wbXAKFX1AMyHmtx76YSSnsk1uOZpL7oIWKoKwtzA7gJ3gjckLBX_Yn_OYXtquhNQDduhHnwgAhQZruNX6vfBZjuOmTxLuBpkLy-VUyD2CmTp9emcDm_ZNA8nzFjiO-jvampU&amp;amp;h=AT33Hlypaob1-98wbXAKFX1AMyHmtx76YSSnsk1uOZpL7oIWKoKwtzA7gJ3gjckLBX_Yn_OYXtquhNQDduhHnwgAhQZruNX6vfBZjuOmTxLuBpkLy-VUyD2CmTp9emcDm_ZNA8nzFjiO-jvampU" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lorn2604</a></strong> to
-register now!</p>
-<p></p>
-<hr>
-<h3>Voices of Bedok: Sing Together for SG60 Workshop - Starting March 2025</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/473184213_992775902878738_1684354488588858796_n.jpg">
-</div>
-<p>Bedok Community Arts and Culture Club (CACC) presents Voices of Bedok,
-a singing workshop aimed at enthusiasts of all skill levels.
-<br>
-<br>Join composer Derrick Tham (COMPASS’ Young Composer of the Year 2012,
-known for his collaborations with international artistes like Fish Leong
-and Rainie Yang) for this unique opportunity!
-<br>
-<br>Participants will have a chance to perform at community events and be
-featured in our music video! Register now at <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6&amp;amp;__cft__[0]=AZU7GuhtsnWmvWHUsMJCycREKoDlEpbYMXzVcxas-DTEZcXB7pdTKEYPXExazgfK2uM6QP-A7N6zfcdSwll0mNgDdDVNmf7l2uWL9pv3Fhbe7FbhsP9eb2rYr4n2ZAhUcSznVYagb39cQvBCHsxAn2CFBJxq03s_dIW1mh7NG4Hw4hiiGi2LFLCpDHCcgDVqvC4" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/bedokcaccsg60s</a></strong> !
+register now!
 <br>
 </p>
 <p></p>
