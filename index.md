@@ -24,6 +24,16 @@ sections:
       image: /images/Screenshot_2025_04_02_at_4_30_34_PM.png
       alt: Image alt text
   - infopic:
+      title: LIVING YOUR BEST LIFE
+      subtitle: Easties' guide to
+      id: infopic
+      description: The East Coast Plan in Action. Check out our guide to how you can
+        live your 'East Side, Best Side' life!
+      button: READ THE GUIDE HERE
+      url: https://go.gov.sg/eastiesguide
+      image: /images/ECP_Brochure__1_.png
+      alt: EASTIES' GUIDE EAST COAST PLAN
+  - infopic:
       title: Stories of East Coast
       subtitle: Read about
       id: infopic
