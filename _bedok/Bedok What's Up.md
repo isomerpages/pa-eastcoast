@@ -35,7 +35,34 @@ at the DBS Foundation Outdoor Theatre – all for just $10 per participant!</p>
 <p>Participants must be above 7 and below 70 years old. For more info, contact
 Bedok CC at 6442 5317.</p>
 <p>Spots are limited so visit <strong><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgo.gov.sg%2Florn2604&amp;amp;h=AT33Hlypaob1-98wbXAKFX1AMyHmtx76YSSnsk1uOZpL7oIWKoKwtzA7gJ3gjckLBX_Yn_OYXtquhNQDduhHnwgAhQZruNX6vfBZjuOmTxLuBpkLy-VUyD2CmTp9emcDm_ZNA8nzFjiO-jvampU&amp;amp;h=AT33Hlypaob1-98wbXAKFX1AMyHmtx76YSSnsk1uOZpL7oIWKoKwtzA7gJ3gjckLBX_Yn_OYXtquhNQDduhHnwgAhQZruNX6vfBZjuOmTxLuBpkLy-VUyD2CmTp9emcDm_ZNA8nzFjiO-jvampU&amp;amp;h=AT33Hlypaob1-98wbXAKFX1AMyHmtx76YSSnsk1uOZpL7oIWKoKwtzA7gJ3gjckLBX_Yn_OYXtquhNQDduhHnwgAhQZruNX6vfBZjuOmTxLuBpkLy-VUyD2CmTp9emcDm_ZNA8nzFjiO-jvampU" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/lorn2604</a></strong> to
-register now!
+register now!</p>
+<hr>
+<h3>An Easter Symphony - 19 Apr 2025 (Sat) - 5:30PM to 9:30PM</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_Easter_Symphony__A4__v17.png">
+</div>
+<p>Hop into harmony with us at An Easter Symphony — a magical evening of
+music, family fun, and festive treats! Get your free tickets now <a href="go.gov.sg/ectaes" rel="noopener nofollow" target="_blank">here!</a>
 <br>
-</p>
-<p></p>
+<br>Enjoy activities like Glitter Tattoos, Face Painting, Egg Painting, DIY
+Bunny Toy making, as well as F&amp;B booths with Retro Biscuits, Rainbow
+Smores, Hotdogs &amp; more! Don't miss live performances by local musicians
+Velvet Groove as well!
+<br>
+<br>Bring your loved ones and let’s make it an Easter to remember!</p>
+<hr>
+<h3>Mother's Day Celebration - 19 Apr 2025 (Sat) - 5:30PM to 9:30PM</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_s_Day_Dinner_final.png">
+</div>
+<p>Treat Mum like a queen this April! Join us for a heartwarming Residents’
+Gathering &amp; Mother’s Day Celebration — an evening of delicious food,
+dazzling performances, and delightful activities! Get your tickets now
+at <a href="go.gov.sg/mother25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mother25</a> !</p>
+<p>Indulge in an 8-course dinner, enjoy live performances by Peranakan Sayang
+&amp; Bedok Dancers, strut your style in the Best-dressed Nonya Contest!</p>
+<p>Enjoy fun fringe activities like Light Makeup, Jewellery Making, Lucky
+Draw, Bingo, Treasure Hunt &amp; more!</p>
+<p>Celebrate the amazing mums in our lives the #Bedok way — with style, joy,
+and lots of love.</p>
+<p>sdfsdf</p>
