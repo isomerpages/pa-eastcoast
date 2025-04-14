@@ -4,7 +4,7 @@ permalink: /bedok-whatsup/
 variant: tiptap
 description: ""
 ---
-<h3>Healthier East Coast Challenge</h3>
+<h3>Healthier East Coast Challenge </h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/474770799_1000697948753200_8783893598800840713_n.jpg">
 </div>
@@ -76,3 +76,13 @@ an engaging Tamil "Pattimandram," vibrant cultural booths with interactive
 activities, and a delicious vegetarian dinner.</p>
 <p>Get your tickets online at <strong><a href="https://www.go.gov.sg/bedokIAEC?fbclid=IwZXh0bgNhZW0CMTAAAR5B9FAvpJrWr73xGrPH2aMNL5wZvQhGhbPw2boda_b2wk5hMaWzVu05Q7B4Ew_aem_zypUQ6KnfxAXshm3X_nnag" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/bedokIAEC</a></strong> and
 welcome the Tamil New Year with joy and festivity!</p>
+<hr>
+<h3>Bedok Kaleidoscope: Hokkien Opera - 4 May 2025 (Sat) - 6:00PM to 9:00PM</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_09_at_08_02_12.jpg">
+</div>
+<p>Take a walk down memory lane to a long lost Singapore with a Hokkien Opera
+performance of the tale of Mu Guiying and Yang Zongbao from ‘The Generals
+of the Yang Family’, a collection of novels and plays from the Song Dynasty
+in Imperial China.</p>
+<p>Tickets are free so visit Bedok CC to reserve now! Presented by <strong><a href="https://www.facebook.com/hashtag/bedok?__eep__=6" class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj xzsf02u x1s688f" rel="noopener noreferrer nofollow" target="_blank">#Bedok</a></strong> Kaleidoscope.</p>
