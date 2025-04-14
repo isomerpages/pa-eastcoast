@@ -65,4 +65,15 @@ at <a href="go.gov.sg/mother25" rel="noopener noreferrer nofollow" target="_blan
 Draw, Bingo, Treasure Hunt &amp; more!</p>
 <p>Celebrate the amazing mums in our lives the #Bedok way — with style, joy,
 and lots of love.</p>
+<hr>
+<h3>Bedok Tamil New Year - 26 Apr 2025 (Sat) - 6:00PM to 9:00PM</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/490699262_1060057736150554_7515546852722118300_n.jpg">
+</div>
+<p>Celebrate Bedok Tamil New Year in conjunction with East Coast SG60, Together!
+Join us for a spectacular evening featuring a Music &amp; Dance Extravaganza,
+an engaging Tamil "Pattimandram," vibrant cultural booths with interactive
+activities, and a delicious vegetarian dinner.</p>
+<p>Get your tickets online at <strong><a href="https://www.go.gov.sg/bedokIAEC?fbclid=IwZXh0bgNhZW0CMTAAAR5B9FAvpJrWr73xGrPH2aMNL5wZvQhGhbPw2boda_b2wk5hMaWzVu05Q7B4Ew_aem_zypUQ6KnfxAXshm3X_nnag" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/bedokIAEC</a></strong> and
+welcome the Tamil New Year with joy and festivity!</p>
 <p>sdfsdf</p>
