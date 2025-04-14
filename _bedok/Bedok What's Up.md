@@ -76,4 +76,3 @@ an engaging Tamil "Pattimandram," vibrant cultural booths with interactive
 activities, and a delicious vegetarian dinner.</p>
 <p>Get your tickets online at <strong><a href="https://www.go.gov.sg/bedokIAEC?fbclid=IwZXh0bgNhZW0CMTAAAR5B9FAvpJrWr73xGrPH2aMNL5wZvQhGhbPw2boda_b2wk5hMaWzVu05Q7B4Ew_aem_zypUQ6KnfxAXshm3X_nnag" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/bedokIAEC</a></strong> and
 welcome the Tamil New Year with joy and festivity!</p>
-<p>sdfsdf</p>
