@@ -13,8 +13,7 @@ description: ""
 </div>
 <p>Enjoy fun games, exciting fringe activities, cultural booths, and a lucky
 draw—all for just $5 per person!</p>
-<p><strong>Register here: </strong><a href="http://www.go.gov.sg/fsiny25" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/fsiny25</a>
-</p>
+<p></p>
 <hr>
 <h3><strong>Digital Club x Shopee Edition</strong></h3>
 <blockquote>
