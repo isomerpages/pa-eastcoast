@@ -31,8 +31,7 @@ specially designed for residents aged 40 and above!</p>
 <p>💡 Bring your smartphone and get personalised assistance from our volunteers!</p>
 <p>Don't miss this chance to gain confidence in online shopping. <strong>Sign up now and take your first step into the digital marketplace!</strong>
 </p>
-<p><strong>Register here:</strong>  <a href="https://www.onepa.gov.sg/events/28-mar-25-fri-digital-clinic-x-shopee-edition-53929237" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/events/28-mar-25-fri-digital-clinic-x-shopee-edition-53929237</a>
-</p>
+<p></p>
 <hr>
 <h3><strong>New exercise in the hood!</strong></h3>
 <blockquote>
