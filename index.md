@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "East Coast: Home to the Sunny Side!"
+title: East Coast - Home to the Sunny Side!
 description: Official Website of East Coast GRC
 image: /images/pa_ec_logos_updated.png
 permalink: /
@@ -17,7 +17,7 @@ sections:
           description: Make a difference!
           url: https://www.go.gov.sg/ecvolunteer
   - infopic:
-      title: East Coast Plan?
+      title: East Coast Plan
       subtitle: what is your
       id: infopic
       description: This is East Coast -- where its people are caring, the community is
