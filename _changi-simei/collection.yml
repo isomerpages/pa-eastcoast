@@ -2,6 +2,7 @@ collections:
   changi-simei:
     output: true
     order:
+      - Sunbird Apollo.md
       - Changi Simei.md
       - Changi Simei Highlights.md
       - Changi Simei What's Up.md
