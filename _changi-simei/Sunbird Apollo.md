@@ -11,7 +11,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_0_estate_map_2.jpg">
 </div>
 <p>Sunbird-Apollo Estate is located on the eastern side of Singapore and
-is within the East Coast GRC and Changi-Simei CCC.</p>
+is within the East Coast GRC and Changi Simei CCC.</p>
 <p>The estate is bounded by the East-West MRT Line to the West, Upper Changi
 Road to the South, Simei Road to the East and both the Simei Green and
 Double Bay Residences Condominiums to the North. The total perimeter of
@@ -19,14 +19,13 @@ the estate is about 1.5km and it occupies an approximate area of 80,000sq
 meters, equivalent to 20 acres or 8 hectares.</p>
 <p>Sunbird Park is the heart of the estate, complete with a playground and
 two pavilions, it serves as a venue for many estate-wide functions such
-as the Mid-Autumn Festival Celebrations.</p>
+as the Chinese New Year Celebrations, Mid-Autumn Festival and many more.</p>
 <p>Located as part of District 16, the estate is a preferred estate in the
 east side of Singapore due to its close proximity to facilities such as
-Changi International Airport, Singapore Expo, Changi Business Park, and
-best of all, 3 MRT Stations namely Upper Changi (DT34), Simei (EW3) and
-Expo (CG1|DT35) Station. Commuting to the Central Business District (CBD)
-takes about 20 minutes and it takes a mere 10 minutes to travel to the
-Changi International Airport via car or MRT.</p>
+Changi Airport, Singapore Expo, Changi Business Park and 3 MRT Stations
+namely Upper Changi (DT34), Simei (EW3) and Expo (CG1|DT35) Station. Commuting
+to the Central Business District (CBD) takes about 20 minutes and it takes
+a mere 10 minutes to travel to the Changi Airport via car or MRT.</p>
 <p>Sunbird-Apollo Estate has a good mix of double to triple&nbsp;storey&nbsp;semi-detached
 houses and terraces. She also houses a couple of walk-up apartments, namely
 Sunbird View and Apollo Gardens.</p>
@@ -36,14 +35,14 @@ Sunbird View and Apollo Gardens.</p>
 <p><strong>By Bus<br></strong>5 bus services serve the estate. Bus Service
 Number 2, 5, 12, 38 and NR7 link the estate to various parts of Singapore.</p>
 <p><strong>By Train</strong>
-<br>3&nbsp;MRT stations, Simei (EW3), Expo Station (CG1|DT35) and Upper Changi
-(DT34) are located within a walking distance of about 500 to 600 meters
-from the estate.&nbsp;Of the&nbsp;3 MRT stations serving the estate, Simei
-Station is recommended because it is nearer. At the main exit of the station,
-cross at the pedestrian crossing and walk along the NParks Connector which
-is located just below the Westwards bound MRT tracks. Sunbird View Apartments
-should be visible on the left after passing Modena Condo. The rest of Sunbird-Apollo
-Estate is located just across the canal next to Sunbird View Apartments.</p>
+<br>Three MRT stations—Simei (EW3), Expo (CG1 | DT35), and Upper Changi (DT34)—are
+located within approximately 500 to 600 metres of the estate. Among these,
+Simei MRT Station is the most convenient as it is the closest. From the
+station’s main exit, cross the pedestrian crossing and proceed along the
+NParks Connector beneath the westbound MRT tracks. Sunbird View Apartments
+will appear on the left after passing Modena Condominium. The remainder
+of the Sunbird–Apollo Estate is situated just across the canal, adjacent
+to Sunbird View Apartments.</p>
 <p><strong>By Car</strong>
 <br>The estate is accessible via the nearby East Coast Parkway (ECP), Pan
 Island Expressway (PIE) and Tampines Expressway (TPE).</p>
@@ -126,6 +125,7 @@ once lived in Apollo Gardens.</p>
 of Zeus and the nymph Leto, and the twin brother of Artemis. The Greeks
 often thought of Apollo as being the same as Helios, the Sun god, and so
 he is one of the sky gods who always beat out the earth gods in Greek myths.</p>
+<p></p>
 <p><strong>Sunbird Playground – Quiet and tree-shaded park bounded by Sunbird Circle</strong>
 </p>
 <div class="isomer-image-wrapper">
