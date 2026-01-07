@@ -58,7 +58,9 @@ original villagers still live in the estate till today.</p>
 Simei HDB estate was built, much activities was centred near the old Changi
 Simei CC located opposite the present Shell Station along Upper Changi
 Road East.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="hist13" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist13.jpg">
+</div>
 <p>How Sunbird estate got her name is not clear. But the truth is that Sunbirds,
 such as the one shown above, are a common sight in our estate and have
 probably visited many gardens of our fellow residents.</p>
@@ -126,8 +128,9 @@ often thought of Apollo as being the same as Helios, the Sun god, and so
 he is one of the sky gods who always beat out the earth gods in Greek myths.</p>
 <p><strong>Sunbird Playground – Quiet and tree-shaded park bounded by Sunbird Circle</strong>
 </p>
-<p></p>
-<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; max-width: 100%; color: rgb(68, 68, 68); letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="hist7" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist7.jpg">
+</div>
 <p>Sunbird Playground is located within Sunbird Circle. This is where many
 events of the neighbourhood were held. This park is special in that the
 trees are at least 30 years old or more meaning some of them has been here
@@ -139,10 +142,14 @@ Pte Ltd. Houses numbered 1 to 181 Sunbird Road and Sunbird View were projects
 from this company. In Sunbird Park Phase 1, houses numbered 101 to 181
 Sunbird Road, a total of 41 houses were built and completed around 1991/92.
 These sold well during the period of property boom in the early 90s.</p>
-<p></p>
-<p>Sunbird Phase 2, the same number of 41 houses numbered 1 to 81 Sunbird
-Road were built and completed around 1993 consisting of 41 houses.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; max-width: 100%; color: rgb(68, 68, 68); letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="hist9" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist9.jpg">
+</div>
+<p><sub>Sunbird Phase 2, the same number of 41 houses numbered 1 to 81 Sunbird Road were built and completed around 1993 consisting of 41 houses.</sub>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; max-width: 100%; color: rgb(68, 68, 68); letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="hist10" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist10.jpg">
+</div>
 <p>Sunbird View, a 4 storey walk-up apartment was added and completed by
 1997. Here another 15 households were added to the growing estate of Sunbird
 Apollo. This development is manage by a Management Committee who takes
@@ -156,7 +163,7 @@ houses built along Sunbird Avenue and Sunbird Circle. It was believed that
 these houses was built on a vacated land previously an open waste water
 sump which was unused for many years and backfilled.</p>
 <p></p>
-<p><strong>220 households of Sunbird Apollo Estate</strong>
+<p><strong>222 households of Sunbird Apollo Estate</strong>
 </p>
 <p>As of today, the estate has a total of 222 households. From the look of
 it, it is unlikely that there is any more land for more houses to be built
