@@ -15,6 +15,7 @@ original villagers still live in the estate till today.</p>
 Simei HDB estate was built, much activities was centred near the old Changi
 Simei CC located opposite the present Shell Station along Upper Changi
 Road East.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_1.jpg">
+</div>
 <p></p>
