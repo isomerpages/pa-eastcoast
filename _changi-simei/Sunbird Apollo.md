@@ -33,7 +33,7 @@ Sunbird View and Apollo Gardens.</p>
 </p>
 <p>The estate can be reached by the following means:</p>
 <p><strong>By Bus<br></strong>5 bus services serve the estate. Bus Service
-Number 2, 5, 12, 38 and NR7 link the estate to various parts of Singapore.</p>
+Number 2, 5, 12, 20, 24 and 38 link the estate to various parts of Singapore.</p>
 <p><strong>By Train</strong>
 <br>Three MRT stations—Simei (EW3), Expo (CG1 | DT35), and Upper Changi (DT34)—are
 located within approximately 500 to 600 metres of the estate. Among these,
@@ -60,9 +60,8 @@ Road East.</p>
 <div class="isomer-image-wrapper">
 <img style="margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="hist13" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist13.jpg">
 </div>
-<p>How Sunbird estate got her name is not clear. But the truth is that Sunbirds,
-such as the one shown above, are a common sight in our estate and have
-probably visited many gardens of our fellow residents.</p>
+<p><sub>How Sunbird estate got her name is not clear. But the truth is that Sunbirds, such as the one shown above, are a common sight in our estate and have probably visited many gardens of our fellow residents.</sub>
+</p>
 <p><strong>1980 – 2000&nbsp;– Development of Apollo Gardens and the 1st housing projects of Sunbird Apollo estate.</strong>
 </p>
 <p>The initial development was the rows of semi-detached and terraces houses
@@ -77,22 +76,26 @@ when new owners moved in.</p>
 <img style="margin: 0px; padding: 0px; border: 0px none; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="North-eastern corner of Sunbird Park looking westwards along Sunbird Circle" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist2.jpg">
 </div>
 <p></p>
-<p>North-eastern corner of Sunbird Park looking westwards along Sunbird Circle</p>
+<p><sub>North-eastern corner of Sunbird Park looking westwards along Sunbird Circle</sub>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin: 0px; padding: 0px; border: 0px none; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="Junction of Sunbird Road &amp; Circle looking northwards" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist3.jpg">
 </div>
 <p></p>
-<p>Junction of Sunbird Road &amp; Circle looking northwards</p>
+<p><sub>Junction of Sunbird Road &amp; Circle looking northwards</sub>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin: 0px; padding: 0px; border: 0px none; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="South-western corner of Sunbird Park looking eastwards along Sunbird Circle" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist4.jpg">
 </div>
 <p></p>
-<p>South-western corner of Sunbird Park looking eastwards along Sunbird Circle</p>
+<p><sup>South-western corner of Sunbird Park looking eastwards along Sunbird Circle</sup>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin: 0px; padding: 0px; border: 0px none; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="Part of Sunbird Circle looking northwards towards Simei Green Condo" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist5.jpg">
 </div>
 <p></p>
-<p>Part of Sunbird Circle looking northwards towards Simei Green Condo</p>
+<p><sup>Part of Sunbird Circle looking northwards towards Simei Green Condo</sup>
+</p>
 <p>Some local residents recounted stories that the developer of the estate
 was advised that for better FengShui, they need to have a block of higher
 development to contain the “good fengshui and prevent it from escaping”
@@ -112,7 +115,8 @@ to the park rather than the main Upper Changi Road.</p>
 <img style="margin: 0px; padding: 0px; border: 0px none; font: inherit; vertical-align: baseline; max-width: 100%;" height="auto" width="100%" alt="Apollo Gardens" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist6.jpg">
 </div>
 <p></p>
-<p>Apollo Gardens</p>
+<p><sup>Apollo Gardens</sup>
+</p>
 <p>How Apollo Gardens got her name are many residents’ guesses. Amongst many
 logical explanations was that the apartment was named after the USA NASA
 Apollo Lunar Missions which started in 1961 till 1975. Other reasons were
