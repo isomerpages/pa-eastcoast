@@ -150,19 +150,20 @@ These sold well during the period of property boom in the early 90s.</p>
 <div class="isomer-image-wrapper">
 <img style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; max-width: 100%; color: rgb(68, 68, 68); letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="hist10" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist10.jpg">
 </div>
-<p>Sunbird View, a 4 storey walk-up apartment was added and completed by
-1997. Here another 15 households were added to the growing estate of Sunbird
-Apollo. This development is manage by a Management Committee who takes
-care of all maintenance matters such as the Security Camera system, Auto-Gate
-and the general cleanliness of the surrounding grounds and gardens.</p>
-<p></p>
+<p><sub>Sunbird View, a 4 storey walk-up apartment was added and completed by 1997. Here another 15 households were added to the growing estate of Sunbird Apollo. This development is manage by a Management Committee who takes care of all maintenance matters such as the Security Camera system, Auto-Gate and the general cleanliness of the surrounding grounds and gardens.</sub>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 13px; line-height: 19px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; max-width: 100%; color: rgb(68, 68, 68); letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="hist11" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist11.jpg">
+</div>
 <p><strong>Final 8 semi-detached houses</strong>
 </p>
 <p>The final and last addition to Sunbird Apollo Estate were these 8 semi-detached
 houses built along Sunbird Avenue and Sunbird Circle. It was believed that
 these houses was built on a vacated land previously an open waste water
 sump which was unused for many years and backfilled.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin: 0px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; max-width: 100%; color: rgb(68, 68, 68); letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="hist12" src="http://www.sunbirdapollo.com/wp-content/uploads/2013/02/hist12.jpg">
+</div>
 <p><strong>222 households of Sunbird Apollo Estate</strong>
 </p>
 <p>As of today, the estate has a total of 222 households. From the look of
