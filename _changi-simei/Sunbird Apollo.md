@@ -17,19 +17,18 @@ Road to the South, Simei Road to the East and both the Simei Green and
 Double Bay Residences Condominiums to the North. The total perimeter of
 the estate is about 1.5km and it occupies an approximate area of 80,000sq
 meters, equivalent to 20 acres or 8 hectares.</p>
-<p>One of the largest parks in our GRC, Sunbird Park is the heart of the
-estate. Complete with a recently refurbished playground and two newly&nbsp;constructed&nbsp;pavilions,
-it serves as a venue for many estate-wide functions such as the Mid Autumn
-Festival Celebrations.</p>
+<p>Sunbird Park is the heart of the estate, complete with a playground and
+two pavilions, it serves as a venue for many estate-wide functions such
+as the Mid-Autumn Festival Celebrations.</p>
 <p>Located as part of District 16, the estate is a preferred estate in the
 east side of Singapore due to its close proximity to facilities such as
 Changi International Airport, Singapore Expo, Changi Business Park, and
-best of all, 2 MRT Stations namely Simei and Expo Stations. Commuting to
-the Central Business District (CBD) takes about 20 minutes and it takes
-a mere 10 minutes to travel to the Changi International Airport via car
-or MRT.</p>
+best of all, 3 MRT Stations namely Upper Changi (DT34), Simei (EW3) and
+Expo (CG1|DT35) Station. Commuting to the Central Business District (CBD)
+takes about 20 minutes and it takes a mere 10 minutes to travel to the
+Changi International Airport via car or MRT.</p>
 <p>Sunbird-Apollo Estate has a good mix of double to triple&nbsp;storey&nbsp;semi-detached
-houses and terraces. She also houses a couple of walk up apartments, namely
+houses and terraces. She also houses a couple of walk-up apartments, namely
 Sunbird View and Apollo Gardens.</p>
 <p><strong>Getting Here</strong>
 </p>
@@ -37,7 +36,7 @@ Sunbird View and Apollo Gardens.</p>
 <p><strong>By Bus<br></strong>5 bus services serve the estate. Bus Service
 Number 2, 5, 12, 38 and NR7 link the estate to various parts of Singapore.</p>
 <p><strong>By Train</strong>
-<br>3&nbsp;MRT stations, Simei (EW3), Expo Station (CG1) and Upper Changi
+<br>3&nbsp;MRT stations, Simei (EW3), Expo Station (CG1|DT35) and Upper Changi
 (DT34) are located within a walking distance of about 500 to 600 meters
 from the estate.&nbsp;Of the&nbsp;3 MRT stations serving the estate, Simei
 Station is recommended because it is nearer. At the main exit of the station,
@@ -48,50 +47,6 @@ Estate is located just across the canal next to Sunbird View Apartments.</p>
 <p><strong>By Car</strong>
 <br>The estate is accessible via the nearby East Coast Parkway (ECP), Pan
 Island Expressway (PIE) and Tampines Expressway (TPE).</p>
-<p><strong>By Taxi</strong>
-<br>If you are taking a taxi, just tell the “Taxi Uncle” Apollo Gardens or
-Upper Changi Road opposite the ITE College East.</p>
-<p></p>
-<p><strong>Nearby</strong>
-</p>
-<p>Shopping Malls
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Eastpoint Mall</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Tampines Mall</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Eastwood Centre</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Bedok Market Place</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Century Square</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Loyang Point</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Changi City Point</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Tampines One</a>
-</p>
-<p>Places of Interests
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Singapore Expo</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">NEWater Visitor Centre</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Changi Chapel And Museum</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Johor Battery WWII Gun</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Downtown East</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Changi Village</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Changi Beach Park</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Malay Village</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Pulau Ubin</a>
-</p>
-<p>Childcare Centre
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">My Jolly Educare</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Eureka Schoolhouse</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Star Learners @ Simei</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Moriah Child Care And Development Centre</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Iman Childcare (Simei)</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Maris Kidz Schoolhouse</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Learning Vision @ Work</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Eileen’s Childcare Centre</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">The Orange Tree Preschool</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Mindchamps Preschool @ Changi Business Park</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Metropolitan YMCA Child Care &amp; Development Centre</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Bloom Educare</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">My First Skool</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Cherie Hearts @ Changi Business Park</a>
-<br><a class="route" rel="noopener noreferrer nofollow" target="_blank">Changi General Hospital Child Care Centre</a>
-</p>
 <h4><strong>Our History</strong></h4>
 <p><strong>1960 – 1980&nbsp;– Hainan Village</strong>
 </p>
@@ -203,7 +158,7 @@ sump which was unused for many years and backfilled.</p>
 <p></p>
 <p><strong>220 households of Sunbird Apollo Estate</strong>
 </p>
-<p>As of today, the estate has a total of 220 households. From the look of
+<p>As of today, the estate has a total of 222 households. From the look of
 it, it is unlikely that there is any more land for more houses to be built
 within Sunbird Apollo estate except for bigger houses when new residents
 rebuild or existing ones upgrade.</p>
