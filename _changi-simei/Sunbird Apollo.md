@@ -132,6 +132,10 @@ Island Expressway (PIE) and Tampines Expressway (TPE).</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/community_garden.jpg">
+</div>
 <h4>Sunbird-Apollo Community Garden</h4>
 <p>In the far northern side of the Sunbird-Apollo Estate lies our Community
 Garden, a sanctuary of a wide variety of plants ranging from fruit trees
@@ -151,24 +155,62 @@ to residents to encourage and foster the spirit of sharing and interest
 in planting.</p>
 <p><strong>Plant Variety:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Thai Basil</p>
+</li>
+<li>
 <p>Aloe Vera</p>
+</li>
+<li>
 <p>Ball Cactus</p>
+</li>
+<li>
 <p>Pandan Plant</p>
+</li>
+<li>
 <p>Rooster Head Plant</p>
+</li>
+<li>
 <p>Drimiopsis Maculata</p>
+</li>
+<li>
 <p>Winter Melon</p>
+</li>
+<li>
 <p>Pineapple Plant</p>
+</li>
+<li>
 <p>Chili Padi Plant</p>
+</li>
+<li>
 <p>Citronella Plant</p>
+</li>
+<li>
 <p>Pucuk Manis (Mani-Cai)</p>
+</li>
+<li>
 <p>Tillandsia Air Plants</p>
+</li>
+<li>
 <p>Sawtooth Coriander</p>
+</li>
+<li>
 <p>Lady Finger Plant</p>
+</li>
+<li>
 <p>Torenia Plant</p>
+</li>
+<li>
 <p>Caladium Plant</p>
+</li>
+<li>
 <p>Begonia Plant</p>
+</li>
+<li>
 <p>Indian Borage</p>
+</li>
+</ul>
 <h4><strong>Our History</strong></h4>
 <p><strong>1960 – 1980&nbsp;– Hainan Village</strong>
 </p>
@@ -526,12 +568,37 @@ closely with the various government agencies such as NPC, NParks, NEA to
 look after the general interests and security of our estates. Over the
 past years we have also organized numerous activities to promote neighbourliness.
 These include:</p>
-<p>Chinese New Year Celebrations</p>
-<p>Bowling Competition
+<p>Chinese New Year Celebrations
+<br>Bowling Competition
 <br>Farm Tour
 <br>Mid-Autumn Festival
 <br>Malaysia Tour
 <br>Residents’ Night
 <br>MP Estate Walkabout
 <br>NPC Estate Walkabout</p>
+<p></p>
+<h4><strong>Contributions</strong></h4>
+<p><strong>Our Beautiful and Special Estate</strong>
+</p>
+<p><em>A contribution from Ms Yoo Peck Sze from 104 Sunbird Circle</em>
+</p>
+<p>Up in the morning, the Sun arises
+<br>A yellow birdie hopping onto my window still
+<br>Singing beautifully in top notch voice</p>
+<p>The houses, the gardens all adorned with flowers
+<br>The eager children all out to play
+<br>Chasing in circles round and round
+<br>No happier are than others!</p>
+<p>The sun god Apollo shines on us
+<br>Which I shall be proud to say
+<br>This is here where I stay,
+<br>Sunbird Apollo Estate</p>
+<p>Oh, What a joy to stay here
+<br>Oh, What a place to play
+<br>Peaceful, safe, warm and united
+<br>I am sure we are happier than others</p>
+<p>The lanterns, candles, mooncakes &amp; tea
+<br>Come and join on this happy day
+<br>Together we shall enjoy
+<br>The mooncake festival celebration!!</p>
 <p></p>
