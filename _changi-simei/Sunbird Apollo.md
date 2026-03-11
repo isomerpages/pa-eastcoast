@@ -297,6 +297,241 @@ sump which was unused for many years and backfilled.</p>
 it, it is unlikely that there is any more land for more houses to be built
 within Sunbird Apollo estate except for bigger houses when new residents
 rebuild or existing ones upgrade.</p>
+<h4><strong>Trivia</strong></h4>
+<p><strong>How many species of Sunbirds are there in Singapore?</strong>
+</p>
+<p>Six.</p>
+<p><strong>Which Minister had lived in Apollo Gardens?</strong>
+</p>
+<p>&nbsp;Minister of Foreign Affairs, Mr. George Yeo Yong Boon, who was a
+RSAF Officer before joining politics.</p>
+<p><strong>What was at Sunbird Playground before it was built?</strong>
+</p>
+<p>Secondary Forest</p>
+<p><strong>What used to be located at the site of Apollo Gardens?</strong>
+</p>
+<p>Tropical fish ponds and farms.</p>
+<p><strong>What used to be located at Sunbird Road Phase I and II?</strong>
+</p>
+<p>Vegetable Farms</p>
+<p><strong>What used to be located near the old Changkat Changi Secondary School / Jalan Tiga Ratus?</strong>
+</p>
+<p>Beehoon Factory</p>
 <p></p>
+<h4><strong>Residents' Network Committee</strong></h4>
+<p>The Residents' Network Committee currently consists of the following members
+who are all volunteers and residents from the estate. They are appointed
+by the People’s Association and their term of office is from 01&nbsp;July
+2025 to&nbsp;30 June 2027.</p>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Wen Jian Matthew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halina Talib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Simon Kee Aik Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Lyn-Ru Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>John Stephen Sharpley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Hon-Feii Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Wee Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yew Minn Jun Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boh Thye Joon Roland</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Gim Hin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Steven Lau Puay Yeong, PBM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Chi Yin Gladys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ow Suet Li Shirley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>David Tan Cheng Chin, PBM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spencer Tham Kai Thim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Jin Hon Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adam Wong Kong Khiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yee Wai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Objectives of our RN</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To look after the general interests of our estate</p>
+</li>
+<li>
+<p>To promote neighbourliness and a community spirit among our residents</p>
+</li>
+<li>
+<p>To promote security and prevent crime in our estate</p>
+</li>
+</ol>
 <p></p>
+<h4><strong>Formative Years of our RN</strong></h4>
+<p>The Sunbird Apollo RN (formally known as Sunbird-Apollo NC) was officially
+formed on 1 November 2000. It has its roots way back in 1993 when 2 families
+(Steven Lau and Roland Boh) decided one late night to form a small neighbourhood
+group to get to know our new neighbours who have just moved into Sunbird
+Road Phase 2 and to promote neighbourliness. We managed to gather 4-5 interested
+families and met regularly.</p>
+<p>In 1997, when Mr David Lim Tik En was elected as a Member of Parliament
+for Aljunied GRC (Changi Simei), of which Sunbird-Apollo Estate was part
+of, he encouraged us to form what was then known as a Residents’ Association
+(RA) for private estate residents. A meeting with the residents of Sunbird-Apollo
+was called to explain the purpose and objectives of forming a RA for the
+220 households in our estate.</p>
+<p>Most of the residents present at our first meeting at the Changi Community
+Center on 29 August 1997 gave positive and constructive feedback. Our first
+RA committee comprising of 12 members was thus nominated on 3 October 1997
+with the following objectives:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To look after the general interests of our estate</p>
+</li>
+<li>
+<p>To promote neighbourliness and a community spirit among our residents</p>
+</li>
+<li>
+<p>To promote security and prevent crime in our estate</p>
+</li>
+</ol>
+<p></p>
+<p>In 1998, our RA was renamed to Area Sub-Committee (ASC) and a few years
+later in 2000, our ASC was renamed to Neighbourhood Committee (NC) under
+a new initiative by the People’s Association to cater to the needs of Private
+Estate Residents in the designated neighbourhood. Since then, we have worked
+closely with the various government agencies such as NPC, NParks, NEA to
+look after the general interests and security of our estates. Over the
+past years we have also organized numerous activities to promote neighbourliness.
+These include:</p>
+<p>Chinese New Year Celebrations</p>
+<p>Bowling Competition
+<br>Farm Tour
+<br>Mid-Autumn Festival
+<br>Malaysia Tour
+<br>Residents’ Night
+<br>MP Estate Walkabout
+<br>NPC Estate Walkabout</p>
 <p></p>
