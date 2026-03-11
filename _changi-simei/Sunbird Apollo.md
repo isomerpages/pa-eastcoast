@@ -46,6 +46,171 @@ to Sunbird View Apartments.</p>
 <p><strong>By Car</strong>
 <br>The estate is accessible via the nearby East Coast Parkway (ECP), Pan
 Island Expressway (PIE) and Tampines Expressway (TPE).</p>
+<p></p>
+<h4><strong>Nearby</strong></h4>
+<p><strong>Shopping Malls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eastpoint Mall</p>
+</li>
+<li>
+<p>Tampines Mall</p>
+</li>
+<li>
+<p>Bedok Market Place</p>
+</li>
+<li>
+<p>Century Square</p>
+</li>
+<li>
+<p>Loyang Point</p>
+</li>
+<li>
+<p>Changi City Point</p>
+</li>
+<li>
+<p>Tampines One</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Places of Interests</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Expo</p>
+</li>
+<li>
+<p>Changi Chapel And Museum</p>
+</li>
+<li>
+<p>Downtown East</p>
+</li>
+<li>
+<p>Changi Village</p>
+</li>
+<li>
+<p>Changi Beach Park</p>
+</li>
+<li>
+<p>Pulau Ubin</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Childcare Centre</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eureka Schoolhouse</p>
+</li>
+<li>
+<p>Star Learners @ Changi Simei</p>
+</li>
+<li>
+<p>Moriah Child Care And Development Centre</p>
+</li>
+<li>
+<p>Iman Childcare (Simei)</p>
+</li>
+<li>
+<p>Mindchamps Preschool @ Changi Business Park</p>
+</li>
+<li>
+<p>Bloom Educare</p>
+</li>
+<li>
+<p>My First Skool</p>
+</li>
+<li>
+<p>KidsCampus Changi Simei Childcare &amp; Infant Care Centre</p>
+</li>
+<li>
+<p>Changi General Hospital Child Care Centre</p>
+</li>
+<li>
+<p>PCF Sparkletots Preschool</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/community_garden.jpg">
+</div>
+<h4>Sunbird-Apollo Community Garden</h4>
+<p>In the far northern side of the Sunbird-Apollo Estate lies our Community
+Garden, a sanctuary of a wide variety of plants ranging from fruit trees
+to edible plants, located along the stretch of land opposite 51 t0 55 Sunbird
+Circle.</p>
+<p>The community garden is a green space kindly granted by the Singapore
+Land Authority and the Changi-Simei CCC, where residents from all around
+the estate and neighbourhood come together to appreciate nature and to
+re-live the kampung spirits in everyone.</p>
+<p>The garden is also a favourite outing and learning venue of the childcare
+centres in the estate, where teachers bring the young students for an educational
+experience and their weekly dose of nature and sunshine.</p>
+<p>On the 10th July 2021, the Sunbird-Apollo Residents' Network (formerly
+Sunbird Apollo Neighbourhood Committee) successfully held the first Sunbird-Apollo
+Community Garden Day, where an assortment of plant saplings was given out
+to residents to encourage and foster the spirit of sharing and interest
+in planting.</p>
+<p><strong>Plant Variety:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Thai Basil</p>
+</li>
+<li>
+<p>Aloe Vera</p>
+</li>
+<li>
+<p>Ball Cactus</p>
+</li>
+<li>
+<p>Pandan Plant</p>
+</li>
+<li>
+<p>Rooster Head Plant</p>
+</li>
+<li>
+<p>Drimiopsis Maculata</p>
+</li>
+<li>
+<p>Winter Melon</p>
+</li>
+<li>
+<p>Pineapple Plant</p>
+</li>
+<li>
+<p>Chili Padi Plant</p>
+</li>
+<li>
+<p>Citronella Plant</p>
+</li>
+<li>
+<p>Pucuk Manis (Mani-Cai)</p>
+</li>
+<li>
+<p>Tillandsia Air Plants</p>
+</li>
+<li>
+<p>Sawtooth Coriander</p>
+</li>
+<li>
+<p>Lady Finger Plant</p>
+</li>
+<li>
+<p>Torenia Plant</p>
+</li>
+<li>
+<p>Caladium Plant</p>
+</li>
+<li>
+<p>Begonia Plant</p>
+</li>
+<li>
+<p>Indian Borage</p>
+</li>
+</ul>
 <h4><strong>Our History</strong></h4>
 <p><strong>1960 – 1980&nbsp;– Hainan Village</strong>
 </p>
@@ -174,6 +339,269 @@ sump which was unused for many years and backfilled.</p>
 it, it is unlikely that there is any more land for more houses to be built
 within Sunbird Apollo estate except for bigger houses when new residents
 rebuild or existing ones upgrade.</p>
+<h4><strong>Trivia</strong></h4>
+<p><strong>How many species of Sunbirds are there in Singapore?</strong>
+</p>
+<p>Six.</p>
+<p><strong>Which Minister had lived in Apollo Gardens?</strong>
+</p>
+<p>&nbsp;Minister of Foreign Affairs, Mr. George Yeo Yong Boon, who was a
+RSAF Officer before joining politics.</p>
+<p><strong>What was at Sunbird Playground before it was built?</strong>
+</p>
+<p>Secondary Forest</p>
+<p><strong>What used to be located at the site of Apollo Gardens?</strong>
+</p>
+<p>Tropical fish ponds and farms.</p>
+<p><strong>What used to be located at Sunbird Road Phase I and II?</strong>
+</p>
+<p>Vegetable Farms</p>
+<p><strong>What used to be located near the old Changkat Changi Secondary School / Jalan Tiga Ratus?</strong>
+</p>
+<p>Beehoon Factory</p>
 <p></p>
+<h4><strong>Residents' Network Committee</strong></h4>
+<p>The Residents' Network Committee currently consists of the following members
+who are all volunteers and residents from the estate. They are appointed
+by the People’s Association and their term of office is from 01&nbsp;July
+2025 to&nbsp;30 June 2027.</p>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Wen Jian Matthew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halina Talib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Simon Kee Aik Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Lyn-Ru Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>John Stephen Sharpley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Hon-Feii Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Wee Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yew Minn Jun Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Auditor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boh Thye Joon Roland</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Gim Hin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Steven Lau Puay Yeong, PBM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Chi Yin Gladys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ow Suet Li Shirley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>David Tan Cheng Chin, PBM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spencer Tham Kai Thim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Jin Hon Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adam Wong Kong Khiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yee Wai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Member</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Objectives of our RN</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>To look after the general interests of our estate</p>
+</li>
+<li>
+<p>To promote neighbourliness and a community spirit among our residents</p>
+</li>
+<li>
+<p>To promote security and prevent crime in our estate</p>
+</li>
+</ol>
 <p></p>
+<h4><strong>Formative Years of our RN</strong></h4>
+<p>The Sunbird Apollo RN (formally known as Sunbird-Apollo NC) was officially
+formed on 1 November 2000. It has its roots way back in 1993 when 2 families
+(Steven Lau and Roland Boh) decided one late night to form a small neighbourhood
+group to get to know our new neighbours who have just moved into Sunbird
+Road Phase 2 and to promote neighbourliness. We managed to gather 4-5 interested
+families and met regularly.</p>
+<p>In 1997, when Mr David Lim Tik En was elected as a Member of Parliament
+for Aljunied GRC (Changi Simei), of which Sunbird-Apollo Estate was part
+of, he encouraged us to form what was then known as a Residents’ Association
+(RA) for private estate residents. A meeting with the residents of Sunbird-Apollo
+was called to explain the purpose and objectives of forming a RA for the
+220 households in our estate.</p>
+<p>Most of the residents present at our first meeting at the Changi Community
+Center on 29 August 1997 gave positive and constructive feedback. Our first
+RA committee comprising of 12 members was thus nominated on 3 October 1997
+with the following objectives:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To look after the general interests of our estate</p>
+</li>
+<li>
+<p>To promote neighbourliness and a community spirit among our residents</p>
+</li>
+<li>
+<p>To promote security and prevent crime in our estate</p>
+</li>
+</ol>
 <p></p>
+<p>In 1998, our RA was renamed to Area Sub-Committee (ASC) and a few years
+later in 2000, our ASC was renamed to Neighbourhood Committee (NC) under
+a new initiative by the People’s Association to cater to the needs of Private
+Estate Residents in the designated neighbourhood. Since then, we have worked
+closely with the various government agencies such as NPC, NParks, NEA to
+look after the general interests and security of our estates. Over the
+past years we have also organized numerous activities to promote neighbourliness.
+These include:</p>
+<p>Chinese New Year Celebrations
+<br>Bowling Competition
+<br>Farm Tour
+<br>Mid-Autumn Festival
+<br>Malaysia Tour
+<br>Residents’ Night
+<br>MP Estate Walkabout
+<br>NPC Estate Walkabout</p>
+<p></p>
+<h4><strong>Contributions</strong></h4>
+<p><strong>Our Beautiful and Special Estate</strong>
+</p>
+<p><em>A contribution from Ms Yoo Peck Sze from 104 Sunbird Circle</em>
+</p>
+<p>Up in the morning, the Sun arises
+<br>A yellow birdie hopping onto my window still
+<br>Singing beautifully in top notch voice</p>
+<p>The houses, the gardens all adorned with flowers
+<br>The eager children all out to play
+<br>Chasing in circles round and round
+<br>No happier are than others!</p>
+<p>The sun god Apollo shines on us
+<br>Which I shall be proud to say
+<br>This is here where I stay,
+<br>Sunbird Apollo Estate</p>
+<p>Oh, What a joy to stay here
+<br>Oh, What a place to play
+<br>Peaceful, safe, warm and united
+<br>I am sure we are happier than others</p>
+<p>The lanterns, candles, mooncakes &amp; tea
+<br>Come and join on this happy day
+<br>Together we shall enjoy
+<br>The mooncake festival celebration!!</p>
+<p></p>
+<h4>Follow us on social media!</h4>
+<p><a href="" rel="noopener nofollow" target="_blank">Sunbird Apollo RN Facebook Page</a>
+</p>
