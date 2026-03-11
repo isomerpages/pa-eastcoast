@@ -605,4 +605,3 @@ These include:</p>
 <h4>Follow us on social media!</h4>
 <p><a href="" rel="noopener nofollow" target="_blank">Sunbird Apollo RN Facebook Page</a>
 </p>
-<p>Fol</p>
