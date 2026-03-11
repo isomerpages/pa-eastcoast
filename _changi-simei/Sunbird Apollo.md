@@ -46,6 +46,129 @@ to Sunbird View Apartments.</p>
 <p><strong>By Car</strong>
 <br>The estate is accessible via the nearby East Coast Parkway (ECP), Pan
 Island Expressway (PIE) and Tampines Expressway (TPE).</p>
+<p></p>
+<h4><strong>Nearby</strong></h4>
+<p><strong>Shopping Malls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eastpoint Mall</p>
+</li>
+<li>
+<p>Tampines Mall</p>
+</li>
+<li>
+<p>Bedok Market Place</p>
+</li>
+<li>
+<p>Century Square</p>
+</li>
+<li>
+<p>Loyang Point</p>
+</li>
+<li>
+<p>Changi City Point</p>
+</li>
+<li>
+<p>Tampines One</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Places of Interests</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Expo</p>
+</li>
+<li>
+<p>Changi Chapel And Museum</p>
+</li>
+<li>
+<p>Downtown East</p>
+</li>
+<li>
+<p>Changi Village</p>
+</li>
+<li>
+<p>Changi Beach Park</p>
+</li>
+<li>
+<p>Pulau Ubin</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Childcare Centre</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eureka Schoolhouse</p>
+</li>
+<li>
+<p>Star Learners @ Changi Simei</p>
+</li>
+<li>
+<p>Moriah Child Care And Development Centre</p>
+</li>
+<li>
+<p>Iman Childcare (Simei)</p>
+</li>
+<li>
+<p>Mindchamps Preschool @ Changi Business Park</p>
+</li>
+<li>
+<p>Bloom Educare</p>
+</li>
+<li>
+<p>My First Skool</p>
+</li>
+<li>
+<p>KidsCampus Changi Simei Childcare &amp; Infant Care Centre</p>
+</li>
+<li>
+<p>Changi General Hospital Child Care Centre</p>
+</li>
+<li>
+<p>PCF Sparkletots Preschool</p>
+</li>
+</ul>
+<p></p>
+<h4>Sunbird-Apollo Community Garden</h4>
+<p>In the far northern side of the Sunbird-Apollo Estate lies our Community
+Garden, a sanctuary of a wide variety of plants ranging from fruit trees
+to edible plants, located along the stretch of land opposite 51 t0 55 Sunbird
+Circle.</p>
+<p>The community garden is a green space kindly granted by the Singapore
+Land Authority and the Changi-Simei CCC, where residents from all around
+the estate and neighbourhood come together to appreciate nature and to
+re-live the kampung spirits in everyone.</p>
+<p>The garden is also a favourite outing and learning venue of the childcare
+centres in the estate, where teachers bring the young students for an educational
+experience and their weekly dose of nature and sunshine.</p>
+<p>On the 10th July 2021, the Sunbird-Apollo Residents' Network (formerly
+Sunbird Apollo Neighbourhood Committee) successfully held the first Sunbird-Apollo
+Community Garden Day, where an assortment of plant saplings was given out
+to residents to encourage and foster the spirit of sharing and interest
+in planting.</p>
+<p><strong>Plant Variety:</strong>
+</p>
+<p>Thai Basil</p>
+<p>Aloe Vera</p>
+<p>Ball Cactus</p>
+<p>Pandan Plant</p>
+<p>Rooster Head Plant</p>
+<p>Drimiopsis Maculata</p>
+<p>Winter Melon</p>
+<p>Pineapple Plant</p>
+<p>Chili Padi Plant</p>
+<p>Citronella Plant</p>
+<p>Pucuk Manis (Mani-Cai)</p>
+<p>Tillandsia Air Plants</p>
+<p>Sawtooth Coriander</p>
+<p>Lady Finger Plant</p>
+<p>Torenia Plant</p>
+<p>Caladium Plant</p>
+<p>Begonia Plant</p>
+<p>Indian Borage</p>
 <h4><strong>Our History</strong></h4>
 <p><strong>1960 – 1980&nbsp;– Hainan Village</strong>
 </p>
