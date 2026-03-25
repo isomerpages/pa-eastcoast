@@ -17,8 +17,8 @@ sections:
           description: Make a difference!
           url: https://www.go.gov.sg/ecvolunteer
   - infobar:
-      title: Home, Heart and Soul
-      subtitle: East Coast is our
+      title: East Side, the Best Side
+      subtitle: Hand in hand, let's make
       id: infobar
       description: The East is the place to be, and the best is yet to come. Join us
         on the ride, and together let's make 'East Side, Best Side' our reality.
