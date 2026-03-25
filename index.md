@@ -43,10 +43,10 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: A place to Pray
       id: infopic
-      description: Infopic description
+      description: Fostering unity by bringing people together for honest interfaith
+        conversations and community connections.
       button: Button Text
       alt: Image alt text
 ---
