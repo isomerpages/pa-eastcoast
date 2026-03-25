@@ -20,8 +20,8 @@ sections:
       title: Home, Heart and Soul
       subtitle: East Coast is our
       id: infobar
-      description: The East is the place to be, and the best is yet to come. Hop on
-        for a ride together, to make 'East Side, Best Side' our reality.
+      description: The East is the place to be, and the best is yet to come. Join us
+        on the ride, and together let's make 'East Side, Best Side' our reality.
   - infopic:
       title: A place to Learn
       id: infopic
