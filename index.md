@@ -56,8 +56,8 @@ sections:
       description: Every green step we take ensures that our kids and grandkids can
         enjoy the East Coast tomorrow. Taking action keeps our home livable and
         green for generations.
-      alt: sustainability event
-      image: /images/a_place_to_conserve.jpg
+      alt: tree planting
+      image: /images/a_place_to_conserve_tree_planting.jpg
   - infopic:
       title: A place to Play
       id: infopic
@@ -70,7 +70,7 @@ sections:
       id: infopic
       description: Let's shape the vision of our future together, and build a better
         tomorrow hand in hand.
-      alt: skyline of singapore
+      alt: east coast town plan
       image: /images/a_place_to_shape_the_future.jpg
   - infopic:
       title: A place for All
