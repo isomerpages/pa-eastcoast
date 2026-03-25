@@ -16,84 +16,67 @@ sections:
         - title: Find out how to volunteer with us
           description: Make a difference!
           url: https://www.go.gov.sg/ecvolunteer
+  - infobar:
+      title: Home, Heart and Soul
+      subtitle: East Coast is our
+      id: infobar
+      description: The East is the place to be, and the best is yet to come. Join us
+        on the ride, and together let's make 'East Side, Best Side' our reality.
   - infopic:
-      title: East Coast Plan
-      subtitle: what is your
+      title: A place to Learn
       id: infopic
-      description: This is East Coast -- where its people are caring, the community is
-        vibrant, and its spaces clean and green. This is the East Coast Plan.
-      button: watch our video
-      url: https://youtu.be/joRPEX85DIg
-      image: /images/Screenshot_2025_04_02_at_4_30_34_PM.png
-      alt: Image alt text
+      description: We’re making sure that everyone, young and old, has the chance to
+        learn and grow so no one gets left behind.
+      image: /images/a_place_to_learn.jpg
+      alt: residents at a workshop
   - infopic:
-      title: LIVING YOUR BEST LIFE
-      subtitle: Easties' guide to
+      title: A place to Care
       id: infopic
-      description: The East Coast Plan in Action. Check out our guide to how you can
-        live your 'East Side, Best Side' life!
-      button: READ THE GUIDE HERE
-      url: https://go.gov.sg/eastiesguide
-      image: /images/ECP_Brochure__1_.png
-      alt: EASTIES' GUIDE EAST COAST PLAN
+      description: Your well-being is our priority, with mental health support,
+        eldercare, and holistic healing at its heart.
+      alt: caring for seniors
+      image: /images/a_place_to_care.jpg
   - infopic:
-      title: Stories of East Coast
-      subtitle: Read about
+      title: A place to Eat
       id: infopic
-      description: What is your East Coast Plan?
-      button: OUR EAST COAST RESIDENTS SHARE THEIR STORIES
-      alt: East Coast Our Place to Bond
-      image: /images/ecplacetobond.jpg
-      url: https://go.gov.sg/storiesofec
+      description: Come home to the culinary heart of Singapore, where we celebrate
+        our UNESCO-inscribed Hawker Culture.
+      alt: chicken rice
+      image: /images/a_place_to_eat.jpg
   - infopic:
-      title: 200=100 @ EAST COAST
-      subtitle: double the joy, half the cost
+      title: A place to Pray
       id: infopic
-      description: Stretching the dollar further with our grocery initiative.
-      button: find out more
-      url: /200-100-east-coast/
-      image: /images/200100cardpink.jpg
-      alt: Image alt text
+      description: We will foster unity by bringing people together for honest
+        interfaith conversations and community connections.
+      alt: clear blue sky
+      image: /images/a_place_to_pray.jpg
   - infopic:
-      title: HEALTHIER EAST COAST?
-      subtitle: Why should I be part of
+      title: A place to Conserve
       id: infopic
-      description: Your health is your greatest asset. Take charge and start your
-        health journey early by taking proactive steps to benefit you and your
-        family.
-      button: Read about healthier ec
-      url: https://eastcoast.pa.gov.sg/healthier-east-coast/
-      image: /images/Healthier_East_Coast_Card.jpg
-      alt: healthier east coast plan
+      description: Every green step we take ensures that our kids and grandkids can
+        enjoy the East Coast tomorrow. Taking action keeps our home livable and
+        green for generations.
+      alt: sustainability event
+      image: /images/a_place_to_conserve.jpg
   - infopic:
-      title: Bites of Bliss
-      subtitle: aN EAST COAST E-COOKBOOK
+      title: A place to Play
       id: infopic
-      description: Residents uniting to compile home recipes for our inaugural East
-        Coast Digital E-Cookbook!
-      button: CHECK OUT OUR E-COOKBOOK
-      url: https://go.gov.sg/ecbitesofbliss
-      image: /images/WhatsApp_Image_2025_02_20_at_3_50_30_PM.jpg
-      alt: Bites of Bliss East Coast Plan
-  - textcards:
-      title: Our 3 Pillars
-      subtitle: FIND OUT MORE ABOUT OUR
-      id: textcards
-      description: of the East Coast Plan
-      cards:
-        - title: CARING
-          description: Where friends and neighbours look out for each other.
-          linktext: The East Coast Caring Spirit
-          url: https://eastcoast.pa.gov.sg/caring/
-        - title: VIBRANT
-          description: The most exciting place to live in, in Singapore.
-          linktext: Why East Side is the Best Side
-          url: https://eastcoast.pa.gov.sg/vibrant/
-        - title: GREEN
-          description: Our earth, our responsibility.
-          linktext: Our Green Initiatives
-          url: https://eastcoast.pa.gov.sg/green/
-  - announcements:
-      title: UPCOMING EVENTS
-      id: announcements
+      description: Easties will find more common spaces to unwind, such as new
+        facilities for fun, fitness, and friendly competition.
+      alt: people kayaking
+      image: /images/a_place_to_play.jpg
+  - infopic:
+      title: A place to Shape the Future
+      id: infopic
+      description: Let's shape the vision of our future together, and build a better
+        tomorrow hand in hand.
+      alt: skyline of singapore
+      image: /images/a_place_to_shape_the_future.jpg
+  - infopic:
+      title: A place for All
+      id: infopic
+      description: We’re making sure everyone in East Coast feels seen, supported, and
+        right at home.
+      alt: photo of youths and senior
+      image: /images/a_place_for_all.jpg
 ---
