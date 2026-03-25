@@ -45,7 +45,7 @@ sections:
   - infopic:
       title: A place to Pray
       id: infopic
-      description: We must foster unity by bringing people together for honest
+      description: We will foster unity by bringing people together for honest
         interfaith conversations and community connections.
       button: Button Text
       alt: Image alt text
@@ -55,5 +55,11 @@ sections:
       description: Every green step we take ensures that our kids and grandkids can
         enjoy the East Coast tomorrow. Taking action keeps our home livable, and
         green for generations.
+      alt: Image alt text
+  - infopic:
+      title: A place to Play
+      id: infopic
+      description: Easties will find more common spaces to unwind, such as new
+        facilities for fun, fitness, and friendly competition.
       alt: Image alt text
 ---
