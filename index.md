@@ -41,15 +41,15 @@ sections:
       id: infopic
       description: Come home to the culinary heart of Singapore, where we celebrate
         our UNESCO-inscribed Hawker Culture.
-      alt: Image alt text
+      alt: chicken rice
       image: /images/a_place_to_eat.jpg
   - infopic:
       title: A place to Pray
       id: infopic
       description: We will foster unity by bringing people together for honest
         interfaith conversations and community connections.
-      button: Button Text
-      alt: Image alt text
+      alt: clear blue sky
+      image: /images/a_place_to_pray.jpg
   - infopic:
       title: A place to Conserve
       id: infopic
