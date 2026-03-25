@@ -20,27 +20,24 @@ sections:
       title: Home, Heart and Soul
       subtitle: East Coast is our
       id: infobar
-      description: The future is always bright at East Coast, and we're on a mission
-        to keep that sparkle alive. We'll make East Side the Best Side—where
-        everyone wants to be!
+      description: The East is the place to be, and the best is yet to come. Hop on
+        for a ride together, to make 'East Side, Best Side' our reality.
   - infopic:
       title: A place to Learn
       id: infopic
-      description: We’re making sure everyone, young and old, has the chance to learn
-        and grow so no one gets left behind.
+      description: We’re making sure that everyone, young and old, has the chance to
+        learn and grow so no one gets left behind.
   - infopic:
       title: A place to Care
       id: infopic
       description: Your well-being is our priority, with mental health support,
         eldercare, and holistic healing at its heart.
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: A place to Eat
       id: infopic
       description: Come home to the culinary heart of Singapore, where we celebrate
         our UNESCO-inscribed Hawker Culture.
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: A place to Pray
@@ -53,7 +50,7 @@ sections:
       title: A place to Conserve
       id: infopic
       description: Every green step we take ensures that our kids and grandkids can
-        enjoy the East Coast tomorrow. Taking action keeps our home livable, and
+        enjoy the East Coast tomorrow. Taking action keeps our home livable and
         green for generations.
       alt: Image alt text
   - infopic:
