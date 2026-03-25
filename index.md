@@ -68,4 +68,10 @@ sections:
       description: Let's shape the vision of our future together, and build a better
         tomorrow hand in hand.
       alt: Image alt text
+  - infopic:
+      title: A place for All
+      id: infopic
+      description: We’re making sure everyone in East Coast feels seen, supported, and
+        right at home.
+      alt: Image alt text
 ---
