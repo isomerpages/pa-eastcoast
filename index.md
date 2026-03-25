@@ -28,4 +28,25 @@ sections:
       id: infopic
       description: We’re making sure everyone, young and old, has the chance to learn
         and grow so no one gets left behind.
+  - infopic:
+      title: A place to Care
+      id: infopic
+      description: Your well-being is our priority, with mental health support,
+        eldercare, and holistic healing at its heart.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: A place to Eat
+      id: infopic
+      description: Come home to the culinary heart of Singapore, where we celebrate
+        our UNESCO-inscribed Hawker Culture.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
