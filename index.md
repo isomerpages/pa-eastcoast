@@ -34,7 +34,7 @@ sections:
       id: infopic
       description: Your well-being is our priority, with mental health support,
         eldercare, and holistic healing at its heart.
-      alt: caring for seniors
+      alt: caring for residents
       image: /images/a_place_to_care.jpg
   - infopic:
       title: A place to Eat
@@ -48,7 +48,7 @@ sections:
       id: infopic
       description: We will foster unity by bringing people together for honest
         interfaith conversations and community connections.
-      alt: clear blue sky
+      alt: a group of religious leaders
       image: /images/a_place_to_pray.jpg
   - infopic:
       title: A place to Conserve
