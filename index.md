@@ -56,23 +56,27 @@ sections:
       description: Every green step we take ensures that our kids and grandkids can
         enjoy the East Coast tomorrow. Taking action keeps our home livable and
         green for generations.
-      alt: Image alt text
+      alt: sustainability event
+      image: /images/a_place_to_conserve.jpg
   - infopic:
       title: A place to Play
       id: infopic
       description: Easties will find more common spaces to unwind, such as new
         facilities for fun, fitness, and friendly competition.
-      alt: Image alt text
+      alt: people kayaking
+      image: /images/a_place_to_play.jpg
   - infopic:
       title: A place to Shape the Future
       id: infopic
       description: Let's shape the vision of our future together, and build a better
         tomorrow hand in hand.
-      alt: Image alt text
+      alt: skyline of singapore
+      image: /images/a_place_to_shape_the_future.jpg
   - infopic:
       title: A place for All
       id: infopic
       description: We’re making sure everyone in East Coast feels seen, supported, and
         right at home.
-      alt: Image alt text
+      alt: photo of youths and senior
+      image: /images/a_place_for_all.jpg
 ---
