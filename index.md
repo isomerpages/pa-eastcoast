@@ -62,4 +62,10 @@ sections:
       description: Easties will find more common spaces to unwind, such as new
         facilities for fun, fitness, and friendly competition.
       alt: Image alt text
+  - infopic:
+      title: A place to Shape the Future
+      id: infopic
+      description: Let's shape the vision of our future together, and build a better
+        tomorrow hand in hand.
+      alt: Image alt text
 ---
