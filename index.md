@@ -27,18 +27,22 @@ sections:
       id: infopic
       description: We’re making sure that everyone, young and old, has the chance to
         learn and grow so no one gets left behind.
+      image: /images/a_place_to_learn.jpg
+      alt: residents at a workshop
   - infopic:
       title: A place to Care
       id: infopic
       description: Your well-being is our priority, with mental health support,
         eldercare, and holistic healing at its heart.
-      alt: Image alt text
+      alt: caring for seniors
+      image: /images/a_place_to_care.jpg
   - infopic:
       title: A place to Eat
       id: infopic
       description: Come home to the culinary heart of Singapore, where we celebrate
         our UNESCO-inscribed Hawker Culture.
       alt: Image alt text
+      image: /images/a_place_to_eat.jpg
   - infopic:
       title: A place to Pray
       id: infopic
