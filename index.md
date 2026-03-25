@@ -23,4 +23,9 @@ sections:
       description: The future is always bright at East Coast, and we're on a mission
         to keep that sparkle alive. We'll make East Side the Best Side—where
         everyone wants to be!
+  - infopic:
+      title: A place to Learn
+      id: infopic
+      description: We’re making sure everyone, young and old, has the chance to learn
+        and grow so no one gets left behind.
 ---
