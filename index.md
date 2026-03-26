@@ -77,6 +77,6 @@ sections:
       id: infopic
       description: We’re making sure everyone in East Coast feels seen, supported, and
         right at home.
-      alt: photo of youths and senior
-      image: /images/a_place_for_all.jpg
+      alt: group photo of residents
+      image: /images/a_place_for_all_group.jpg
 ---
