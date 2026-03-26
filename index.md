@@ -35,7 +35,7 @@ sections:
       description: Your well-being is our priority, with mental health support,
         eldercare, and holistic healing at its heart.
       alt: caring for residents
-      image: /images/a_place_to_care.jpg
+      image: /images/a_place_to_care_workshop.jpg
   - infopic:
       title: A place to Eat
       id: infopic
@@ -63,8 +63,8 @@ sections:
       id: infopic
       description: Easties will find more common spaces to unwind, such as new
         facilities for fun, fitness, and friendly competition.
-      alt: people kayaking
-      image: /images/a_place_to_play.jpg
+      alt: playing scam awareness game
+      image: /images/a_place_to_play_digital.jpg
   - infopic:
       title: A place to Shape the Future
       id: infopic
