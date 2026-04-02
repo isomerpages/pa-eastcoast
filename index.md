@@ -41,8 +41,8 @@ sections:
       id: infopic
       description: Come home to the culinary heart of Singapore, where we celebrate
         our UNESCO-inscribed Hawker Culture.
-      alt: chicken rice
-      image: /images/a_place_to_eat.jpg
+      alt: Bedok F&B deals coupon
+      image: /images/coupon_cropped_v2.png
   - infopic:
       title: A place to Pray
       id: infopic
