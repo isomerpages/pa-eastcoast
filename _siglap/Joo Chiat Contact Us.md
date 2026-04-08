@@ -1,6 +1,6 @@
 ---
-title: Siglap Contact Us
-permalink: /siglap-contactus/
+title: Joo Chiat Contact Us
+permalink: /joochiat-contactus/
 variant: tiptap
 description: ""
 ---

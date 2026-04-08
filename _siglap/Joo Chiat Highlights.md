@@ -1,6 +1,6 @@
 ---
-title: Siglap Highlights
-permalink: /siglap-highlights/
+title: Joo Chiat Highlights
+permalink: /joochiat-highlights/
 variant: tiptap
 description: ""
 ---

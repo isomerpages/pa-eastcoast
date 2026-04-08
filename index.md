@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: East Coast - Home to the Sunny Side!
+title: East Side, Best Side.
 description: Official Website of East Coast GRC
 image: /images/pa_ec_logos_updated.png
 permalink: /
@@ -17,8 +17,8 @@ sections:
           description: Make a difference!
           url: https://www.go.gov.sg/ecvolunteer
   - infobar:
-      title: Home, Heart and Soul
-      subtitle: East Coast is our
+      title: East Side, the Best Side
+      subtitle: Hand in hand, let's make
       id: infobar
       description: The East is the place to be, and the best is yet to come. Join us
         on the ride, and together let's make 'East Side, Best Side' our reality.
@@ -34,21 +34,21 @@ sections:
       id: infopic
       description: Your well-being is our priority, with mental health support,
         eldercare, and holistic healing at its heart.
-      alt: caring for seniors
-      image: /images/a_place_to_care.jpg
+      alt: caring for residents
+      image: /images/a_place_to_care_workshop.jpg
   - infopic:
       title: A place to Eat
       id: infopic
       description: Come home to the culinary heart of Singapore, where we celebrate
         our UNESCO-inscribed Hawker Culture.
-      alt: chicken rice
-      image: /images/a_place_to_eat.jpg
+      alt: Bedok F&B deals coupon
+      image: /images/coupon_cropped_v2.png
   - infopic:
       title: A place to Pray
       id: infopic
       description: We will foster unity by bringing people together for honest
         interfaith conversations and community connections.
-      alt: clear blue sky
+      alt: a group of religious leaders
       image: /images/a_place_to_pray.jpg
   - infopic:
       title: A place to Conserve
@@ -56,27 +56,27 @@ sections:
       description: Every green step we take ensures that our kids and grandkids can
         enjoy the East Coast tomorrow. Taking action keeps our home livable and
         green for generations.
-      alt: sustainability event
-      image: /images/a_place_to_conserve.jpg
+      alt: tree planting
+      image: /images/a_place_to_conserve_tree_planting.jpg
   - infopic:
       title: A place to Play
       id: infopic
       description: Easties will find more common spaces to unwind, such as new
         facilities for fun, fitness, and friendly competition.
-      alt: people kayaking
-      image: /images/a_place_to_play.jpg
+      alt: playing scam awareness game
+      image: /images/a_place_to_play_digital.jpg
   - infopic:
       title: A place to Shape the Future
       id: infopic
       description: Let's shape the vision of our future together, and build a better
         tomorrow hand in hand.
-      alt: skyline of singapore
+      alt: east coast town plan
       image: /images/a_place_to_shape_the_future.jpg
   - infopic:
       title: A place for All
       id: infopic
       description: We’re making sure everyone in East Coast feels seen, supported, and
         right at home.
-      alt: photo of youths and senior
-      image: /images/a_place_for_all.jpg
+      alt: group photo of residents
+      image: /images/a_place_for_all_group.jpg
 ---

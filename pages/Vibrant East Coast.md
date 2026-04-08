@@ -4,7 +4,6 @@ permalink: /vibrant/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
 </div>
@@ -43,7 +42,7 @@ to held there, definitely going to be iconic</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/about-us/news-and-publications/press-releases/17102023-HDB-Unveils-Masterplan-for-Bayshore-Estate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bayshore Redevelopment East Coast Plan" src="/images/download.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bayshore Development</div><div class="isomer-card-description">This is the hottest topic in town for all our young couples!</div><div class="isomer-card-link">Read about Bayshore redevelopment.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/hdb-pulse/news/2023/hdb-unveils-masterplan-for-bayshore-estate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bayshore Redevelopment East Coast Plan" src="/images/download.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bayshore Development</div><div class="isomer-card-description">The project reshapes the urban fabric of Singapore, moving towards a more transit-oriented and sustainable living environment for East Coast residents.</div><div class="isomer-card-link">Read about Bayshore redevelopment.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OurEastCoastBuzz/videos/316434954784764" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

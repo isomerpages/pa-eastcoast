@@ -1,6 +1,6 @@
 ---
-title: Siglap Home
-permalink: /siglap-home/
+title: Joo Chiat Home
+permalink: /joochiat-home/
 variant: tiptap
 description: ""
 ---
