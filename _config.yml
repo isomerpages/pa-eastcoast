@@ -1,6 +1,6 @@
 title: East Side, Best Side.
 url: https://eastcoast.pa.gov.sg
-favicon: /images/East_Coast_Buzz_logo__1_.png
+favicon: /images/EC_IG_New_Format___78.png
 colors:
   primary-color: "#f0bc42"
   secondary-color: "#9b9b9b"
@@ -15,7 +15,7 @@ colors:
       color: "#9b9b9b"
     - title: media-color-five
       color: "#f0bc42"
-description: Official Website of East Coast GRC
+description: Official Website of East Coast.
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2thuhgvaz74co.amplifyapp.com
 prod: https://master.d2thuhgvaz74co.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/pa_ec_logos_updated.png
+shareicon: /images/EC_IG_New_Format___78.png
 is_government: false
 google_analytics_ga4: G-FGSDXE4JTF
 linkedin-insights: ""
