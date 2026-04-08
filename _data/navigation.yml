@@ -65,16 +65,16 @@ links:
         url: /kcc-whatsup
       - title: Contact us
         url: /kcc-contactus
-  - title: Joo Chiat
-    url: /joochiat-home
+  - title: SIglap
+    url: /siglap-home
     sublinks:
       - title: About us
-        url: /joochiat-home
+        url: /siglap-home
       - title: Highlights
-        url: /joochiat-highlights
+        url: /siglap-highlights
       - title: What's up
-        url: /joochiat-whatsup
+        url: /siglap-whatsup
       - title: Contact us
-        url: /joochiat-contactus
+        url: /siglap-contactus
   - title: Contact us
     url: /contact-us
