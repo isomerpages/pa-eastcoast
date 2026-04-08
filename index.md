@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: East Side, Best Side.
-description: Official Website of East Coast GRC
-image: /images/pa_ec_logos_updated.png
+description: Official Website of East Coast.
+image: /images/EC_IG_New_Format___78.png
 permalink: /
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
